@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T14:52:36.481296+00:00",
+ "updated": "2026-11-24T15:58:27.744021+00:00",
  "settings": {
   "app_name": "Oopsie",
   "language": "en",
@@ -175,7 +175,7 @@
    "snippet": "900kr - ellos Ellos har smygstartat Black Week med 20–70 % rabatt på tiotusentals varor inom dam, herr, barn, hem & inredning, skönhet samt sport & outdoor. Ingen ...",
    "currency_code": "SEK",
    "saving": 3385.71,
-   "saving_eur": 301.29,
+   "saving_eur": 301.73,
    "first_seen": "2026-11-24T10:22:14.450034+00:00",
    "alerted": false
   },
@@ -205,6 +205,34 @@
    "saving": 90.3,
    "saving_eur": 90.3,
    "first_seen": "2026-11-24T14:52:36.481296+00:00",
+   "alerted": false
+  },
+  {
+   "id": "https://www.chollometro.com/ofertas/seleccion-cazachollos-amazon-segunda-mano-19-descuentos-del-79-al-40-como-nuevo-y-muy-bueno-2087845",
+   "title": "Selección Cazachollos Amazon Segunda Mano 19 (Descuentos del 79% al 40% · Como Nuevo y Muy Bueno)",
+   "link": "https://www.chollometro.com/ofertas/seleccion-cazachollos-amazon-segunda-mano-19-descuentos-del-79-al-40-como-nuevo-y-muy-bueno-2087845",
+   "price": "",
+   "currency": "€",
+   "merchant": "Amazon",
+   "image": "https://static.chollometro.com/threads/raw/TDXQv/2087845_1/re/150x150/qt/55/2087845_1.jpg",
+   "category": "Hogar, vivienda y oficina",
+   "source": "Chollometro",
+   "country": "Spain",
+   "temperature": 213,
+   "discount": 79,
+   "price_value": null,
+   "was_price": null,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "79% off"
+   ],
+   "posted": "2026-11-24T14:54:06+00:00",
+   "snippet": "Amazon ¡Nueva entrega #19 de nuestra selección diaria de Amazon Segunda Mano (Reacondicionados) con rebajas desde el -79% hasta el -40%! Guía rápida de comp...",
+   "currency_code": "EUR",
+   "saving": null,
+   "saving_eur": null,
+   "first_seen": "2026-11-24T15:58:27.744021+00:00",
    "alerted": false
   },
   {
@@ -470,7 +498,7 @@
    "category": "Mat & Livsmedel",
    "source": "Pepper Sweden",
    "country": "Sweden",
-   "temperature": 117,
+   "temperature": 134,
    "discount": 70,
    "price_value": null,
    "was_price": null,
