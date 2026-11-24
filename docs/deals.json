@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T22:12:32.887073+00:00",
+ "updated": "2026-11-24T23:10:29.026331+00:00",
  "settings": {
   "app_name": "Oopsie",
   "language": "en",
@@ -233,6 +233,34 @@
    "saving": 90.3,
    "saving_eur": 90.3,
    "first_seen": "2026-11-24T14:52:36.481296+00:00",
+   "alerted": false
+  },
+  {
+   "id": "https://www.hotukdeals.com/deals/south-park-kyle-cosplay-mini-backpack-5045978",
+   "title": "South Park Kyle Cosplay Mini Backpack",
+   "link": "https://www.hotukdeals.com/deals/south-park-kyle-cosplay-mini-backpack-5045978",
+   "price": "£24",
+   "currency": "£",
+   "merchant": "Loungefly",
+   "image": "https://images.hotukdeals.com/threads/raw/kPRkk/5045978_1/re/150x150/qt/55/5045978_1.jpg",
+   "category": "Fashion & Accessories",
+   "source": "HotUKDeals",
+   "country": "UK",
+   "temperature": null,
+   "discount": 70,
+   "price_value": 24.0,
+   "was_price": 80.0,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "70% off"
+   ],
+   "posted": "2026-11-24T22:11:38+00:00",
+   "snippet": "£24 - Loungefly Bargain 70% off for South Park Fans. Show off one of your favorite characters from the show in style! Kyle is brought to life in applique and embroidered detail. He wears his green hat, green gloves, and ",
+   "currency_code": "GBP",
+   "saving": 56.0,
+   "saving_eur": 66.91,
+   "first_seen": "2026-11-24T23:10:29.026331+00:00",
    "alerted": false
   },
   {
