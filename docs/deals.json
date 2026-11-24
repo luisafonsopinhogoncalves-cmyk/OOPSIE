@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T19:12:10.818520+00:00",
+ "updated": "2026-11-24T20:14:48.217905+00:00",
  "settings": {
   "app_name": "Oopsie",
   "language": "en",
@@ -205,6 +205,34 @@
    "saving": 90.3,
    "saving_eur": 90.3,
    "first_seen": "2026-11-24T14:52:36.481296+00:00",
+   "alerted": false
+  },
+  {
+   "id": "https://www.preisjaeger.at/deals/steam-need-for-speed-spiele-reduziert-373331",
+   "title": "[Steam] Need for Speed Spiele reduziert",
+   "link": "https://www.preisjaeger.at/deals/steam-need-for-speed-spiele-reduziert-373331",
+   "price": "6,99€",
+   "currency": "€",
+   "merchant": "Steam",
+   "image": "https://static.preisjaeger.at/threads/raw/cFjQY/373331_1/re/150x150/qt/55/373331_1.jpg",
+   "category": "Gaming",
+   "source": "Preisjaeger",
+   "country": "Austria",
+   "temperature": null,
+   "discount": 95,
+   "price_value": 6.99,
+   "was_price": 69.99,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "95% off"
+   ],
+   "posted": "2026-11-24T19:48:00+00:00",
+   "snippet": "6,99€ - Steam Auf Steam gibt es aktuell Spiele von der Need for Speed Reihe reduziert: NfS Unbound (2022) | 6,99€ statt 69,99€ (-90%) NfS Hot Pursuit Remastered (2020) | 4,99€ statt 29,99€ (-85%) NfS Heat (2019) | 3,49€ ",
+   "currency_code": "EUR",
+   "saving": 63.0,
+   "saving_eur": 63.0,
+   "first_seen": "2026-11-24T20:14:48.217905+00:00",
    "alerted": false
   },
   {
