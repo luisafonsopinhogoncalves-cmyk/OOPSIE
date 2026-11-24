@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T11:20:55.692623+00:00",
+ "updated": "2026-11-24T12:26:55.936923+00:00",
  "settings": {
   "app_name": "Oopsie",
   "language": "en",
@@ -77,7 +77,7 @@
    "category": "Tuin & Doe-het-zelf",
    "source": "Pepper NL",
    "country": "Netherlands",
-   "temperature": 505,
+   "temperature": 644,
    "discount": 100,
    "price_value": 0.01,
    "was_price": 699.0,
@@ -85,7 +85,7 @@
    "watchlist": false,
    "reasons": [
     "mentions \"prijsfout\"",
-    "505° hot"
+    "644° hot"
    ],
    "posted": "2026-11-24T10:55:40+00:00",
    "snippet": "€0,01 - Praxis Informatiehuisje Met massief houten vloer Afsluitbaar Paneeldeuren voorzien van echt glas",
@@ -190,7 +190,7 @@
    "category": "Mode & Accessoires",
    "source": "Pepper NL",
    "country": "Netherlands",
-   "temperature": 243,
+   "temperature": 263,
    "discount": 70,
    "price_value": null,
    "was_price": null,
