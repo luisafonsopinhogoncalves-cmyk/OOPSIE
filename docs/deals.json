@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T18:02:13.595874+00:00",
+ "updated": "2026-11-24T19:12:10.818520+00:00",
  "settings": {
   "app_name": "Oopsie",
   "language": "en",
@@ -21,7 +21,7 @@
    "category": "Auto & Motorrad",
    "source": "mydealz",
    "country": "Germany",
-   "temperature": null,
+   "temperature": 142,
    "discount": 80,
    "price_value": 35161.0,
    "was_price": 175805.0,
@@ -30,8 +30,8 @@
    "reasons": [
     "80% off"
    ],
-   "posted": "2026-11-24T09:58:11+00:00",
-   "snippet": "35.161€ Bei ReStart Auto konnte ich den aktuell besten Preis für das Facelift vom Renault Scenic E-Tech mit dem neuen 67kWh LFP Akku ausmachen. Das obligatorische Winter-Komfort-Paket für hier 490€ fehlt allerdings noch.",
+   "posted": "2026-11-24T18:21:31+00:00",
+   "snippet": "35.161€ Bei ReStart Auto konnte ich den aktuell besten Preis für das Facelift vom Renault Scenic E-Tech mit dem neuen 67kWh LFP Akku ausmachen. Das obligatoris...",
    "currency_code": "EUR",
    "saving": 140644.0,
    "saving_eur": 140644.0,
@@ -205,6 +205,62 @@
    "saving": 90.3,
    "saving_eur": 90.3,
    "first_seen": "2026-11-24T14:52:36.481296+00:00",
+   "alerted": false
+  },
+  {
+   "id": "https://nl.pepper.com/aanbiedingen/g-star-outlet-damesjeans-tot-80-korting-25-extra-met-code-429058",
+   "title": "G-Star Outlet damesjeans tot 80% korting + 25% extra met code",
+   "link": "https://nl.pepper.com/aanbiedingen/g-star-outlet-damesjeans-tot-80-korting-25-extra-met-code-429058",
+   "price": "",
+   "currency": "€",
+   "merchant": "G-Star Outlet",
+   "image": "https://static.pepper.com/threads/raw/3D45x/429058_1/re/150x150/qt/55/429058_1.jpg",
+   "category": "Mode & Accessoires",
+   "source": "Pepper NL",
+   "country": "Netherlands",
+   "temperature": null,
+   "discount": 80,
+   "price_value": null,
+   "was_price": null,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "80% off"
+   ],
+   "posted": "2026-11-24T19:02:00+00:00",
+   "snippet": "G-Star Outlet Bij de G-Star Outlet zijn veel damesjeans tijdens Black Friday tot 80% afgeprijsd. Met code AFF25-BFPEPPEROUTLET gaat er bij het afrekenen nog eens 25% vanaf. Er zijn bootcut-, loose- en barrelmodellen, de ",
+   "currency_code": "EUR",
+   "saving": null,
+   "saving_eur": null,
+   "first_seen": "2026-11-24T19:12:10.818520+00:00",
+   "alerted": false
+  },
+  {
+   "id": "https://nl.pepper.com/aanbiedingen/carhartt-wip-sale-tot-75-korting-oa-michigan-jacket-429066",
+   "title": "Carhartt WIP sale tot 75% korting (o.a. Michigan Jacket)",
+   "link": "https://nl.pepper.com/aanbiedingen/carhartt-wip-sale-tot-75-korting-oa-michigan-jacket-429066",
+   "price": "",
+   "currency": "€",
+   "merchant": "Lounge by Zalando",
+   "image": "https://static.pepper.com/threads/raw/naTdm/429066_1/re/150x150/qt/55/429066_1.jpg",
+   "category": "Mode & Accessoires",
+   "source": "Pepper NL",
+   "country": "Netherlands",
+   "temperature": null,
+   "discount": 75,
+   "price_value": null,
+   "was_price": null,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "75% off"
+   ],
+   "posted": "2026-11-24T18:02:00+00:00",
+   "snippet": "Lounge by Zalando Bij Lounge by Zalando loopt tijdelijk een grote Carhartt WIP-sale met meer dan 750 artikelen en tot 75% korting. Je vindt er onder andere de klassieke Michigan-jas, joggingbroeken, jeans, petten en tass",
+   "currency_code": "EUR",
+   "saving": null,
+   "saving_eur": null,
+   "first_seen": "2026-11-24T19:12:10.818520+00:00",
    "alerted": false
   },
   {
