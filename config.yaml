@@ -1,0 +1,171 @@
+# ============================================================
+#  OOPSIE - your settings
+#  Change anything here, save, and the next run uses it.
+# ============================================================
+
+# --- Which sites to watch -----------------------------------
+# Set "enabled: false" to switch a site off.
+# You can add any other RSS feed in the same format.
+sources:
+  - name: HotUKDeals
+    country: UK
+    currency: "£"
+    enabled: true
+    feeds:
+      - https://www.hotukdeals.com/rss/new
+      - https://www.hotukdeals.com/rss/hot
+
+  - name: mydealz
+    country: Germany
+    currency: "€"
+    enabled: true
+    feeds:
+      - https://www.mydealz.de/rss/new
+      - https://www.mydealz.de/rss/hot
+
+  - name: Dealabs
+    country: France
+    currency: "€"
+    enabled: true
+    feeds:
+      - https://www.dealabs.com/rss/new
+      - https://www.dealabs.com/rss/hot
+
+  - name: Chollometro
+    country: Spain
+    currency: "€"
+    enabled: true
+    feeds:
+      - https://www.chollometro.com/rss/new
+      - https://www.chollometro.com/rss/hot
+
+  - name: Pepper Italia
+    country: Italy
+    currency: "€"
+    enabled: true
+    feeds:
+      - https://www.pepper.it/rss/new
+      - https://www.pepper.it/rss/hot
+
+  - name: Pepper NL
+    country: Netherlands
+    currency: "€"
+    enabled: true
+    feeds:
+      - https://nl.pepper.com/rss/new
+      - https://nl.pepper.com/rss/hot
+
+  - name: Pepper PL
+    country: Poland
+    currency: "zł"
+    enabled: true
+    feeds:
+      - https://www.pepper.pl/rss/new
+      - https://www.pepper.pl/rss/hot
+
+  - name: Preisjaeger
+    country: Austria
+    currency: "€"
+    enabled: true
+    feeds:
+      - https://www.preisjaeger.at/rss/new
+      - https://www.preisjaeger.at/rss/hot
+
+  - name: Pepper Sweden
+    country: Sweden
+    currency: "kr"
+    enabled: true
+    feeds:
+      - https://www.pepperdeals.se/rss/new
+      - https://www.pepperdeals.se/rss/hot
+
+  - name: Preispirat
+    country: Switzerland
+    currency: "CHF"
+    enabled: true
+    feeds:
+      - https://www.preispirat.ch/feed/
+
+# --- Look of your dashboard --------------------------------
+app_name: Oopsie
+# Default language when the page opens: en (English) or pt (Português de Portugal).
+# You can also switch on the page itself.
+dashboard_language: en
+
+# --- Minimum saving ------------------------------------------
+# Hide deals that save less than this (in euros, other currencies converted).
+min_saving_eur: 50
+# Deals where the original price can't be found: true = still show them
+# (at the bottom, marked "saving unknown"), false = hide them.
+show_unknown_saving: true
+
+# --- What counts as a price error ---------------------------
+# Words that people use when they post a pricing mistake.
+# Add your own in any language.
+error_keywords:
+  - price error
+  - pricing error
+  - price glitch
+  - price mistake
+  - glitch
+  - misprice
+  - mispriced
+  - preisfehler
+  - preis fehler
+  - fehlerpreis
+  - erreur de prix
+  - prix erreur
+  - bug de prix
+  - error de precio
+  - precio error
+  - errore di prezzo
+  - errore prezzo
+  - prijsfout
+  - błąd cenowy
+  - blad cenowy
+
+# A deal with at least this % off (when the title shows it) is flagged too.
+min_discount_percent: 70
+
+# Deals with this "temperature" or more on Pepper sites get a small bonus.
+hot_temperature: 300
+
+# Only show deals with a score at or above this (0-100).
+# 60 = only clear price errors. Lower it (e.g. 30) to see more.
+min_score: 30
+
+# --- Your personal watchlist ---------------------------------
+# Always show deals that mention these words, even if they are
+# not price errors. Leave max_price empty to accept any price.
+# Example:
+#   - keyword: macbook
+#     max_price: 600
+watchlist: []
+
+# Words that hide a deal completely (e.g. things you never buy).
+block_keywords:
+  - freebie
+  - competition
+  - prize draw
+
+# --- Phone alerts --------------------------------------------
+# Uses ntfy (free app for iPhone and Android, no account needed).
+# 1. Install the ntfy app
+# 2. Subscribe to a topic with a long secret name, e.g. ksyusha-radar-8f3k2
+# 3. Put the same name below
+alerts:
+  enabled: true
+  ntfy_topic: CHANGE-ME-to-a-secret-name
+  # Only send a push for deals with this score or higher
+  # 70 = only very likely errors, 45 = every possible error
+  min_score: 70
+
+# --- Savings in money ---------------------------------------
+# Feeds don't include the original price, so the app looks for it in
+# the post text, and if needed opens the deal page. This caps how many
+# pages it opens per run (keeps it fast and polite).
+max_page_checks: 25
+
+# --- Storage --------------------------------------------------
+# How many days a deal stays on the dashboard
+keep_days: 3

@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Oopsie</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0e0f12; --panel: #17191e; --line: #262932; --text: #eceef2; --muted: #8b90a0;
+    --hot: #ff4d3d; --warm: #ffb020; --cool: #3dd6a0; --accent: #ff4d3d;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text); font: 15px/1.45 Inter, system-ui, sans-serif; }
+  header { padding: 28px 20px 12px; max-width: 1200px; margin: 0 auto; }
+  h1 { font: 700 28px/1 "Space Grotesk", sans-serif; margin: 0; letter-spacing: -0.5px; display: flex; align-items: center; gap: 10px; }
+  .pulse { width: 12px; height: 12px; border-radius: 50%; background: var(--hot); box-shadow: 0 0 0 0 rgba(255,77,61,.6); animation: pulse 2s infinite; }
+  @keyframes pulse { 70% { box-shadow: 0 0 0 12px rgba(255,77,61,0); } 100% { box-shadow: 0 0 0 0 rgba(255,77,61,0); } }
+  .sub { color: var(--muted); margin-top: 8px; font-size: 13px; }
+  .stats { display: flex; gap: 10px; margin-top: 18px; flex-wrap: wrap; }
+  .stat { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 10px 14px; min-width: 120px; }
+  .stat b { display: block; font: 700 22px "Space Grotesk", sans-serif; }
+  .stat span { color: var(--muted); font-size: 12px; }
+  .controls { position: sticky; top: 0; z-index: 5; background: rgba(14,15,18,.92); backdrop-filter: blur(8px); border-bottom: 1px solid var(--line); }
+  .controls-inner { max-width: 1200px; margin: 0 auto; padding: 12px 20px; display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+  input[type=search], select { background: var(--panel); border: 1px solid var(--line); color: var(--text); border-radius: 10px; padding: 9px 12px; font: inherit; }
+  input[type=search] { flex: 1 1 220px; }
+  .chip { background: var(--panel); border: 1px solid var(--line); color: var(--muted); border-radius: 999px; padding: 7px 12px; cursor: pointer; font: 500 13px Inter, sans-serif; user-select: none; }
+  .chip.on { background: var(--text); color: var(--bg); border-color: var(--text); }
+  main { max-width: 1200px; margin: 0 auto; padding: 18px 20px 60px; display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 14px; }
+  .card { background: var(--panel); border: 1px solid var(--line); border-radius: 14px; overflow: hidden; display: flex; flex-direction: column; text-decoration: none; color: inherit; transition: transform .12s, border-color .12s; }
+  .card:hover { transform: translateY(-2px); border-color: #3a3e4a; }
+  .img { height: 150px; background: #fff center/contain no-repeat; position: relative; }
+  .img.none { background: #20232a; display: grid; place-items: center; color: var(--muted); font-size: 12px; }
+  .score { position: absolute; top: 10px; left: 10px; font: 700 12px "Space Grotesk", sans-serif; padding: 4px 9px; border-radius: 999px; color: #fff; }
+  .s-hot { background: var(--hot); } .s-warm { background: var(--warm); color: #111; } .s-cool { background: var(--cool); color: #111; }
+  .new { position: absolute; top: 10px; right: 10px; background: #111; color: #fff; font: 600 11px Inter; padding: 4px 8px; border-radius: 999px; }
+  .body { padding: 12px 14px 14px; display: flex; flex-direction: column; gap: 8px; flex: 1; }
+  .title { font-weight: 600; font-size: 14.5px; }
+  .price { font: 700 20px "Space Grotesk", sans-serif; }
+  .was { color: var(--muted); font: 500 14px Inter, sans-serif; margin-left: 6px; }
+  .save { color: var(--cool); font-weight: 600; font-size: 13.5px; }
+  .meta { color: var(--muted); font-size: 12.5px; display: flex; gap: 6px; flex-wrap: wrap; }
+  .reasons { display: flex; gap: 5px; flex-wrap: wrap; margin-top: auto; }
+  .reason { font-size: 11.5px; background: #22252d; border-radius: 6px; padding: 3px 7px; color: #c9ccd6; }
+  .empty { grid-column: 1/-1; text-align: center; color: var(--muted); padding: 60px 0; }
+  .warn { max-width: 1200px; margin: 0 auto; padding: 0 20px; color: var(--warm); font-size: 12.5px; }
+  .lang { margin-left: auto; display: flex; gap: 4px; }
+  .lang .chip { padding: 6px 10px; }
+  .unknown { color: var(--muted); font-size: 12.5px; }
+  footer { text-align: center; color: var(--muted); font-size: 12px; padding: 0 20px 30px; }
+</style>
+</head>
+<body>
+<header>
+  <h1><span class="pulse"></span><span id="appname">Oopsie</span>
+    <span class="lang"><span class="chip" data-lang="en">EN</span><span class="chip" data-lang="pt">PT</span></span></h1>
+  <div class="sub" id="updated"></div>
+  <div class="stats">
+    <div class="stat"><b id="st-total">–</b><span data-t="statTotal"></span></div>
+    <div class="stat"><b id="st-errors">–</b><span data-t="statErrors"></span></div>
+    <div class="stat"><b id="st-new">–</b><span data-t="statNew"></span></div>
+    <div class="stat"><b id="st-save">–</b><span data-t="statSave"></span></div>
+  </div>
+</header>
+
+<div class="controls"><div class="controls-inner">
+  <input type="search" id="q">
+  <span class="chip" data-f="errors" data-t="errorsOnly"></span>
+  <span class="chip" data-f="watch" data-t="watchlist"></span>
+  <span id="countries"></span>
+  <select id="sort">
+    <option value="saving" data-t="sortSaving"></option>
+    <option value="new" data-t="sortNew"></option>
+    <option value="score" data-t="sortScore"></option>
+    <option value="hot" data-t="sortHot"></option>
+  </select>
+</div></div>
+
+<div class="warn" id="warn"></div>
+<main id="grid"></main>
+<footer data-t="footer"></footer>
+
+<script>
+const DATA_URL = "deals.json";
+const REFRESH_MIN = 5;
+
+const T = {
+  en: {
+    loading: "Loading…", waiting: "Waiting for the first check to run…",
+    lastCheck: (a, m) => `Last check ${a} · refreshes every ${m} min`,
+    failed: "Couldn't load deals yet. The first check may still be running.",
+    feedErrors: n => `${n} site feed(s) could not be read on the last check.`,
+    statTotal: "deals on radar", statErrors: "likely price errors", statNew: "new in last hour", statSave: "biggest saving",
+    search: "Search products, shops…", errorsOnly: "🚨 Errors only", watchlist: "⭐ Watchlist",
+    sortSaving: "Biggest saving (€)", sortNew: "Newest first", sortScore: "Highest score", sortHot: "Hottest (°)",
+    save: "Save", off: "off", unknown: "Saving unknown", isNew: "NEW", noImage: "no image",
+    empty: "Nothing matches right now. Try fewer filters.",
+    footer: "Shops often cancel orders placed at an error price. Act fast, but don't count on it until it ships.",
+    now: "just now", min: m => `${m} min ago`, h: h => `${h} h ago`, d: d => `${d} d ago`,
+    reasons: r => r,
+    country: c => c,
+  },
+  pt: {
+    loading: "A carregar…", waiting: "À espera da primeira verificação…",
+    lastCheck: (a, m) => `Última verificação ${a} · atualiza a cada ${m} min`,
+    failed: "Ainda não foi possível carregar as promoções. A primeira verificação pode estar a decorrer.",
+    feedErrors: n => `Não foi possível ler ${n} site(s) na última verificação.`,
+    statTotal: "promoções no radar", statErrors: "prováveis erros de preço", statNew: "novas na última hora", statSave: "maior poupança",
+    search: "Pesquisar produtos, lojas…", errorsOnly: "🚨 Só erros", watchlist: "⭐ Favoritos",
+    sortSaving: "Maior poupança (€)", sortNew: "Mais recentes", sortScore: "Pontuação mais alta", sortHot: "Mais populares (°)",
+    save: "Poupas", off: "de desconto", unknown: "Poupança desconhecida", isNew: "NOVO", noImage: "sem imagem",
+    empty: "Nada corresponde aos filtros. Experimenta tirar alguns.",
+    footer: "As lojas cancelam muitas vezes encomendas feitas a um preço errado. Sê rápida, mas só contes com ela quando for enviada.",
+    now: "agora mesmo", min: m => `há ${m} min`, h: h => `há ${h} h`, d: d => `há ${d} dias`,
+    reasons: r => r
+      .replace(/^mentions /, "menciona ")
+      .replace(/^(\d+)% off$/, "$1% de desconto")
+      .replace(/^(-?\d+)° hot$/, "$1° em alta")
+      .replace(/^watchlist: /, "favoritos: "),
+    country: c => ({ UK: "Reino Unido", Germany: "Alemanha", France: "França", Spain: "Espanha", Italy: "Itália",
+      Netherlands: "Países Baixos", Poland: "Polónia", Austria: "Áustria", Sweden: "Suécia", Switzerland: "Suíça" }[c] || c),
+  },
+};
+
+let all = [], meta = {}, settings = {};
+let state = { errors: false, watch: false, countries: [], q: "", sort: "saving", lang: null };
+try { Object.assign(state, JSON.parse(localStorage.getItem("radar-filters") || "{}")); } catch (e) {}
+const save = () => { try { localStorage.setItem("radar-filters", JSON.stringify(state)); } catch (e) {} };
+const L = () => T[state.lang || settings.language] || T.en;
+
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const ago = iso => {
+  const t = L(), m = Math.round((Date.now() - new Date(iso)) / 60000);
+  if (m < 1) return t.now; if (m < 60) return t.min(m);
+  const h = Math.round(m / 60); return h < 24 ? t.h(h) : t.d(Math.round(h / 24));
+};
+const fmt = (n, cur) => {
+  const v = Number(n).toLocaleString(state.lang === "pt" ? "pt-PT" : "en-GB", { maximumFractionDigits: 2 });
+  return cur === "€" || cur === "zł" || cur === "kr" ? v + " " + cur : cur + v;
+};
+const isNew = d => Date.now() - new Date(d.first_seen) < 3600e3;
+
+function applyLang() {
+  const t = L();
+  document.documentElement.lang = (state.lang || settings.language) === "pt" ? "pt-PT" : "en";
+  document.querySelectorAll("[data-t]").forEach(el => el.textContent = t[el.dataset.t]);
+  document.getElementById("q").placeholder = t.search;
+  document.querySelectorAll("[data-lang]").forEach(el => el.classList.toggle("on", el.dataset.lang === (state.lang || settings.language || "en")));
+  updateHeader();
+}
+
+function updateHeader() {
+  const t = L();
+  document.getElementById("updated").textContent = !meta.loaded ? t.loading
+    : meta.failed ? t.failed
+    : !meta.updated ? t.waiting : t.lastCheck(ago(meta.updated), REFRESH_MIN);
+  document.getElementById("warn").textContent = (meta.errors || []).length ? t.feedErrors(meta.errors.length) : "";
+}
+
+async function load() {
+  try {
+    const r = await fetch(DATA_URL + "?t=" + Date.now(), { cache: "no-store" });
+    const data = await r.json();
+    all = data.deals || [];
+    settings = data.settings || {};
+    meta = { loaded: true, updated: data.updated, errors: data.errors };
+    if (settings.app_name) { document.getElementById("appname").textContent = settings.app_name; document.title = settings.app_name; }
+  } catch (e) {
+    meta = { loaded: true, failed: true };
+  }
+  applyLang(); buildCountries(); render();
+}
+
+function buildCountries() {
+  const box = document.getElementById("countries"), t = L();
+  const list = [...new Set(all.map(d => d.country))].sort();
+  box.innerHTML = list.map(c =>
+    `<span class="chip ${state.countries.includes(c) ? "on" : ""}" data-c="${esc(c)}">${esc(t.country(c))}</span>`).join(" ");
+  box.querySelectorAll("[data-c]").forEach(el => el.onclick = () => {
+    const c = el.dataset.c;
+    state.countries = state.countries.includes(c) ? state.countries.filter(x => x !== c) : [...state.countries, c];
+    save(); buildCountries(); render();
+  });
+}
+
+function render() {
+  const t = L(), q = state.q.toLowerCase();
+  let list = all.filter(d =>
+    (!state.errors || d.score >= 60) &&
+    (!state.watch || d.watchlist) &&
+    (!state.countries.length || state.countries.includes(d.country)) &&
+    (!q || `${d.title} ${d.merchant} ${d.category} ${d.source}`.toLowerCase().includes(q)));
+  const sorts = {
+    saving: (a, b) => (b.saving_eur ?? -1) - (a.saving_eur ?? -1) || new Date(b.first_seen) - new Date(a.first_seen),
+    new: (a, b) => new Date(b.first_seen) - new Date(a.first_seen),
+    score: (a, b) => b.score - a.score || new Date(b.first_seen) - new Date(a.first_seen),
+    hot: (a, b) => (b.temperature ?? -999) - (a.temperature ?? -999),
+  };
+  list.sort(sorts[state.sort] || sorts.saving);
+
+  document.getElementById("st-total").textContent = all.length;
+  document.getElementById("st-errors").textContent = all.filter(d => d.score >= 60).length;
+  document.getElementById("st-new").textContent = all.filter(isNew).length;
+  const top = Math.max(0, ...all.map(d => d.saving_eur || 0));
+  document.getElementById("st-save").textContent = top ? "€" + Math.round(top).toLocaleString() : "–";
+
+  const grid = document.getElementById("grid");
+  if (!list.length) { grid.innerHTML = `<div class="empty">${esc(t.empty)}</div>`; return; }
+  grid.innerHTML = list.map(d => {
+    const cls = d.score >= 70 ? "s-hot" : d.score >= 45 ? "s-warm" : "s-cool";
+    const img = d.image
+      ? `<div class="img" style="background-image:url('${esc(d.image)}')">`
+      : `<div class="img none">${esc(t.noImage)}`;
+    const saving = d.saving_eur
+      ? `<div class="save">${esc(t.save)} ${esc(fmt(d.saving, d.currency))}${d.currency_code !== "EUR" ? ` (≈ €${Math.round(d.saving_eur).toLocaleString()})` : ""}${d.discount ? ` · ${d.discount}% ${esc(t.off)}` : ""}</div>`
+      : `<div class="unknown">${esc(t.unknown)}</div>`;
+    return `<a class="card" href="${esc(d.link)}" target="_blank" rel="noopener">
+      ${img}<span class="score ${cls}">${d.score}</span>${isNew(d) ? `<span class="new">${esc(t.isNew)}</span>` : ""}</div>
+      <div class="body">
+        <div class="title">${esc(d.title)}</div>
+        ${d.price ? `<div class="price">${esc(d.price)}${d.was_price ? ` <s class="was">${esc(fmt(d.was_price, d.currency))}</s>` : ""}</div>` : ""}
+        ${saving}
+        <div class="meta">
+          <span>${esc(d.merchant || d.source)}</span>·<span>${esc(t.country(d.country))}</span>·<span>${ago(d.first_seen)}</span>
+          ${d.temperature != null ? `·<span>${d.temperature}°</span>` : ""}
+        </div>
+        <div class="reasons">${(d.reasons || []).map(r => `<span class="reason">${esc(t.reasons(r))}</span>`).join("")}</div>
+      </div></a>`;
+  }).join("");
+}
+
+document.querySelectorAll("[data-f]").forEach(el => {
+  el.classList.toggle("on", !!state[el.dataset.f]);
+  el.onclick = () => { state[el.dataset.f] = !state[el.dataset.f]; el.classList.toggle("on"); save(); render(); };
+});
+document.querySelectorAll("[data-lang]").forEach(el => el.onclick = () => {
+  state.lang = el.dataset.lang; save(); applyLang(); buildCountries(); render();
+});
+const qEl = document.getElementById("q"), sEl = document.getElementById("sort");
+qEl.value = state.q; sEl.value = state.sort;
+qEl.oninput = () => { state.q = qEl.value; save(); render(); };
+sEl.onchange = () => { state.sort = sEl.value; save(); render(); };
+
+applyLang();
+load();
+setInterval(load, REFRESH_MIN * 60000);
+</script>
+</body>
+</html>
