@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T12:26:55.936923+00:00",
+ "updated": "2026-11-24T13:49:03.335667+00:00",
  "settings": {
   "app_name": "Oopsie",
   "language": "en",
@@ -64,6 +64,34 @@
    "saving": 47760.0,
    "saving_eur": 4250.06,
    "first_seen": "2026-11-24T10:22:14.450034+00:00",
+   "alerted": false
+  },
+  {
+   "id": "https://www.mydealz.de/deals/2490-rabatt-auf-viele-black-friday-angebote-zb-string-furniture-kartell-etc-2880603",
+   "title": "24,90% Rabatt (vom UVP) auf viele Black Friday Angebote (z.b. String Furniture, Kartell etc.)",
+   "link": "https://www.mydealz.de/deals/2490-rabatt-auf-viele-black-friday-angebote-zb-string-furniture-kartell-etc-2880603",
+   "price": "137,82€",
+   "currency": "€",
+   "merchant": "Ambiente Direct",
+   "image": "https://static.mydealz.de/threads/raw/3F42m/2880603_1/re/150x150/qt/55/2880603_1.jpg",
+   "category": "Home & Living",
+   "source": "mydealz",
+   "country": "Germany",
+   "temperature": null,
+   "discount": 90,
+   "price_value": 137.82,
+   "was_price": 1378.2,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "90% off"
+   ],
+   "posted": "2026-11-24T13:18:01+00:00",
+   "snippet": "137,82€ - Ambiente Direct Aktuell lassen sich auf den einschlägigen Designermöbel-Seiten immer bis zu 15% Rabatt vom UVP generieren. Auf der Suche nach String Furniture Einzelteilen bin ich dann aber über meinen Corporat",
+   "currency_code": "EUR",
+   "saving": 1240.38,
+   "saving_eur": 1240.38,
+   "first_seen": "2026-11-24T13:49:03.335667+00:00",
    "alerted": false
   },
   {
@@ -152,6 +180,62 @@
    "alerted": false
   },
   {
+   "id": "https://www.chollometro.com/ofertas/hasta-70-descuento-productos-mr-wonderful-2087892",
+   "title": "Hasta 70% descuento productos Mr Wonderful",
+   "link": "https://www.chollometro.com/ofertas/hasta-70-descuento-productos-mr-wonderful-2087892",
+   "price": "",
+   "currency": "€",
+   "merchant": "Casa del Libro",
+   "image": "https://static.chollometro.com/threads/raw/uWDjo/2087892_1/re/150x150/qt/55/2087892_1.jpg",
+   "category": "Moda y accesorios",
+   "source": "Chollometro",
+   "country": "Spain",
+   "temperature": null,
+   "discount": 70,
+   "price_value": null,
+   "was_price": null,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "70% off"
+   ],
+   "posted": "2026-11-24T13:46:07+00:00",
+   "snippet": "Casa del Libro Desde la casa del libro bolsa de tela tote bag - mil y un sitios para disfrutar — 5.08 € (antes 16.95 € ) · −70% fabric tote bag - self-love is your superpower — 5.08 € (antes 16.95 € ) · −70% mr. wonderfu",
+   "currency_code": "EUR",
+   "saving": null,
+   "saving_eur": null,
+   "first_seen": "2026-11-24T13:49:03.335667+00:00",
+   "alerted": false
+  },
+  {
+   "id": "https://www.preispirat.ch/?p=485790",
+   "title": "In eigener Sache - Die besten Deals & Preisfehler auf WhatsApp erhalten!",
+   "link": "https://www.preispirat.ch/in-eigener-sache-die-besten-deals-preisfehler-neu-auf-whatsapp-erhalten/",
+   "price": "",
+   "currency": "CHF",
+   "merchant": "",
+   "image": "",
+   "category": "Verschiedenes",
+   "source": "Preispirat",
+   "country": "Switzerland",
+   "temperature": null,
+   "discount": null,
+   "price_value": null,
+   "was_price": null,
+   "score": 70,
+   "watchlist": false,
+   "reasons": [
+    "mentions \"preisfehler\""
+   ],
+   "posted": "2026-11-24T12:30:58+00:00",
+   "snippet": "Liebe Piraten! Vor längerer Zeit hat WhatsApp die weitreichendere Nutzung von Preispirat-Gruppen unterbunden, nun gibt es ein neues Feature! Dabei gibt es jetzt verschiedene Kanäle. So findet ihr neu die beliebtesten Ang",
+   "currency_code": "CHF",
+   "saving": null,
+   "saving_eur": null,
+   "first_seen": "2026-11-24T13:49:03.335667+00:00",
+   "alerted": true
+  },
+  {
    "id": "https://www.mydealz.de/gutscheine/black-week-bei-bstn-mit-bis-zu-70-und-mit-dem-code-extra-25-2880442",
    "title": "Black Week bei BSTN mit dem Code EXTRA -25%",
    "link": "https://www.mydealz.de/gutscheine/black-week-bei-bstn-mit-bis-zu-70-und-mit-dem-code-extra-25-2880442",
@@ -190,7 +274,7 @@
    "category": "Mode & Accessoires",
    "source": "Pepper NL",
    "country": "Netherlands",
-   "temperature": 263,
+   "temperature": 290,
    "discount": 70,
    "price_value": null,
    "was_price": null,
