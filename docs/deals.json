@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T10:22:14.450034+00:00",
+ "updated": "2026-11-24T11:20:55.692623+00:00",
  "settings": {
   "app_name": "Oopsie",
   "language": "en",
@@ -67,6 +67,35 @@
    "alerted": false
   },
   {
+   "id": "https://nl.pepper.com/aanbiedingen/prijsfout-praxis-weka-informatiehuisje-eikenwit-429035",
+   "title": "Prijsfout, Praxis Weka informatiehuisje eiken/wit",
+   "link": "https://nl.pepper.com/aanbiedingen/prijsfout-praxis-weka-informatiehuisje-eikenwit-429035",
+   "price": "€0,01",
+   "currency": "€",
+   "merchant": "Praxis",
+   "image": "https://static.pepper.com/threads/raw/L7gE5/429035_1/re/150x150/qt/55/429035_1.jpg",
+   "category": "Tuin & Doe-het-zelf",
+   "source": "Pepper NL",
+   "country": "Netherlands",
+   "temperature": 505,
+   "discount": 100,
+   "price_value": 0.01,
+   "was_price": 699.0,
+   "score": 80,
+   "watchlist": false,
+   "reasons": [
+    "mentions \"prijsfout\"",
+    "505° hot"
+   ],
+   "posted": "2026-11-24T10:55:40+00:00",
+   "snippet": "€0,01 - Praxis Informatiehuisje Met massief houten vloer Afsluitbaar Paneeldeuren voorzien van echt glas",
+   "currency_code": "EUR",
+   "saving": 698.99,
+   "saving_eur": 698.99,
+   "first_seen": "2026-11-24T11:20:55.692623+00:00",
+   "alerted": true
+  },
+  {
    "id": "https://www.mydealz.de/deals/schwinn-800ic-ehem-ic8-indoorcb-cycling-bike-black-week-corporate-benefits-2876712",
    "title": "Schwinn 800IC (ehem. IC8) IndoorCB - Cycling Bike (Black Week + Corporate Benefits)",
    "link": "https://www.mydealz.de/deals/schwinn-800ic-ehem-ic8-indoorcb-cycling-bike-black-week-corporate-benefits-2876712",
@@ -123,6 +152,34 @@
    "alerted": false
   },
   {
+   "id": "https://www.mydealz.de/gutscheine/black-week-bei-bstn-mit-bis-zu-70-und-mit-dem-code-extra-25-2880442",
+   "title": "Black Week bei BSTN mit dem Code EXTRA -25%",
+   "link": "https://www.mydealz.de/gutscheine/black-week-bei-bstn-mit-bis-zu-70-und-mit-dem-code-extra-25-2880442",
+   "price": "",
+   "currency": "€",
+   "merchant": "BSTN",
+   "image": "https://static.mydealz.de/merchants/raw/avatar/11394_2/re/352x352/qt/60/11394_2.jpg",
+   "category": "Fashion & Accessoires",
+   "source": "mydealz",
+   "country": "Germany",
+   "temperature": null,
+   "discount": 70,
+   "price_value": null,
+   "was_price": null,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "70% off"
+   ],
+   "posted": "2026-11-24T10:59:12+00:00",
+   "snippet": "BSTN Zusätzlich zum BSTN Black Week Sale, bei dem man bis zu -70% im Shop erhält, gibt es jetzt mit dem Code BACL\"% zusätzlich -25% auf fast alle Artikel. Dazu gehören sowohl Schuhe, Accessoires, Jacken, Hosen, Oberteile",
+   "currency_code": "EUR",
+   "saving": null,
+   "saving_eur": null,
+   "first_seen": "2026-11-24T11:20:55.692623+00:00",
+   "alerted": false
+  },
+  {
    "id": "https://nl.pepper.com/aanbiedingen/20-extra-kassakorting-op-jack-jones-jcobecks-puffer-winterjas-heren-s-tm-l-426910",
    "title": "Tot 70% korting op dames/herenkleding + 20% extra kassakorting",
    "link": "https://nl.pepper.com/aanbiedingen/20-extra-kassakorting-op-jack-jones-jcobecks-puffer-winterjas-heren-s-tm-l-426910",
@@ -133,7 +190,7 @@
    "category": "Mode & Accessoires",
    "source": "Pepper NL",
    "country": "Netherlands",
-   "temperature": 240,
+   "temperature": 243,
    "discount": 70,
    "price_value": null,
    "was_price": null,
