@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T20:14:48.217905+00:00",
+ "updated": "2026-11-24T21:12:51.250830+00:00",
  "settings": {
   "app_name": "Oopsie",
   "language": "en",
@@ -302,7 +302,7 @@
    "category": "Fashion & Accessories",
    "source": "HotUKDeals",
    "country": "UK",
-   "temperature": null,
+   "temperature": 139,
    "discount": 70,
    "price_value": null,
    "was_price": null,
@@ -311,8 +311,8 @@
    "reasons": [
     "70% off"
    ],
-   "posted": "2026-11-24T16:40:48+00:00",
-   "snippet": "Reebok Reebok's Black Friday sale is now live, with up to 70% off selected trainers, training kit and clothing for men, women and kids. Worth a look if you're after new gym gear or picking up some early Christmas present",
+   "posted": "2026-11-24T20:32:56+00:00",
+   "snippet": "Reebok Reebok's Black Friday sale is now live, with up to 70% off selected trainers, training kit and clothing for men, women and kids. Worth a look if you're after...",
    "currency_code": "GBP",
    "saving": null,
    "saving_eur": null,
