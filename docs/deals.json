@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T21:12:51.250830+00:00",
+ "updated": "2026-11-24T22:12:32.887073+00:00",
  "settings": {
   "app_name": "Oopsie",
   "language": "en",
@@ -177,6 +177,34 @@
    "saving": 3385.71,
    "saving_eur": 301.73,
    "first_seen": "2026-11-24T10:22:14.450034+00:00",
+   "alerted": false
+  },
+  {
+   "id": "https://www.pepperdeals.se/deals/wenger-skyon-kabinvaska-35-45-l-expanderbar-med-tsa-las-usb-33299-kr-ord-pris-ca-1-800-kr-21894",
+   "title": "Wenger Skyon Kabinväska 35 (45) L – Expanderbar med TSA-lås & USB – 332,99 kr (Ord. pris ca 1 800 kr)",
+   "link": "https://www.pepperdeals.se/deals/wenger-skyon-kabinvaska-35-45-l-expanderbar-med-tsa-las-usb-33299-kr-ord-pris-ca-1-800-kr-21894",
+   "price": "332,99kr",
+   "currency": "kr",
+   "merchant": "Amazon.se",
+   "image": "https://static.pepperdeals.se/threads/raw/87Lmt/21894_1/re/150x150/qt/55/21894_1.jpg",
+   "category": "Mode & Accessoarer",
+   "source": "Pepper Sweden",
+   "country": "Sweden",
+   "temperature": null,
+   "discount": 81,
+   "price_value": 332.99,
+   "was_price": 1752.58,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "81% off"
+   ],
+   "posted": "2026-11-24T22:00:41+00:00",
+   "snippet": "332,99kr - Amazon.se Riktigt bra pris på en hård, expanderbar kabinväska från schweiziska Wenger (ägs av Victorinox) hos Amazon.se. Säljs och skickas direkt av Amazon med fri frakt och fria returer. Prisjämförelse: Amazo",
+   "currency_code": "SEK",
+   "saving": 1419.59,
+   "saving_eur": 126.51,
+   "first_seen": "2026-11-24T22:12:32.887073+00:00",
    "alerted": false
   },
   {
