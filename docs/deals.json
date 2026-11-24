@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T23:10:29.026331+00:00",
+ "updated": "2026-11-24T23:57:45.906774+00:00",
  "settings": {
   "app_name": "Oopsie",
   "language": "en",
@@ -330,7 +330,7 @@
    "category": "Mode & Accessoires",
    "source": "Pepper NL",
    "country": "Netherlands",
-   "temperature": null,
+   "temperature": 100,
    "discount": 75,
    "price_value": null,
    "was_price": null,
@@ -339,8 +339,8 @@
    "reasons": [
     "75% off"
    ],
-   "posted": "2026-11-24T18:02:00+00:00",
-   "snippet": "Lounge by Zalando Bij Lounge by Zalando loopt tijdelijk een grote Carhartt WIP-sale met meer dan 750 artikelen en tot 75% korting. Je vindt er onder andere de klassieke Michigan-jas, joggingbroeken, jeans, petten en tass",
+   "posted": "2026-11-24T23:36:15+00:00",
+   "snippet": "Lounge by Zalando Bij Lounge by Zalando loopt tijdelijk een grote Carhartt WIP-sale met meer dan 750 artikelen en tot 75% korting. Je vindt er onder andere de klassieke Michig...",
    "currency_code": "EUR",
    "saving": null,
    "saving_eur": null,
