@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T07:05:00.955772+00:00",
+ "updated": "2026-11-25T08:40:27.173330+00:00",
  "settings": {
   "app_name": "Oopsie",
   "language": "en",
@@ -92,6 +92,34 @@
    "saving": 1240.38,
    "saving_eur": 1240.38,
    "first_seen": "2026-11-24T13:49:03.335667+00:00",
+   "alerted": false
+  },
+  {
+   "id": "https://www.mydealz.de/deals/wpbakery-page-builder-fur-wordpress-get-up-to-70-off-wpbakery-lifetime-licenses-2881182",
+   "title": "WPBakery Page-Builder für WordPress – Get up to 70% OFF WPBakery lifetime licenses",
+   "link": "https://www.mydealz.de/deals/wpbakery-page-builder-fur-wordpress-get-up-to-70-off-wpbakery-lifetime-licenses-2881182",
+   "price": "349,30€",
+   "currency": "€",
+   "merchant": "",
+   "image": "https://static.mydealz.de/threads/raw/1rHLi/2881182_1/re/150x150/qt/55/2881182_1.jpg",
+   "category": "Elektronik",
+   "source": "mydealz",
+   "country": "Germany",
+   "temperature": null,
+   "discount": 70,
+   "price_value": 349.3,
+   "was_price": 1164.33,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "70% off"
+   ],
+   "posted": "2026-11-25T07:54:35+00:00",
+   "snippet": "349,30€ Get up to 70% OFF WPBakery lifetime licenses WPBakery Page-Builder für WordPress 1-site license 10% OFF For use on a single website €62.10 /lifetime (Regular price €69) 5-sites license 30% OFF For freelancers man",
+   "currency_code": "EUR",
+   "saving": 815.03,
+   "saving_eur": 815.03,
+   "first_seen": "2026-11-25T08:40:27.173330+00:00",
    "alerted": false
   },
   {
@@ -320,6 +348,34 @@
    "alerted": false
   },
   {
+   "id": "https://www.pepper.pl/promocje/70-na-artykuly-przemyslowe-i-tekstylia-przy-zakupie-3-produktow-1399880",
+   "title": "-70% na artykuły przemysłowe i tekstylia przy zakupie 3 produktów",
+   "link": "https://www.pepper.pl/promocje/70-na-artykuly-przemyslowe-i-tekstylia-przy-zakupie-3-produktow-1399880",
+   "price": "",
+   "currency": "zł",
+   "merchant": "Biedronka",
+   "image": "https://static.pepper.pl/threads/raw/UEPMe/1399880_1/re/150x150/qt/55/1399880_1.jpg",
+   "category": "Usługi i subskrypcje",
+   "source": "Pepper PL",
+   "country": "Poland",
+   "temperature": null,
+   "discount": 70,
+   "price_value": null,
+   "was_price": null,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "70% off"
+   ],
+   "posted": "2026-11-25T08:26:20+00:00",
+   "snippet": "Biedronka Oferta ważna w wybranych sklepach stacjonarnych sieci Biedronka. Po zeskanowaniu kodu QR wyświetla się lista sklepów. Limit rabatu 400zł na osobę.",
+   "currency_code": "PLN",
+   "saving": null,
+   "saving_eur": null,
+   "first_seen": "2026-11-25T08:40:27.173330+00:00",
+   "alerted": false
+  },
+  {
    "id": "https://www.chollometro.com/ofertas/black-friday-20-de-descuento-extra-en-todo-primeriti-2088974",
    "title": "Black Friday 20% de descuento extra en todo primeriti",
    "link": "https://www.chollometro.com/ofertas/black-friday-20-de-descuento-extra-en-todo-primeriti-2088974",
@@ -442,7 +498,7 @@
    "category": "Mode & Accessoires",
    "source": "Pepper NL",
    "country": "Netherlands",
-   "temperature": 115,
+   "temperature": 113,
    "discount": 75,
    "price_value": null,
    "was_price": null,
