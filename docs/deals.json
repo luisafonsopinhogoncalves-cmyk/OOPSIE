@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T18:30:32.921512+00:00",
+ "updated": "2026-11-25T19:31:00.202167+00:00",
  "settings": {
   "app_name": "Oopsie",
   "language": "en",
@@ -485,6 +485,62 @@
    "saving": 51.0,
    "saving_eur": 51.0,
    "first_seen": "2026-11-25T16:45:35.714086+00:00",
+   "alerted": false
+  },
+  {
+   "id": "https://www.mydealz.de/gutscheine/growshop-hemphelpat-finaler-abverkauf-70-auf-uvp-bei-growzelten-und-erdedunger-2881814",
+   "title": "GrowShop Hemphelp.at Finaler Abverkauf -70% auf UVP bei Growzelten und Erde/Dünger",
+   "link": "https://www.mydealz.de/gutscheine/growshop-hemphelpat-finaler-abverkauf-70-auf-uvp-bei-growzelten-und-erdedunger-2881814",
+   "price": "",
+   "currency": "€",
+   "merchant": "",
+   "image": "https://www.mydealz.de/assets/img/default-voucher_ee5e5.svg",
+   "category": "Home & Living",
+   "source": "mydealz",
+   "country": "Germany",
+   "temperature": null,
+   "discount": 70,
+   "price_value": null,
+   "was_price": null,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "70% off"
+   ],
+   "posted": "2026-11-25T19:26:52+00:00",
+   "snippet": "Hemphelp hat seine Filliale schon geschlossen, jetzt wird der Shop leergeräumt. über den link https://www.hemphelp.at/de/specials.php bekommt Ihr alle rabattierten Artikel aufgelistet. Die Drogenherstellung ist nicht mei",
+   "currency_code": "EUR",
+   "saving": null,
+   "saving_eur": null,
+   "first_seen": "2026-11-25T19:31:00.202167+00:00",
+   "alerted": false
+  },
+  {
+   "id": "https://www.mydealz.de/deals/ed-hardy-eu-black-friday-sale-bis-zu-70-rabatt-auf-uber-670-artikel-z-b-hoodies-joggers-denim-2881811",
+   "title": "[Ed Hardy EU] Black Friday Sale: Bis zu 70 % Rabatt auf über 670 Artikel (z. B. Hoodies, Joggers & Denim)",
+   "link": "https://www.mydealz.de/deals/ed-hardy-eu-black-friday-sale-bis-zu-70-rabatt-auf-uber-670-artikel-z-b-hoodies-joggers-denim-2881811",
+   "price": "",
+   "currency": "€",
+   "merchant": "",
+   "image": "https://static.mydealz.de/threads/raw/35Wdx/2881811_1/re/150x150/qt/55/2881811_1.jpg",
+   "category": "Fashion & Accessoires",
+   "source": "mydealz",
+   "country": "Germany",
+   "temperature": null,
+   "discount": 70,
+   "price_value": null,
+   "was_price": null,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "70% off"
+   ],
+   "posted": "2026-11-25T19:25:37+00:00",
+   "snippet": "Im offiziellen europäischen Shop von Ed Hardy läuft aktuell der Black Friday Sale mit Rabatten von bis zu 70 % auf ausgewählte Artikel (ausgenommen bestimmte Linien). Im Sale-Bereich sind insgesamt rund 671 Produkte für ",
+   "currency_code": "EUR",
+   "saving": null,
+   "saving_eur": null,
+   "first_seen": "2026-11-25T19:31:00.202167+00:00",
    "alerted": false
   },
   {
