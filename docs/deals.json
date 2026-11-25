@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T21:41:31.585754+00:00",
+ "updated": "2026-11-25T22:38:11.865422+00:00",
  "settings": {
   "app_name": "Oopsie",
   "language": "en",
@@ -178,6 +178,34 @@
    "saving_eur": 698.99,
    "first_seen": "2026-11-24T11:20:55.692623+00:00",
    "alerted": true
+  },
+  {
+   "id": "https://nl.pepper.com/aanbiedingen/hifiman-black-friday-tot-77-korting-15-extra-op-open-boxrefurbished-gratis-cadeau-429377",
+   "title": "HIFIMAN Black Friday – Tot 77% korting + 15% extra op open-box/refurbished + gratis cadeau",
+   "link": "https://nl.pepper.com/aanbiedingen/hifiman-black-friday-tot-77-korting-15-extra-op-open-boxrefurbished-gratis-cadeau-429377",
+   "price": "€169",
+   "currency": "€",
+   "merchant": "",
+   "image": "https://static.pepper.com/threads/raw/ipOGf/429377_1/re/150x150/qt/55/429377_1.jpg",
+   "category": "Elektronica",
+   "source": "Pepper NL",
+   "country": "Netherlands",
+   "temperature": null,
+   "discount": 77,
+   "price_value": 169.0,
+   "was_price": 734.78,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "77% off"
+   ],
+   "posted": "2026-11-25T22:29:38+00:00",
+   "snippet": "€169 Bij de officiële Europese webshop van HIFIMAN loopt momenteel een Black Friday-actie met flinke kortingen op planaire hoofdtelefoons, DAC's en versterkers. Daarnaast krijg je 15% extra korting op open-box en refurbi",
+   "currency_code": "EUR",
+   "saving": 565.78,
+   "saving_eur": 565.78,
+   "first_seen": "2026-11-25T22:38:11.865422+00:00",
+   "alerted": false
   },
   {
    "id": "https://www.mydealz.de/deals/schwinn-800ic-ehem-ic8-indoorcb-cycling-bike-black-week-corporate-benefits-2876712",
@@ -835,7 +863,7 @@
    "category": "Fashion & Accessories",
    "source": "HotUKDeals",
    "country": "UK",
-   "temperature": null,
+   "temperature": 110,
    "discount": 70,
    "price_value": null,
    "was_price": null,
@@ -844,8 +872,8 @@
    "reasons": [
     "70% off"
    ],
-   "posted": "2026-11-25T10:35:40+00:00",
-   "snippet": "Lovell Sports Use our exclusive code HUKDLOV16NOV at Checkout to get an additional 10% off selected lines. Quick Links Football Rugby Fitness Running Cricket Golf Padel Cycling Tennis Swimming Selected Deals adidas Ultra",
+   "posted": "2026-11-25T22:03:51+00:00",
+   "snippet": "Lovell Sports Use our exclusive code HUKDLOV16NOV at Checkout to get an additional 10% off selected lines. Quick Links <li...",
    "currency_code": "GBP",
    "saving": null,
    "saving_eur": null,
