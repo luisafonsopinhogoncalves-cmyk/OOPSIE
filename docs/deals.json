@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T08:40:27.173330+00:00",
+ "updated": "2026-11-25T09:53:29.351496+00:00",
  "settings": {
   "app_name": "Oopsie",
   "language": "en",
@@ -348,6 +348,62 @@
    "alerted": false
   },
   {
+   "id": "https://www.hotukdeals.com/deals/up-to-70-off-dune-footwear-and-bags-extra-10-off-using-code-5045538",
+   "title": "Up to 70% off Dune Footwear and Bags + Extra 10% off Using Code",
+   "link": "https://www.hotukdeals.com/deals/up-to-70-off-dune-footwear-and-bags-extra-10-off-using-code-5045538",
+   "price": "",
+   "currency": "£",
+   "merchant": "Secret Sales",
+   "image": "https://images.hotukdeals.com/threads/raw/ntdBR/5045538_1/re/150x150/qt/55/5045538_1.jpg",
+   "category": "Fashion & Accessories",
+   "source": "HotUKDeals",
+   "country": "UK",
+   "temperature": 103,
+   "discount": 70,
+   "price_value": null,
+   "was_price": null,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "70% off"
+   ],
+   "posted": "2026-11-25T09:12:22+00:00",
+   "snippet": "Secret Sales We have worked with Secret Sales to Receive this code Examples <a href=\"https://www.secretsales.com/2ce6516bf68f78-dune-dune-ladies-odele-chise...",
+   "currency_code": "GBP",
+   "saving": null,
+   "saving_eur": null,
+   "first_seen": "2026-11-25T09:53:29.351496+00:00",
+   "alerted": false
+  },
+  {
+   "id": "https://www.pepperdeals.se/rabattkoder/20-off-pa-valfri-biljett-21903",
+   "title": "Glitched 2027 - 20% off på valfri biljett",
+   "link": "https://www.pepperdeals.se/rabattkoder/20-off-pa-valfri-biljett-21903",
+   "price": "",
+   "currency": "kr",
+   "merchant": "",
+   "image": "https://www.pepperdeals.se/assets/img/default-voucher_ee5e5.svg",
+   "category": "Spel & Gaming",
+   "source": "Pepper Sweden",
+   "country": "Sweden",
+   "temperature": null,
+   "discount": 20,
+   "price_value": null,
+   "was_price": null,
+   "score": 70,
+   "watchlist": false,
+   "reasons": [
+    "mentions \"glitch\""
+   ],
+   "posted": "2026-11-25T09:25:24+00:00",
+   "snippet": "20% billigare biljett.",
+   "currency_code": "SEK",
+   "saving": null,
+   "saving_eur": null,
+   "first_seen": "2026-11-25T09:53:29.351496+00:00",
+   "alerted": true
+  },
+  {
    "id": "https://www.pepper.pl/promocje/70-na-artykuly-przemyslowe-i-tekstylia-przy-zakupie-3-produktow-1399880",
    "title": "-70% na artykuły przemysłowe i tekstylia przy zakupie 3 produktów",
    "link": "https://www.pepper.pl/promocje/70-na-artykuly-przemyslowe-i-tekstylia-przy-zakupie-3-produktow-1399880",
@@ -554,7 +610,7 @@
    "category": "Spel & Gaming",
    "source": "Pepper Sweden",
    "country": "Sweden",
-   "temperature": null,
+   "temperature": 114,
    "discount": 80,
    "price_value": null,
    "was_price": null,
@@ -563,8 +619,8 @@
    "reasons": [
     "80% off"
    ],
-   "posted": "2026-11-24T16:07:13+00:00",
-   "snippet": "Dags att fynda till riktigt bra priser! Just nu har Xbox Black Friday-rea med upp till 80 % rabatt på utvalda produkter och erbjudanden. Perfekt läge att uppgradera spelupplevelsen eller passa på att köpa en uppskattad j",
+   "posted": "2026-11-25T08:43:48+00:00",
+   "snippet": "Dags att fynda till riktigt bra priser! Just nu har Xbox Black Friday-rea med upp till 80 % rabatt på utvalda produkter och erbjudanden. ...",
    "currency_code": "SEK",
    "saving": null,
    "saving_eur": null,
