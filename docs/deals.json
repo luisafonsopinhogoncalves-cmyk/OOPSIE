@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T14:30:29.191583+00:00",
+ "updated": "2026-11-25T15:37:35.062440+00:00",
  "settings": {
   "app_name": "Oopsie",
   "language": "en",
@@ -432,6 +432,34 @@
    "alerted": false
   },
   {
+   "id": "https://www.mydealz.de/deals/esn-black-week-gestartet-bis-zu-70-mit-code-esn-2878594",
+   "title": "ESN Black Week gestartet – bis zu -70% mit Code ESN",
+   "link": "https://www.mydealz.de/deals/esn-black-week-gestartet-bis-zu-70-mit-code-esn-2878594",
+   "price": "",
+   "currency": "€",
+   "merchant": "ESN",
+   "image": "https://static.mydealz.de/threads/raw/r0ix5/2878594_1/re/150x150/qt/55/2878594_1.jpg",
+   "category": "Sport & Outdoor",
+   "source": "mydealz",
+   "country": "Germany",
+   "temperature": 109,
+   "discount": 70,
+   "price_value": null,
+   "was_price": null,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "70% off"
+   ],
+   "posted": "2026-11-25T15:21:32+00:00",
+   "snippet": "ESN ESN Black Week ist seit heute 12 Uhr live. Zeitraum: 22.11.2026 (12 Uhr) bis 02.12.2026 (17 Uhr) Rabatte: Daily Deals bis zu -70% (jeden Ta...",
+   "currency_code": "EUR",
+   "saving": null,
+   "saving_eur": null,
+   "first_seen": "2026-11-25T15:37:35.062440+00:00",
+   "alerted": false
+  },
+  {
    "id": "https://www.chollometro.com/ofertas/seleccion-cazachollos-amazon-segunda-mano-20-descuentos-del-84-al-40-como-nuevo-y-muy-bueno-2089692",
    "title": "Selección Cazachollos Amazon Segunda Mano 20 (Descuentos del 84% al 40% · Como Nuevo y Muy Bueno)",
    "link": "https://www.chollometro.com/ofertas/seleccion-cazachollos-amazon-segunda-mano-20-descuentos-del-84-al-40-como-nuevo-y-muy-bueno-2089692",
@@ -442,7 +470,7 @@
    "category": "Hogar, vivienda y oficina",
    "source": "Chollometro",
    "country": "Spain",
-   "temperature": null,
+   "temperature": 242,
    "discount": 84,
    "price_value": null,
    "was_price": null,
@@ -451,8 +479,8 @@
    "reasons": [
     "84% off"
    ],
-   "posted": "2026-11-25T13:48:45+00:00",
-   "snippet": "Amazon ¡Nueva entrega #20 de nuestra selección diaria de Amazon Segunda Mano (Reacondicionados) con rebajas desde el -84% hasta el -40%! Guía rápida de compra: - Leyenda de estado: CN (Como Nuevo), MB (Muy Bueno) y B (Bu",
+   "posted": "2026-11-25T15:13:38+00:00",
+   "snippet": "Amazon ¡Nueva entrega #20 de nuestra selección diaria de Amazon Segunda Mano (Reacondicionados) con rebajas desde el -84% hasta el -40%! Guía rápida de comp...",
    "currency_code": "EUR",
    "saving": null,
    "saving_eur": null,
