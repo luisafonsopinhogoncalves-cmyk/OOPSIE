@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T16:45:35.714086+00:00",
+ "updated": "2026-11-25T17:34:36.466411+00:00",
  "settings": {
   "app_name": "Oopsie",
   "language": "en",
@@ -386,7 +386,7 @@
    "category": "Health & Beauty",
    "source": "HotUKDeals",
    "country": "UK",
-   "temperature": 103,
+   "temperature": 145,
    "discount": 70,
    "price_value": 24.0,
    "was_price": 80.0,
