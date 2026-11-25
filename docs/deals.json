@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T11:54:17.403558+00:00",
+ "updated": "2026-11-25T13:06:56.671909+00:00",
  "settings": {
   "app_name": "Oopsie",
   "language": "en",
@@ -429,6 +429,34 @@
    "saving": 47.04,
    "saving_eur": 56.2,
    "first_seen": "2026-11-25T07:05:00.955772+00:00",
+   "alerted": false
+  },
+  {
+   "id": "https://www.pepperdeals.se/deals/afound-black-friday-upp-till-85-rabatt-11-extra-med-koden-21930",
+   "title": "Afound Black Friday: upp till 85% rabatt + 11% extra med koden",
+   "link": "https://www.pepperdeals.se/deals/afound-black-friday-upp-till-85-rabatt-11-extra-med-koden-21930",
+   "price": "",
+   "currency": "kr",
+   "merchant": "Afound",
+   "image": "https://static.pepperdeals.se/threads/raw/uxPLp/21930_1/re/150x150/qt/55/21930_1.jpg",
+   "category": "Mode & Accessoarer",
+   "source": "Pepper Sweden",
+   "country": "Sweden",
+   "temperature": null,
+   "discount": 85,
+   "price_value": null,
+   "was_price": null,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "85% off"
+   ],
+   "posted": "2026-11-25T12:08:02+00:00",
+   "snippet": "Afound Afound kör Black Friday med upp till 85% rabatt på mode och accessoarer från internationella märken, bland annat jackor, jeans, sneakers, boots, klänningar, väskor och klockor. Med koden DEAL11 får du 11% extra ra",
+   "currency_code": "SEK",
+   "saving": null,
+   "saving_eur": null,
+   "first_seen": "2026-11-25T13:06:56.671909+00:00",
    "alerted": false
   },
   {
