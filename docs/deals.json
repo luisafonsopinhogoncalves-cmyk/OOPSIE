@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T10:53:19.049449+00:00",
+ "updated": "2026-11-25T11:54:17.403558+00:00",
  "settings": {
   "app_name": "Oopsie",
   "language": "en",
@@ -320,6 +320,34 @@
    "alerted": false
   },
   {
+   "id": "https://www.hotukdeals.com/deals/charlotte-tilbury-70-off-perfumes-5046540",
+   "title": "Charlotte Tilbury Perfume Sale - eg Star Confidence, 50ml",
+   "link": "https://www.hotukdeals.com/deals/charlotte-tilbury-70-off-perfumes-5046540",
+   "price": "£24",
+   "currency": "£",
+   "merchant": "Charlotte Tilbury",
+   "image": "https://images.hotukdeals.com/threads/raw/lRJtM/5046540_1/re/150x150/qt/55/5046540_1.jpg",
+   "category": "Health & Beauty",
+   "source": "HotUKDeals",
+   "country": "UK",
+   "temperature": null,
+   "discount": 70,
+   "price_value": 24.0,
+   "was_price": 80.0,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "70% off"
+   ],
+   "posted": "2026-11-25T11:29:17+00:00",
+   "snippet": "£24 - Charlotte Tilbury 70% OFF Charlotte Tilbury Fragrances on the official site - These will sell out! ⚡️ ad: Charlotte Tilbury site https://www.charlottetilbury.com/uk/product/star-confidence-50ml More sex, 50ml - £24",
+   "currency_code": "GBP",
+   "saving": 56.0,
+   "saving_eur": 66.91,
+   "first_seen": "2026-11-25T11:54:17.403558+00:00",
+   "alerted": false
+  },
+  {
    "id": "https://www.hotukdeals.com/deals/south-park-kyle-cosplay-mini-backpack-5045978",
    "title": "South Park Kyle Cosplay Mini Backpack",
    "link": "https://www.hotukdeals.com/deals/south-park-kyle-cosplay-mini-backpack-5045978",
@@ -401,6 +429,62 @@
    "saving": 47.04,
    "saving_eur": 56.2,
    "first_seen": "2026-11-25T07:05:00.955772+00:00",
+   "alerted": false
+  },
+  {
+   "id": "https://www.hotukdeals.com/deals/up-to-80-off-partywear-all-under-ps50-extra-10-off-with-code-5046560",
+   "title": "Up to 80% off Partywear all Under £50 + Extra 10% off with Code",
+   "link": "https://www.hotukdeals.com/deals/up-to-80-off-partywear-all-under-ps50-extra-10-off-with-code-5046560",
+   "price": "",
+   "currency": "£",
+   "merchant": "Secret Sales",
+   "image": "https://images.hotukdeals.com/threads/raw/mLgV0/5046560_1/re/150x150/qt/55/5046560_1.jpg",
+   "category": "Fashion & Accessories",
+   "source": "HotUKDeals",
+   "country": "UK",
+   "temperature": null,
+   "discount": 95,
+   "price_value": null,
+   "was_price": null,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "95% off"
+   ],
+   "posted": "2026-11-25T11:43:45+00:00",
+   "snippet": "Secret Sales We have worked with Secret Sales to receive this code Examples Scott Sharkskin Overcheck Waistcoat £64.00 £5.00 Now £4.50 -92% ASOS DESIGN Bridesmaid satin cami maxi dress with drape detail in sage green £90",
+   "currency_code": "GBP",
+   "saving": null,
+   "saving_eur": null,
+   "first_seen": "2026-11-25T11:54:17.403558+00:00",
+   "alerted": false
+  },
+  {
+   "id": "https://www.hotukdeals.com/deals/upto-75-off-selected-gym-clothing-lines-and-activewear-plus-an-additional-10-off-selected-lines-with-code-5046539",
+   "title": "Upto 75% off selected Gym clothing lines and Activewear plus an additional 10% off selected lines with code",
+   "link": "https://www.hotukdeals.com/deals/upto-75-off-selected-gym-clothing-lines-and-activewear-plus-an-additional-10-off-selected-lines-with-code-5046539",
+   "price": "",
+   "currency": "£",
+   "merchant": "Gym King",
+   "image": "https://images.hotukdeals.com/threads/raw/lF4VG/5046539_1/re/150x150/qt/55/5046539_1.jpg",
+   "category": "Fashion & Accessories",
+   "source": "HotUKDeals",
+   "country": "UK",
+   "temperature": null,
+   "discount": 75,
+   "price_value": null,
+   "was_price": null,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "75% off"
+   ],
+   "posted": "2026-11-25T11:29:13+00:00",
+   "snippet": "Gym King Use code DROP10 to get another 10% off selected lines. Selected Deals Older Kids Vision Short - £4.50 Older Kids Transform Seamless Tank - £4.50 Younger Kids Athletics Club Oversized Hoodie - £7.20 Pro Logo Hood",
+   "currency_code": "GBP",
+   "saving": null,
+   "saving_eur": null,
+   "first_seen": "2026-11-25T11:54:17.403558+00:00",
    "alerted": false
   },
   {
