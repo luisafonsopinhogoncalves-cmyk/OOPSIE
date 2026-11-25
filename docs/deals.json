@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T20:36:49.596568+00:00",
+ "updated": "2026-11-25T21:41:31.585754+00:00",
  "settings": {
   "app_name": "Oopsie",
   "language": "en",
@@ -289,6 +289,34 @@
    "saving": 251.59,
    "saving_eur": 300.48,
    "first_seen": "2026-11-25T16:45:35.714086+00:00",
+   "alerted": false
+  },
+  {
+   "id": "https://www.mydealz.de/deals/mini-a-ture-matwang-kinder-winterjacke-mit-fleecefutter-fur-6899-eur-zzgl-versand-2881926",
+   "title": "MINI A TURE MATWANG Kinder-Winterjacke mit Fleecefutter für 68,99 € zzgl. Versand",
+   "link": "https://www.mydealz.de/deals/mini-a-ture-matwang-kinder-winterjacke-mit-fleecefutter-fur-6899-eur-zzgl-versand-2881926",
+   "price": "78,99€",
+   "currency": "€",
+   "merchant": "",
+   "image": "https://static.mydealz.de/threads/raw/vTA2w/2881926_1/re/150x150/qt/55/2881926_1.jpg",
+   "category": "Fashion & Accessoires",
+   "source": "mydealz",
+   "country": "Germany",
+   "temperature": null,
+   "discount": 70,
+   "price_value": 78.99,
+   "was_price": 263.3,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "70% off"
+   ],
+   "posted": "2026-11-25T21:25:53+00:00",
+   "snippet": "78,99€ Bei MINI A TURE habe ich die MATWANG in Aloegrün für 68,99 € entdeckt. Der Shop gibt als regulären Preis 229,95 € an – das sind rund 70 % Rabatt. Für nasse Kita-Tage finde ich die 12.000 mm Wassersäule und die ver",
+   "currency_code": "EUR",
+   "saving": 184.31,
+   "saving_eur": 184.31,
+   "first_seen": "2026-11-25T21:41:31.585754+00:00",
    "alerted": false
   },
   {
