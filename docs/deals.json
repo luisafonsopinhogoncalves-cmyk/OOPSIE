@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T13:06:56.671909+00:00",
+ "updated": "2026-11-25T14:30:29.191583+00:00",
  "settings": {
   "app_name": "Oopsie",
   "language": "en",
@@ -429,6 +429,62 @@
    "saving": 47.04,
    "saving_eur": 56.2,
    "first_seen": "2026-11-25T07:05:00.955772+00:00",
+   "alerted": false
+  },
+  {
+   "id": "https://www.chollometro.com/ofertas/seleccion-cazachollos-amazon-segunda-mano-20-descuentos-del-84-al-40-como-nuevo-y-muy-bueno-2089692",
+   "title": "Selección Cazachollos Amazon Segunda Mano 20 (Descuentos del 84% al 40% · Como Nuevo y Muy Bueno)",
+   "link": "https://www.chollometro.com/ofertas/seleccion-cazachollos-amazon-segunda-mano-20-descuentos-del-84-al-40-como-nuevo-y-muy-bueno-2089692",
+   "price": "",
+   "currency": "€",
+   "merchant": "Amazon",
+   "image": "https://static.chollometro.com/threads/raw/oEWIi/2089692_1/re/150x150/qt/55/2089692_1.jpg",
+   "category": "Hogar, vivienda y oficina",
+   "source": "Chollometro",
+   "country": "Spain",
+   "temperature": null,
+   "discount": 84,
+   "price_value": null,
+   "was_price": null,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "84% off"
+   ],
+   "posted": "2026-11-25T13:48:45+00:00",
+   "snippet": "Amazon ¡Nueva entrega #20 de nuestra selección diaria de Amazon Segunda Mano (Reacondicionados) con rebajas desde el -84% hasta el -40%! Guía rápida de compra: - Leyenda de estado: CN (Como Nuevo), MB (Muy Bueno) y B (Bu",
+   "currency_code": "EUR",
+   "saving": null,
+   "saving_eur": null,
+   "first_seen": "2026-11-25T14:30:29.191583+00:00",
+   "alerted": false
+  },
+  {
+   "id": "https://nl.pepper.com/aanbiedingen/blackfriday-kortingen-op-streamingsdiensten-via-primevideo-428776",
+   "title": "BlackFriday kortingen op streamingsdiensten via PrimeVideo",
+   "link": "https://nl.pepper.com/aanbiedingen/blackfriday-kortingen-op-streamingsdiensten-via-primevideo-428776",
+   "price": "",
+   "currency": "€",
+   "merchant": "Prime video",
+   "image": "https://static.pepper.com/threads/raw/REhxP/428776_1/re/150x150/qt/55/428776_1.jpg",
+   "category": "Services & Contracten",
+   "source": "Pepper NL",
+   "country": "Netherlands",
+   "temperature": 100,
+   "discount": 75,
+   "price_value": null,
+   "was_price": null,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "75% off"
+   ],
+   "posted": "2026-11-25T14:26:12+00:00",
+   "snippet": "Prime video Enkel voor wie al PrimeVideo heeft. Via PrimeVideo > Abonnementen krijg je nu tot 75% korting op andere streamingsdiensten, enkele keuzes: <br ...",
+   "currency_code": "EUR",
+   "saving": null,
+   "saving_eur": null,
+   "first_seen": "2026-11-25T14:30:29.191583+00:00",
    "alerted": false
   },
   {
