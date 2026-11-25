@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T19:31:00.202167+00:00",
+ "updated": "2026-11-25T20:36:49.596568+00:00",
  "settings": {
   "app_name": "Oopsie",
   "language": "en",
@@ -401,6 +401,34 @@
    "saving": 56.0,
    "saving_eur": 66.88,
    "first_seen": "2026-11-25T11:54:17.403558+00:00",
+   "alerted": false
+  },
+  {
+   "id": "https://www.dealabs.com/bons-plans/isolat-de-proteine-de-soja-hsn-2kg-76-de-proteines-3469454",
+   "title": "Isolat de Protéine de Soja HSN - 2 Kg - 76% de protéines",
+   "link": "https://www.dealabs.com/bons-plans/isolat-de-proteine-de-soja-hsn-2kg-76-de-proteines-3469454",
+   "price": "20,30€",
+   "currency": "€",
+   "merchant": "HSN Store",
+   "image": "https://static-pepper.dealabs.com/threads/raw/PRH4u/3469454_1/re/150x150/qt/55/3469454_1.jpg",
+   "category": "Sports & Plein air",
+   "source": "Dealabs",
+   "country": "France",
+   "temperature": null,
+   "discount": 76,
+   "price_value": 20.3,
+   "was_price": 84.58,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "76% off"
+   ],
+   "posted": "2026-11-25T20:18:03+00:00",
+   "snippet": "20,30€ - HSN Store Livraison gratuite à partir de 60€ N'hsitez pas à me demander un code parrain pour économiser 5 € dès 50 € d'achat • Isolat de protéine de soja • Profil complet en acides aminés • Teneur élevée en prot",
+   "currency_code": "EUR",
+   "saving": 64.28,
+   "saving_eur": 64.28,
+   "first_seen": "2026-11-25T20:36:49.596568+00:00",
    "alerted": false
   },
   {
@@ -1451,7 +1479,7 @@
    "category": "Mode & Accessoarer",
    "source": "Pepper Sweden",
    "country": "Sweden",
-   "temperature": 181,
+   "temperature": 180,
    "discount": 75,
    "price_value": null,
    "was_price": null,
