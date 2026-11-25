@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T22:38:11.865422+00:00",
+ "updated": "2026-11-25T23:32:42.893426+00:00",
  "settings": {
   "app_name": "Oopsie",
   "language": "en",
@@ -572,6 +572,34 @@
    "alerted": false
   },
   {
+   "id": "https://www.chollometro.com/ofertas/recopilacion-black-friday-primor-olaplex-cerave-neutrogena-lancome-clarins-hasta-un-77-desde-965-eur-2090166",
+   "title": "Recopilación Black Friday Primor: Olaplex, CeraVe, Neutrogena, Lancôme, Clarins… hasta un -77 % (desde 9,65 €)",
+   "link": "https://www.chollometro.com/ofertas/recopilacion-black-friday-primor-olaplex-cerave-neutrogena-lancome-clarins-hasta-un-77-desde-965-eur-2090166",
+   "price": "",
+   "currency": "€",
+   "merchant": "Primor",
+   "image": "https://static.chollometro.com/threads/raw/ZiLGj/2090166_1/re/150x150/qt/55/2090166_1.jpg",
+   "category": "Salud y belleza",
+   "source": "Chollometro",
+   "country": "Spain",
+   "temperature": 182,
+   "discount": 77,
+   "price_value": null,
+   "was_price": null,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "77% off"
+   ],
+   "posted": "2026-11-25T23:08:04+00:00",
+   "snippet": "Primor Lo que te recomienda tu influencer favorita, pero sin pagar el precio de la influencer. CUIDADO FACIAL • Elizabeth Arden Visible Differe...",
+   "currency_code": "EUR",
+   "saving": null,
+   "saving_eur": null,
+   "first_seen": "2026-11-25T23:32:42.893426+00:00",
+   "alerted": false
+  },
+  {
    "id": "https://www.mydealz.de/gutscheine/growshop-hemphelpat-finaler-abverkauf-70-auf-uvp-bei-growzelten-und-erdedunger-2881814",
    "title": "GrowShop Hemphelp.at Finaler Abverkauf -70% auf UVP bei Growzelten und Erde/Dünger",
    "link": "https://www.mydealz.de/gutscheine/growshop-hemphelpat-finaler-abverkauf-70-auf-uvp-bei-growzelten-und-erdedunger-2881814",
@@ -863,7 +891,7 @@
    "category": "Fashion & Accessories",
    "source": "HotUKDeals",
    "country": "UK",
-   "temperature": 110,
+   "temperature": 114,
    "discount": 70,
    "price_value": null,
    "was_price": null,
