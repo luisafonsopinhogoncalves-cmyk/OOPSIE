@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T16:48:16.545010+00:00",
+ "updated": "2026-11-26T17:50:42.102805+00:00",
  "settings": {
   "app_name": "Oopsie",
   "language": "en",
@@ -807,7 +807,7 @@
    "category": "Fashion & Accessories",
    "source": "HotUKDeals",
    "country": "UK",
-   "temperature": 104,
+   "temperature": 109,
    "discount": 85,
    "price_value": null,
    "was_price": null,
@@ -863,7 +863,7 @@
    "category": "Sport & Outdoor",
    "source": "Preisjaeger",
    "country": "Austria",
-   "temperature": null,
+   "temperature": 178,
    "discount": 99,
    "price_value": null,
    "was_price": null,
@@ -872,8 +872,8 @@
    "reasons": [
     "99% off"
    ],
-   "posted": "2026-11-26T15:56:44+00:00",
-   "snippet": "SK Rapid Wien Hey PJ Rapid Wien macht den Black Friday auch dieses Jahr wieder zum Green Friday mit 18,99% Rabatt im Fanshop. Ausgenommen sind Gutscheine, Aberverkaufsartikel und Lizenzprodukte. Zusätzlich könnt ihr euch",
+   "posted": "2026-11-26T16:47:50+00:00",
+   "snippet": "SK Rapid Wien Hey PJ Rapid Wien macht den Black Friday auch dieses Jahr wieder zum Green Friday mit 18,99% Rabatt im Fanshop. Ausgenommen sind Gutscheine, Aberverkau...",
    "currency_code": "EUR",
    "saving": null,
    "saving_eur": null,
