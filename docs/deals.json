@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T14:43:36.831667+00:00",
+ "updated": "2026-11-26T15:43:09.671733+00:00",
  "settings": {
   "app_name": "Oopsie",
   "language": "en",
@@ -265,6 +265,34 @@
    "alerted": false
   },
   {
+   "id": "https://www.dealabs.com/bons-plans/barbecue-gaz-weber-traveler-3470387",
+   "title": "Barbecue Gaz Weber Traveler",
+   "link": "https://www.dealabs.com/bons-plans/barbecue-gaz-weber-traveler-3470387",
+   "price": "158€",
+   "currency": "€",
+   "merchant": "Mon Magasin Vert",
+   "image": "https://static-pepper.dealabs.com/threads/raw/32eph/3470387_1/re/150x150/qt/55/3470387_1.jpg",
+   "category": "Jardin & Bricolage",
+   "source": "Dealabs",
+   "country": "France",
+   "temperature": null,
+   "discount": 70,
+   "price_value": 158.0,
+   "was_price": 526.67,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "70% off"
+   ],
+   "posted": "2026-11-26T15:13:36+00:00",
+   "snippet": "158€ - Mon Magasin Vert Destockage Weber chez Magasin Vert, nombreux produits à -70% à retirer en magasin. Ce barbecue à gaz est conçu pour les petits espaces et les voyageurs ! Vous pourrez facilement le plier et le tra",
+   "currency_code": "EUR",
+   "saving": 368.67,
+   "saving_eur": 368.67,
+   "first_seen": "2026-11-26T15:43:09.671733+00:00",
+   "alerted": false
+  },
+  {
    "id": "https://www.mydealz.de/deals/fensterbanke-fassadenprofile-terrassenprofile-tischplatten-bis-80-2881303",
    "title": "Fensterbänke, Fassadenprofile, Terrassenprofile, Tischplatten, z.B. Tischplatte Classic WERZALIT, E 100×60, 020 ontario",
    "link": "https://www.mydealz.de/deals/fensterbanke-fassadenprofile-terrassenprofile-tischplatten-bis-80-2881303",
@@ -428,7 +456,7 @@
    "snippet": "749,70kr - Booztlet Just nu är det 70% rabatt på Tretorn Leia Coat i färgen Jet Black. Dunkappan kostar nu 749,70 kr istället för 2 499 kr, vilket innebär en besparing på 1 749,30 kr. Ett riktigt bra pris för den som for",
    "currency_code": "SEK",
    "saving": 1749.3,
-   "saving_eur": 155.65,
+   "saving_eur": 156.15,
    "first_seen": "2026-11-26T11:08:09.306122+00:00",
    "alerted": false
   },
@@ -514,6 +542,62 @@
    "saving": 90.3,
    "saving_eur": 90.3,
    "first_seen": "2026-11-24T14:52:36.481296+00:00",
+   "alerted": false
+  },
+  {
+   "id": "https://www.mydealz.de/deals/zalando-black-friday-sale-bis-zu-70-rabatt-zb-adidas-originals-japan-orbit-greycloud-whitesilver-coloured-metallic-dfb-trikot-uvm-2882559",
+   "title": "Zalando Black Friday Sale | Bis zu 70% Rabatt | z.B. Adidas Originals Japan orbit-grey/cloud white/silver-coloured metallic, DFB Trikot uvm",
+   "link": "https://www.mydealz.de/deals/zalando-black-friday-sale-bis-zu-70-rabatt-zb-adidas-originals-japan-orbit-greycloud-whitesilver-coloured-metallic-dfb-trikot-uvm-2882559",
+   "price": "35,95€",
+   "currency": "€",
+   "merchant": "Zalando",
+   "image": "https://static.mydealz.de/threads/raw/m13fw/2882559_1/re/150x150/qt/55/2882559_1.jpg",
+   "category": "Fashion & Accessoires",
+   "source": "mydealz",
+   "country": "Germany",
+   "temperature": 123,
+   "discount": 70,
+   "price_value": 35.95,
+   "was_price": 119.83,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "70% off"
+   ],
+   "posted": "2026-11-26T15:34:51+00:00",
+   "snippet": "35,95€ - Zalando Black Friday steht vor der Türe, und so tun es auch die Sales. Bei Zalando gibt es bis zu 70% Rabatt auf 450.000 Artikel. Da sollte für fast jeden was dabei ...",
+   "currency_code": "EUR",
+   "saving": 83.88,
+   "saving_eur": 83.88,
+   "first_seen": "2026-11-26T15:43:09.671733+00:00",
+   "alerted": false
+  },
+  {
+   "id": "https://www.hotukdeals.com/deals/manchester-united-2526-home-away-third-adult-shirts-ps2550-each-was-ps85-at-united-store-5048284",
+   "title": "Manchester United 25/26 Home, Away & Third adult shirts each",
+   "link": "https://www.hotukdeals.com/deals/manchester-united-2526-home-away-third-adult-shirts-ps2550-each-was-ps85-at-united-store-5048284",
+   "price": "£25.50",
+   "currency": "£",
+   "merchant": "Manchester United",
+   "image": "https://images.hotukdeals.com/threads/raw/sjohw/5048284_1/re/150x150/qt/55/5048284_1.jpg",
+   "category": "Sports & Outdoors",
+   "source": "HotUKDeals",
+   "country": "UK",
+   "temperature": null,
+   "discount": 70,
+   "price_value": 25.5,
+   "was_price": 85.0,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "70% off"
+   ],
+   "posted": "2026-11-26T15:33:04+00:00",
+   "snippet": "£25.50 - Manchester United 70% off the adult 25/26 adidas replica shirts on the official store. Sizes left when I checked today: • Home: S, 3XL, 4XL • Away: XL, 2XL, 3XL • Third: S, M Signing up to their membership gives",
+   "currency_code": "GBP",
+   "saving": 59.5,
+   "saving_eur": 71.04,
+   "first_seen": "2026-11-26T15:43:09.671733+00:00",
    "alerted": false
   },
   {
@@ -685,6 +769,34 @@
    "alerted": false
   },
   {
+   "id": "https://www.chollometro.com/ofertas/seleccion-cazachollos-amazon-segunda-mano-21-descuentos-del-89-al-43-como-nuevo-y-muy-bueno-2091457",
+   "title": "Selección Cazachollos Amazon Segunda Mano 21 (Descuentos del 89% al 43% · Como Nuevo y Muy Bueno)",
+   "link": "https://www.chollometro.com/ofertas/seleccion-cazachollos-amazon-segunda-mano-21-descuentos-del-89-al-43-como-nuevo-y-muy-bueno-2091457",
+   "price": "",
+   "currency": "€",
+   "merchant": "Amazon",
+   "image": "https://static.chollometro.com/threads/raw/RariR/2091457_1/re/150x150/qt/55/2091457_1.jpg",
+   "category": "Electrónica",
+   "source": "Chollometro",
+   "country": "Spain",
+   "temperature": 238,
+   "discount": 89,
+   "price_value": null,
+   "was_price": null,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "89% off"
+   ],
+   "posted": "2026-11-26T15:07:19+00:00",
+   "snippet": "Amazon ¡Nueva entrega #21 de nuestra selección diaria de Amazon Segunda Mano (Reacondicionados) con rebajas desde el -89% hasta el -43%! Guía rápida de comp...",
+   "currency_code": "EUR",
+   "saving": null,
+   "saving_eur": null,
+   "first_seen": "2026-11-26T15:43:09.671733+00:00",
+   "alerted": false
+  },
+  {
    "id": "https://www.pepper.pl/promocje/deepseek-v41-flash-za-darmo-kimi-k31-pro-70-qwen-38-max-50-tokenrouter-1399958",
    "title": "Deepseek-v4.1-flash za darmo, Kimi K3.1 Pro -70%, Qwen 3.8 Max -50% - tokenrouter",
    "link": "https://www.pepper.pl/promocje/deepseek-v41-flash-za-darmo-kimi-k31-pro-70-qwen-38-max-50-tokenrouter-1399958",
@@ -695,7 +807,7 @@
    "category": "Usługi i subskrypcje",
    "source": "Pepper PL",
    "country": "Poland",
-   "temperature": 201,
+   "temperature": 258,
    "discount": 70,
    "price_value": null,
    "was_price": null,
@@ -1480,7 +1592,7 @@
    "category": "Mode & Accessoires",
    "source": "Pepper NL",
    "country": "Netherlands",
-   "temperature": null,
+   "temperature": 105,
    "discount": 80,
    "price_value": null,
    "was_price": null,
@@ -1489,8 +1601,8 @@
    "reasons": [
     "80% off"
    ],
-   "posted": "2026-11-24T19:02:00+00:00",
-   "snippet": "G-Star Outlet Bij de G-Star Outlet zijn veel damesjeans tijdens Black Friday tot 80% afgeprijsd. Met code AFF25-BFPEPPEROUTLET gaat er bij het afrekenen nog eens 25% vanaf. Er zijn bootcut-, loose- en barrelmodellen, de ",
+   "posted": "2026-11-26T15:07:52+00:00",
+   "snippet": "G-Star Outlet Bij de G-Star Outlet zijn veel damesjeans tijdens Black Friday tot 80% afgeprijsd. Met code AFF25-BFPEPPEROUTLET gaat er bij het afrekenen n...",
    "currency_code": "EUR",
    "saving": null,
    "saving_eur": null,
