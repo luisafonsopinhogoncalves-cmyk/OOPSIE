@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T05:28:32.803449+00:00",
+ "updated": "2026-11-26T06:27:05.471854+00:00",
  "settings": {
   "app_name": "Oopsie",
   "language": "en",
@@ -36,6 +36,35 @@
    "saving": 140644.0,
    "saving_eur": 140644.0,
    "first_seen": "2026-11-24T10:22:14.450034+00:00",
+   "alerted": false
+  },
+  {
+   "id": "https://www.mydealz.de/deals/dell-p2422h-24-monitor-ips-fhd-pivot-funktion-99-srgb-usb-hub-4x-32-gen-1-hdmi-displayport-vga-vesa-100x100-refurbished-2848500",
+   "title": "Dell P2422H 24\" Monitor - IPS, FHD, Pivot-Funktion - 99% sRGB USB-Hub 4x 3.2 Gen 1, HDMI, DisplayPort, VGA, Vesa 100x100 - refurbished",
+   "link": "https://www.mydealz.de/deals/dell-p2422h-24-monitor-ips-fhd-pivot-funktion-99-srgb-usb-hub-4x-32-gen-1-hdmi-displayport-vga-vesa-100x100-refurbished-2848500",
+   "price": "63,99€",
+   "currency": "€",
+   "merchant": "AMSO",
+   "image": "https://static.mydealz.de/threads/raw/vyvVi/2848500_1/re/150x150/qt/55/2848500_1.jpg",
+   "category": "Elektronik",
+   "source": "mydealz",
+   "country": "Germany",
+   "temperature": 2832,
+   "discount": 99,
+   "price_value": 63.99,
+   "was_price": 6399.0,
+   "score": 40,
+   "watchlist": false,
+   "reasons": [
+    "99% off",
+    "2832° hot"
+   ],
+   "posted": "2026-11-26T05:37:21+00:00",
+   "snippet": "63,99€ - AMSO Ihr habt den letzten Deal für gebrauchten Monitoren verpasst? Hier kommt die würdige Alternative dazu! (party) Günstige Möglichkeit, an ein ...",
+   "currency_code": "EUR",
+   "saving": 6335.01,
+   "saving_eur": 6335.01,
+   "first_seen": "2026-11-26T06:27:05.471854+00:00",
    "alerted": false
   },
   {
