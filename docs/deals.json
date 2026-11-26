@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T19:57:33.798899+00:00",
+ "updated": "2026-11-26T20:51:23.586556+00:00",
  "settings": {
   "app_name": "Oopsie",
   "language": "en",
@@ -303,7 +303,7 @@
    "category": "Jardin & Bricolage",
    "source": "Dealabs",
    "country": "France",
-   "temperature": null,
+   "temperature": 177,
    "discount": 70,
    "price_value": 158.0,
    "was_price": 526.67,
@@ -312,8 +312,8 @@
    "reasons": [
     "70% off"
    ],
-   "posted": "2026-11-26T15:13:36+00:00",
-   "snippet": "158€ - Mon Magasin Vert Destockage Weber chez Magasin Vert, nombreux produits à -70% à retirer en magasin. Ce barbecue à gaz est conçu pour les petits espaces et les voyageurs ! Vous pourrez facilement le plier et le tra",
+   "posted": "2026-11-26T20:18:40+00:00",
+   "snippet": "158€ - Mon Magasin Vert Destockage Weber chez Magasin Vert, nombreux produits à -70% à retirer en magasin. Ce barbecue à gaz est conçu pour les petits espaces...",
    "currency_code": "EUR",
    "saving": 368.67,
    "saving_eur": 368.67,
@@ -598,6 +598,34 @@
    "saving": 83.88,
    "saving_eur": 83.88,
    "first_seen": "2026-11-26T15:43:09.671733+00:00",
+   "alerted": false
+  },
+  {
+   "id": "https://www.hotukdeals.com/deals/reebok-60-70-selected-mens-trainers-16-styles-sizes-35-12-nfx-ps22-relora-ps22-r400-ps24-ultra-7-ps24-hypnotica-ps27-more-5048607",
+   "title": "60-70% Off Selected Mens Trainers (16 Styles / Sizes 3.5-12) - NFX £22 / Relora £22 / R400 £24 / Ultra 7 £24 / Hypnotica £27 & More",
+   "link": "https://www.hotukdeals.com/deals/reebok-60-70-selected-mens-trainers-16-styles-sizes-35-12-nfx-ps22-relora-ps22-r400-ps24-ultra-7-ps24-hypnotica-ps27-more-5048607",
+   "price": "£22",
+   "currency": "£",
+   "merchant": "Reebok",
+   "image": "https://images.hotukdeals.com/threads/raw/roDOt/5048607_1/re/150x150/qt/55/5048607_1.jpg",
+   "category": "Fashion & Accessories",
+   "source": "HotUKDeals",
+   "country": "UK",
+   "temperature": null,
+   "discount": 71,
+   "price_value": 22.0,
+   "was_price": 83.0,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "71% off"
+   ],
+   "posted": "2026-11-26T20:36:02+00:00",
+   "snippet": "£22 - Reebok 60-70% off selected men’s trainers as part of their Black Friday sale. Details NFX Trainer 2 Men's Training Shoes (Sizes 5.5-12) - Was £55. / Now £22 (60% Off) Energen Tech Plus 3 Running Shoes (Sizes 6-9.5)",
+   "currency_code": "GBP",
+   "saving": 61.0,
+   "saving_eur": 72.83,
+   "first_seen": "2026-11-26T20:51:23.586556+00:00",
    "alerted": false
   },
   {
@@ -891,7 +919,7 @@
    "category": "Sport & Outdoor",
    "source": "Preisjaeger",
    "country": "Austria",
-   "temperature": 230,
+   "temperature": 253,
    "discount": 99,
    "price_value": null,
    "was_price": null,
@@ -1424,7 +1452,7 @@
    "category": "Mode & Accessoarer",
    "source": "Pepper Sweden",
    "country": "Sweden",
-   "temperature": 133,
+   "temperature": 132,
    "discount": 85,
    "price_value": null,
    "was_price": null,
