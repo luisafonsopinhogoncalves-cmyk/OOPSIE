@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T18:50:30.593662+00:00",
+ "updated": "2026-11-26T19:57:33.798899+00:00",
  "settings": {
   "app_name": "Oopsie",
   "language": "en",
@@ -121,6 +121,34 @@
    "saving": 1240.38,
    "saving_eur": 1240.38,
    "first_seen": "2026-11-24T13:49:03.335667+00:00",
+   "alerted": false
+  },
+  {
+   "id": "https://www.chollometro.com/ofertas/tradingview-premium-13-meses-por-252-70-black-friday-hasta-80-en-todos-los-planes-1-mes-gratis-2092066",
+   "title": "TradingView Premium 13 meses por 252$ (-70%) – Black Friday, hasta -80% en todos los planes + 1 mes gratis",
+   "link": "https://www.chollometro.com/ofertas/tradingview-premium-13-meses-por-252-70-black-friday-hasta-80-en-todos-los-planes-1-mes-gratis-2092066",
+   "price": "252€",
+   "currency": "€",
+   "merchant": "",
+   "image": "https://static.chollometro.com/threads/raw/Ch792/2092066_1/re/150x150/qt/55/2092066_1.jpg",
+   "category": "Finanzas y seguros",
+   "source": "Chollometro",
+   "country": "Spain",
+   "temperature": null,
+   "discount": 80,
+   "price_value": 252.0,
+   "was_price": 1260.0,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "80% off"
+   ],
+   "posted": "2026-11-26T19:51:13+00:00",
+   "snippet": "252€ Vuelve el Black Friday de TradingView con descuentos de hasta el 80% y un mes extra gratis (13 meses por el precio de 12): • Essential: 126$ (-30%) → 9,69$/mes • Plus: 251$ (-40%) → 19,29$/mes • Premium: 252$ (-70%)",
+   "currency_code": "EUR",
+   "saving": 1008.0,
+   "saving_eur": 1008.0,
+   "first_seen": "2026-11-26T19:57:33.798899+00:00",
    "alerted": false
   },
   {
@@ -863,7 +891,7 @@
    "category": "Sport & Outdoor",
    "source": "Preisjaeger",
    "country": "Austria",
-   "temperature": 218,
+   "temperature": 230,
    "discount": 99,
    "price_value": null,
    "was_price": null,
