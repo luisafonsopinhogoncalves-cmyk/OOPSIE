@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T06:27:05.471854+00:00",
+ "updated": "2026-11-26T07:55:33.302110+00:00",
  "settings": {
   "app_name": "Oopsie",
   "language": "en",
@@ -346,6 +346,34 @@
    "saving": 251.59,
    "saving_eur": 300.48,
    "first_seen": "2026-11-25T16:45:35.714086+00:00",
+   "alerted": false
+  },
+  {
+   "id": "https://www.dealabs.com/bons-plans/gilet-sandviken-marine-bonne-gueule-3469733",
+   "title": "Gilet Sandviken Marine - Taille M (bonnegueule.fr)",
+   "link": "https://www.dealabs.com/bons-plans/gilet-sandviken-marine-bonne-gueule-3469733",
+   "price": "60€",
+   "currency": "€",
+   "merchant": "",
+   "image": "https://static-pepper.dealabs.com/threads/raw/2hOxO/3469733_1/re/150x150/qt/55/3469733_1.jpg",
+   "category": "Mode & Accessoires",
+   "source": "Dealabs",
+   "country": "France",
+   "temperature": null,
+   "discount": 80,
+   "price_value": 60.0,
+   "was_price": 300.0,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "80% off"
+   ],
+   "posted": "2026-11-26T07:34:59+00:00",
+   "snippet": "60€ Gilet Sandviken marine passe à 60,00 € sur Bonne Gueule au lieu de 300,00 €, soit -80 %.",
+   "currency_code": "EUR",
+   "saving": 240.0,
+   "saving_eur": 240.0,
+   "first_seen": "2026-11-26T07:55:33.302110+00:00",
    "alerted": false
   },
   {
