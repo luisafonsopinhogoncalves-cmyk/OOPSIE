@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T11:08:09.306122+00:00",
+ "updated": "2026-11-26T12:13:08.094128+00:00",
  "settings": {
   "app_name": "Oopsie",
   "language": "en",
@@ -219,7 +219,7 @@
    "category": "Elektronica",
    "source": "Pepper NL",
    "country": "Netherlands",
-   "temperature": 141,
+   "temperature": 142,
    "discount": 77,
    "price_value": 169.0,
    "was_price": 734.78,
@@ -657,8 +657,36 @@
    "alerted": false
   },
   {
+   "id": "https://nl.pepper.com/aanbiedingen/70-korting-bij-parra-429471",
+   "title": "tot 70% korting Byparra.com",
+   "link": "https://nl.pepper.com/aanbiedingen/70-korting-bij-parra-429471",
+   "price": "",
+   "currency": "€",
+   "merchant": "Byparra.com",
+   "image": "https://static.pepper.com/threads/raw/F4mxe/429471_1/re/150x150/qt/55/429471_1.jpg",
+   "category": "Mode & Accessoires",
+   "source": "Pepper NL",
+   "country": "Netherlands",
+   "temperature": null,
+   "discount": 70,
+   "price_value": null,
+   "was_price": null,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "70% off"
+   ],
+   "posted": "2026-11-26T11:53:59+00:00",
+   "snippet": "Byparra.com https://www.byparra.com/collections/sale tot 70% korting",
+   "currency_code": "EUR",
+   "saving": null,
+   "saving_eur": null,
+   "first_seen": "2026-11-26T12:13:08.094128+00:00",
+   "alerted": false
+  },
+  {
    "id": "https://nl.pepper.com/aanbiedingen/dungeons-dragons-forgotten-realms-heroes-of-faerun-adventures-in-faerun-laagste-prijs-ooit-ongeveer-75-korting-per-boek-429462",
-   "title": "Dungeons & Dragons Forgotten Realms: Heroes of Faerun & Adventures in Faerun laagste prijs ooit (ongeveer 75%-80% korting per boek)",
+   "title": "Dungeons & Dragons Forgotten Realms: Heroes of Faerun & Adventures in Faerun laagste prijs ooit (ongeveer 75-80% korting per boek)",
    "link": "https://nl.pepper.com/aanbiedingen/dungeons-dragons-forgotten-realms-heroes-of-faerun-adventures-in-faerun-laagste-prijs-ooit-ongeveer-75-korting-per-boek-429462",
    "price": "",
    "currency": "€",
@@ -677,7 +705,7 @@
     "81% off"
    ],
    "posted": "2026-11-26T11:05:57+00:00",
-   "snippet": "Amazon.es Ik kan helaas de preciese prijzen niet meer zien, maar dit is echt een ultiem koopje als je D&D avonturen in the Forgotten Realms wil spelen. Boek voor spelers : ongeveer 9,50, zo'n 81% korting tov adviesprijs ",
+   "snippet": "Amazon.es Via de Spaanse Amazon. Ik kan helaas de preciese prijzen niet meer zien, maar dit is echt een ultiem koopje als je D&D avonturen in the Forgotten Realms wil spelen. Boek voor spelers : ongeveer 9,50, zo'n 81% k",
    "currency_code": "EUR",
    "saving": null,
    "saving_eur": null,
