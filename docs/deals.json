@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T20:51:23.586556+00:00",
+ "updated": "2026-11-26T21:46:39.933912+00:00",
  "settings": {
   "app_name": "Oopsie",
   "language": "en",
@@ -303,7 +303,7 @@
    "category": "Jardin & Bricolage",
    "source": "Dealabs",
    "country": "France",
-   "temperature": 177,
+   "temperature": 229,
    "discount": 70,
    "price_value": 158.0,
    "was_price": 526.67,
@@ -919,7 +919,7 @@
    "category": "Sport & Outdoor",
    "source": "Preisjaeger",
    "country": "Austria",
-   "temperature": 253,
+   "temperature": 255,
    "discount": 99,
    "price_value": null,
    "was_price": null,
