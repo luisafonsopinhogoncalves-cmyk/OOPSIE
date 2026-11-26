@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T22:49:36.380522+00:00",
+ "updated": "2026-11-26T23:47:52.633383+00:00",
  "settings": {
   "app_name": "Oopsie",
   "language": "en",
@@ -545,6 +545,34 @@
    "alerted": false
   },
   {
+   "id": "https://www.dealabs.com/bons-plans/jusqua-80-sur-une-selection-darticles-ex-maquette-rafale-c-echelle-172-eme-a-2880-eur-3471121",
+   "title": "Jusqu'à -80 % sur une sélection d'articles - Ex : Maquette Rafale C - Échelle 1/72 ème à 28,80 €",
+   "link": "https://www.dealabs.com/bons-plans/jusqua-80-sur-une-selection-darticles-ex-maquette-rafale-c-echelle-172-eme-a-2880-eur-3471121",
+   "price": "28,80€",
+   "currency": "€",
+   "merchant": "",
+   "image": "https://static-pepper.dealabs.com/threads/raw/WovKE/3471121_1/re/150x150/qt/55/3471121_1.jpg",
+   "category": "Famille & Enfants",
+   "source": "Dealabs",
+   "country": "France",
+   "temperature": null,
+   "discount": 80,
+   "price_value": 28.8,
+   "was_price": 144.0,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "80% off"
+   ],
+   "posted": "2026-11-26T23:45:31+00:00",
+   "snippet": "28,80€ À l'occasion du Black Friday, Dassault Aviation The Store propose des réductions allant jusqu'à -80 % sur une sélection d'articles , le vendredi 27 novembre uniquement. Quelques exemples de réductions affichées da",
+   "currency_code": "EUR",
+   "saving": 115.2,
+   "saving_eur": 115.2,
+   "first_seen": "2026-11-26T23:47:52.633383+00:00",
+   "alerted": false
+  },
+  {
    "id": "https://www.dealabs.com/bons-plans/70-de-reduction-sur-les-parfums-charlotte-tilbury-de-100-ml-ex-star-confidence-100-ml-3470311",
    "title": "70% de réduction sur les parfums Charlotte Tilbury de 100 ml (Ex: Star Confidence 100 ml)",
    "link": "https://www.dealabs.com/bons-plans/70-de-reduction-sur-les-parfums-charlotte-tilbury-de-100-ml-ex-star-confidence-100-ml-3470311",
@@ -1003,7 +1031,7 @@
    "category": "Sport & Outdoor",
    "source": "Preisjaeger",
    "country": "Austria",
-   "temperature": 273,
+   "temperature": 272,
    "discount": 99,
    "price_value": null,
    "was_price": null,
