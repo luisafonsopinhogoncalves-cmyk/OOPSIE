@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T13:39:23.478500+00:00",
+ "updated": "2026-11-26T14:43:36.831667+00:00",
  "settings": {
   "app_name": "Oopsie",
   "language": "en",
@@ -461,6 +461,34 @@
    "alerted": false
   },
   {
+   "id": "https://www.dealabs.com/bons-plans/70-de-reduction-sur-les-parfums-charlotte-tilbury-de-100-ml-ex-star-confidence-100-ml-3470311",
+   "title": "70% de réduction sur les parfums Charlotte Tilbury de 100 ml (Ex: Star Confidence 100 ml)",
+   "link": "https://www.dealabs.com/bons-plans/70-de-reduction-sur-les-parfums-charlotte-tilbury-de-100-ml-ex-star-confidence-100-ml-3470311",
+   "price": "45€",
+   "currency": "€",
+   "merchant": "Charlotte Tilbury",
+   "image": "https://static-pepper.dealabs.com/threads/raw/8BSRJ/3470311_1/re/150x150/qt/55/3470311_1.jpg",
+   "category": "Santé & Cosmétiques",
+   "source": "Dealabs",
+   "country": "France",
+   "temperature": null,
+   "discount": 70,
+   "price_value": 45.0,
+   "was_price": 150.0,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "70% off"
+   ],
+   "posted": "2026-11-26T14:25:18+00:00",
+   "snippet": "45€ - Charlotte Tilbury > Livraison offerte dès 59€ d'achat Pensez aux cadeaux de Noël :) ❥ Sélection complète ici Pensez à passer par le parrainage 20€ (y) Love Frequency : Poivre rose, safran, rose, musc, cashmeran, pa",
+   "currency_code": "EUR",
+   "saving": 105.0,
+   "saving_eur": 105.0,
+   "first_seen": "2026-11-26T14:43:36.831667+00:00",
+   "alerted": false
+  },
+  {
    "id": "https://www.mydealz.de/deals/about-you-black-deals-bis-zu-70-rabatt-zb-adidas-adizero-adios-og-taupe-auch-nike-boss-levis-dr-martens-uvm-2880669",
    "title": "ABOUT YOU Black Deals | bis zu 70% Rabatt | z.B. Adidas Adizero Adios OG Taupe | auch Nike, Boss, Levi's, Dr. Martens uvm",
    "link": "https://www.mydealz.de/deals/about-you-black-deals-bis-zu-70-rabatt-zb-adidas-adizero-adios-og-taupe-auch-nike-boss-levis-dr-martens-uvm-2880669",
@@ -654,6 +682,34 @@
    "saving": 51.0,
    "saving_eur": 51.0,
    "first_seen": "2026-11-25T16:45:35.714086+00:00",
+   "alerted": false
+  },
+  {
+   "id": "https://www.pepper.pl/promocje/deepseek-v41-flash-za-darmo-kimi-k31-pro-70-qwen-38-max-50-tokenrouter-1399958",
+   "title": "Deepseek-v4.1-flash za darmo, Kimi K3.1 Pro -70%, Qwen 3.8 Max -50% - tokenrouter",
+   "link": "https://www.pepper.pl/promocje/deepseek-v41-flash-za-darmo-kimi-k31-pro-70-qwen-38-max-50-tokenrouter-1399958",
+   "price": "",
+   "currency": "zł",
+   "merchant": "",
+   "image": "https://static.pepper.pl/threads/raw/iv4eh/1399958_1/re/150x150/qt/55/1399958_1.jpg",
+   "category": "Usługi i subskrypcje",
+   "source": "Pepper PL",
+   "country": "Poland",
+   "temperature": 201,
+   "discount": 70,
+   "price_value": null,
+   "was_price": null,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "70% off"
+   ],
+   "posted": "2026-11-26T14:42:55+00:00",
+   "snippet": "Dla każdego konta TokenRouter: deepseek-v4.1-flash-1017 jest rozliczany za 0 $ dla każdego konta TokenRouter przez cały sezon....",
+   "currency_code": "PLN",
+   "saving": null,
+   "saving_eur": null,
+   "first_seen": "2026-11-26T14:43:36.831667+00:00",
    "alerted": false
   },
   {
