@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T07:55:33.302110+00:00",
+ "updated": "2026-11-26T08:56:09.122870+00:00",
  "settings": {
   "app_name": "Oopsie",
   "language": "en",
@@ -219,7 +219,7 @@
    "category": "Elektronica",
    "source": "Pepper NL",
    "country": "Netherlands",
-   "temperature": null,
+   "temperature": 115,
    "discount": 77,
    "price_value": 169.0,
    "was_price": 734.78,
@@ -228,8 +228,8 @@
    "reasons": [
     "77% off"
    ],
-   "posted": "2026-11-25T22:29:38+00:00",
-   "snippet": "€169 Bij de officiële Europese webshop van HIFIMAN loopt momenteel een Black Friday-actie met flinke kortingen op planaire hoofdtelefoons, DAC's en versterkers. Daarnaast krijg je 15% extra korting op open-box en refurbi",
+   "posted": "2026-11-26T08:12:06+00:00",
+   "snippet": "€169 Bij de officiële Europese webshop van HIFIMAN loopt momenteel een Black Friday-actie met flinke kortingen op planaire hoofdtelefoons, DAC's en versterkers.</...",
    "currency_code": "EUR",
    "saving": 565.78,
    "saving_eur": 565.78,
@@ -864,7 +864,7 @@
    "category": "Mode & Accessoarer",
    "source": "Pepper Sweden",
    "country": "Sweden",
-   "temperature": null,
+   "temperature": 125,
    "discount": 85,
    "price_value": null,
    "was_price": null,
@@ -873,8 +873,8 @@
    "reasons": [
     "85% off"
    ],
-   "posted": "2026-11-25T12:08:02+00:00",
-   "snippet": "Afound Afound kör Black Friday med upp till 85% rabatt på mode och accessoarer från internationella märken, bland annat jackor, jeans, sneakers, boots, klänningar, väskor och klockor. Med koden DEAL11 får du 11% extra ra",
+   "posted": "2026-11-26T08:33:38+00:00",
+   "snippet": "Afound Afound kör Black Friday med upp till 85% rabatt på mode och accessoarer från internationella märken, bland annat jackor, jeans, sneakers, boots, klänningar, ...",
    "currency_code": "SEK",
    "saving": null,
    "saving_eur": null,
@@ -1144,7 +1144,7 @@
    "category": "Hem & Inredning",
    "source": "Pepper Sweden",
    "country": "Sweden",
-   "temperature": null,
+   "temperature": 139,
    "discount": 90,
    "price_value": null,
    "was_price": null,
@@ -1153,8 +1153,8 @@
    "reasons": [
     "90% off"
    ],
-   "posted": "2026-11-25T06:55:09+00:00",
-   "snippet": "Coolstuff Coolstuff har dragit igång sin Black Week / Black Friday-rea med 480 rabatterade produkter och upp till 80–90 % rabatt på bl.a. julklappar, prylar, ljus, godis/choklad, sällskapsspel och adventskalendrar.",
+   "posted": "2026-11-26T08:34:50+00:00",
+   "snippet": "Coolstuff Coolstuff har dragit igång sin Black Week / Black Friday-rea med 480 rabatterade produkter och upp till 80–90 % rabatt på bl.a. julklappar, prylar, ljus, godis/...",
    "currency_code": "SEK",
    "saving": null,
    "saving_eur": null,
