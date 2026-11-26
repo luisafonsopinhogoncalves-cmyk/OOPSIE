@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T08:56:09.122870+00:00",
+ "updated": "2026-11-26T10:02:16.218306+00:00",
  "settings": {
   "app_name": "Oopsie",
   "language": "en",
@@ -219,7 +219,7 @@
    "category": "Elektronica",
    "source": "Pepper NL",
    "country": "Netherlands",
-   "temperature": 115,
+   "temperature": 122,
    "discount": 77,
    "price_value": 169.0,
    "was_price": 734.78,
