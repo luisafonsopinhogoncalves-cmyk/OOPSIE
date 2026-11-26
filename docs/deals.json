@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T21:46:39.933912+00:00",
+ "updated": "2026-11-26T22:49:36.380522+00:00",
  "settings": {
   "app_name": "Oopsie",
   "language": "en",
@@ -402,6 +402,34 @@
    "saving": 251.59,
    "saving_eur": 300.48,
    "first_seen": "2026-11-25T16:45:35.714086+00:00",
+   "alerted": false
+  },
+  {
+   "id": "https://www.dealabs.com/bons-plans/amazon-exemple-carte-cadeau-zalando-de-150-eur-a-12750-eur-15-cumulable-avec-les-promos-en-cours-3470982",
+   "title": "Carte cadeau Zalando de 150€",
+   "link": "https://www.dealabs.com/bons-plans/amazon-exemple-carte-cadeau-zalando-de-150-eur-a-12750-eur-15-cumulable-avec-les-promos-en-cours-3470982",
+   "price": "127,50€",
+   "currency": "€",
+   "merchant": "Amazon",
+   "image": "https://static-pepper.dealabs.com/threads/raw/1dHmh/3470982_1/re/150x150/qt/55/3470982_1.jpg",
+   "category": "Mode & Accessoires",
+   "source": "Dealabs",
+   "country": "France",
+   "temperature": null,
+   "discount": 70,
+   "price_value": 127.5,
+   "was_price": 425.0,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "70% off"
+   ],
+   "posted": "2026-11-26T22:07:46+00:00",
+   "snippet": "127,50€ - Amazon En ce moment, Zalando propose ses offres Black Friday avec des réductions annoncées jusqu’à -70 % sur une large sélection. En parallèle, Amazon vend des cartes cadeaux Zalando dématérialisées avec 15 % d",
+   "currency_code": "EUR",
+   "saving": 297.5,
+   "saving_eur": 297.5,
+   "first_seen": "2026-11-26T22:49:36.380522+00:00",
    "alerted": false
   },
   {
@@ -853,6 +881,62 @@
    "alerted": false
   },
   {
+   "id": "https://www.preispirat.ch/?p=779355",
+   "title": "Bis zu 70% Rabatt auf Sextoys & Dessous",
+   "link": "https://www.preispirat.ch/bis-zu-70-rabatt-auf-sextoys-dessous-14/",
+   "price": "",
+   "currency": "CHF",
+   "merchant": "",
+   "image": "",
+   "category": "Verschiedenes",
+   "source": "Preispirat",
+   "country": "Switzerland",
+   "temperature": null,
+   "discount": 70,
+   "price_value": null,
+   "was_price": null,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "70% off"
+   ],
+   "posted": "2026-11-26T22:45:00+00:00",
+   "snippet": "Profitiere von bis zu 70% Rabatt zu Black Friday 2026 bei Amorana. Jetzt beim Loveshop Nr. 1 der Schweiz bestellen. Denn mit den Produkten von Amorana sorgst du garantiert für lustvolle Momente - alleine und auch zu zwei",
+   "currency_code": "CHF",
+   "saving": null,
+   "saving_eur": null,
+   "first_seen": "2026-11-26T22:49:36.380522+00:00",
+   "alerted": false
+  },
+  {
+   "id": "https://www.preispirat.ch/?p=779981",
+   "title": "Jetzt Deals mit bis zu 70% sichern",
+   "link": "https://www.preispirat.ch/jetzt-deals-mit-bis-zu-70-sichern/",
+   "price": "",
+   "currency": "CHF",
+   "merchant": "",
+   "image": "",
+   "category": "Fashion & Schmuck",
+   "source": "Preispirat",
+   "country": "Switzerland",
+   "temperature": null,
+   "discount": 70,
+   "price_value": null,
+   "was_price": null,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "70% off"
+   ],
+   "posted": "2026-11-26T22:45:00+00:00",
+   "snippet": "Jetzt wird abgeräumt: Entdecke Deals bei EMP mit bis zu 70% Rabatt und hol dir deine liebsten Bandshirts, Accessoires und Styles zum Hammerpreis",
+   "currency_code": "CHF",
+   "saving": null,
+   "saving_eur": null,
+   "first_seen": "2026-11-26T22:49:36.380522+00:00",
+   "alerted": false
+  },
+  {
    "id": "https://www.hotukdeals.com/deals/up-to-85-off-the-sale-extra-10-off-ps50-send-using-code-5047703",
    "title": "Up to 85% off the Sale + Extra 10% off £50 Send Using Code",
    "link": "https://www.hotukdeals.com/deals/up-to-85-off-the-sale-extra-10-off-ps50-send-using-code-5047703",
@@ -919,7 +1003,7 @@
    "category": "Sport & Outdoor",
    "source": "Preisjaeger",
    "country": "Austria",
-   "temperature": 255,
+   "temperature": 273,
    "discount": 99,
    "price_value": null,
    "was_price": null,
