@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T21:28:13.988471+00:00",
+ "updated": "2026-11-27T22:28:20.279805+00:00",
  "settings": {
   "app_name": "Oopsie",
   "language": "en",
@@ -489,6 +489,35 @@
    "alerted": false
   },
   {
+   "id": "https://www.mydealz.de/deals/preisfehler-castrol-getriebeol-axle-z-ls-90-1l-fur-2eur-atu-abholung-2859154",
+   "title": "Castrol Getriebeöl Axle Z LS 90 1L für 2€ ATU - Abholung",
+   "link": "https://www.mydealz.de/deals/preisfehler-castrol-getriebeol-axle-z-ls-90-1l-fur-2eur-atu-abholung-2859154",
+   "price": "2€",
+   "currency": "€",
+   "merchant": "A.T.U",
+   "image": "https://static.mydealz.de/threads/raw/cJFLK/2859154_1/re/150x150/qt/55/2859154_1.jpg",
+   "category": "Auto & Motorrad",
+   "source": "mydealz",
+   "country": "Germany",
+   "temperature": 5016,
+   "discount": 99,
+   "price_value": 2.0,
+   "was_price": 152.99,
+   "score": 55,
+   "watchlist": false,
+   "reasons": [
+    "mentions \"preisfehler\"",
+    "5016° hot"
+   ],
+   "posted": "2026-11-27T22:12:22+00:00",
+   "snippet": "2€ - A.T.U Moin, bei ATU online gibt es wohl aktuell einen Preisfehler: Castrol Getriebeöl Axle Z LS 90 1L für 2€ Ihr müsst es online bestellen, eure Filial...",
+   "currency_code": "EUR",
+   "saving": 150.99,
+   "saving_eur": 150.99,
+   "first_seen": "2026-11-27T22:28:20.279805+00:00",
+   "alerted": false
+  },
+  {
    "id": "https://www.pepper.pl/promocje/black-friday-w-awaken-realms-etherfields-i-inne-gry-planszowe-nawet-70-taniej-1402474",
    "title": "Black Friday w Awaken Realms (Etherfields i inne gry planszowe nawet 70% taniej)",
    "link": "https://www.pepper.pl/promocje/black-friday-w-awaken-realms-etherfields-i-inne-gry-planszowe-nawet-70-taniej-1402474",
@@ -514,34 +543,6 @@
    "saving": 665.0,
    "saving_eur": 148.31,
    "first_seen": "2026-11-27T12:45:28.996629+00:00",
-   "alerted": false
-  },
-  {
-   "id": "https://www.pepperdeals.se/deals/wenger-skyon-kabinvaska-35-45-l-expanderbar-med-tsa-las-usb-33299-kr-ord-pris-ca-1-800-kr-21894",
-   "title": "Wenger Skyon Kabinväska 35 (45) L – Expanderbar med TSA-lås & USB",
-   "link": "https://www.pepperdeals.se/deals/wenger-skyon-kabinvaska-35-45-l-expanderbar-med-tsa-las-usb-33299-kr-ord-pris-ca-1-800-kr-21894",
-   "price": "332,99kr",
-   "currency": "kr",
-   "merchant": "Amazon.se",
-   "image": "https://static.pepperdeals.se/threads/raw/87Lmt/21894_1/re/150x150/qt/55/21894_1.jpg",
-   "category": "Mode & Accessoarer",
-   "source": "Pepper Sweden",
-   "country": "Sweden",
-   "temperature": null,
-   "discount": 81,
-   "price_value": 332.99,
-   "was_price": 1752.58,
-   "score": 30,
-   "watchlist": false,
-   "reasons": [
-    "81% off"
-   ],
-   "posted": "2026-11-26T16:00:11+00:00",
-   "snippet": "332,99kr - Amazon.se Riktigt bra pris på en hård, expanderbar kabinväska från schweiziska Wenger (ägs av Victorinox) hos Amazon.se. Säljs och skickas direkt av Amazon med fri frakt och fria returer. Prisjämförelse: Amazo",
-   "currency_code": "SEK",
-   "saving": 1419.59,
-   "saving_eur": 126.72,
-   "first_seen": "2026-11-24T22:12:32.887073+00:00",
    "alerted": false
   },
   {
@@ -598,6 +599,34 @@
    "saving": 105.0,
    "saving_eur": 105.0,
    "first_seen": "2026-11-26T14:43:36.831667+00:00",
+   "alerted": false
+  },
+  {
+   "id": "https://www.pepper.pl/promocje/torba-rowerowa-routewerks-1403511",
+   "title": "Torba rowerowa Routewerks",
+   "link": "https://www.pepper.pl/promocje/torba-rowerowa-routewerks-1403511",
+   "price": "155zł",
+   "currency": "zł",
+   "merchant": "",
+   "image": "https://static.pepper.pl/threads/raw/kXEmT/1403511_1/re/150x150/qt/55/1403511_1.jpg",
+   "category": "Sport i turystyka",
+   "source": "Pepper PL",
+   "country": "Poland",
+   "temperature": null,
+   "discount": 75,
+   "price_value": 155.0,
+   "was_price": 620.0,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "75% off"
+   ],
+   "posted": "2026-11-27T21:50:34+00:00",
+   "snippet": "155zł Niestety firma Routewerks kończy swoją działalność, z tego powodu jest mega wyprzedaż -75%. Dziś jeszcze były dostępne standardowe oraz duże torby, uchwyty do standardowej kierownicy 31.8, oraz niektóre akcesoria. ",
+   "currency_code": "PLN",
+   "saving": 465.0,
+   "saving_eur": 104.08,
+   "first_seen": "2026-11-27T22:28:20.279805+00:00",
    "alerted": false
   },
   {
@@ -990,6 +1019,34 @@
    "saving": 51.0,
    "saving_eur": 51.0,
    "first_seen": "2026-11-25T16:45:35.714086+00:00",
+   "alerted": false
+  },
+  {
+   "id": "https://www.pepperdeals.se/deals/proshop-black-friday-rea-upp-till-96-rabatt-22093",
+   "title": "[Proshop] Black Friday-rea – upp till 96 % rabatt",
+   "link": "https://www.pepperdeals.se/deals/proshop-black-friday-rea-upp-till-96-rabatt-22093",
+   "price": "",
+   "currency": "kr",
+   "merchant": "PROSHOP",
+   "image": "https://static.pepperdeals.se/threads/raw/1dHc5/22093_1/re/150x150/qt/55/22093_1.jpg",
+   "category": "Elektronik",
+   "source": "Pepper Sweden",
+   "country": "Sweden",
+   "temperature": null,
+   "discount": 96,
+   "price_value": null,
+   "was_price": null,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "96% off"
+   ],
+   "posted": "2026-11-27T22:07:03+00:00",
+   "snippet": "PROSHOP Proshop har dragit igång sin Black Friday / Black Week-kampanj med över 8 400 nedsatta produkter inom gaming, datorkomponenter, mobil, smarta hem och hemelektronik. Genom att sortera kampanjsidan direkt efter hög",
+   "currency_code": "SEK",
+   "saving": null,
+   "saving_eur": null,
+   "first_seen": "2026-11-27T22:28:20.279805+00:00",
    "alerted": false
   },
   {
