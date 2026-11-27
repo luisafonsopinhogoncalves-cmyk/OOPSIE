@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T06:47:57.584712+00:00",
+ "updated": "2026-11-27T08:25:38.826691+00:00",
  "settings": {
   "app_name": "Oopsie",
   "language": "en",
@@ -471,7 +471,7 @@
    "category": "Mode & Accessoires",
    "source": "Dealabs",
    "country": "France",
-   "temperature": null,
+   "temperature": 152,
    "discount": 70,
    "price_value": 127.5,
    "was_price": 425.0,
@@ -480,8 +480,8 @@
    "reasons": [
     "70% off"
    ],
-   "posted": "2026-11-26T22:07:46+00:00",
-   "snippet": "127,50€ - Amazon En ce moment, Zalando propose ses offres Black Friday avec des réductions annoncées jusqu’à -70 % sur une large sélection. En parallèle, Amazon vend des cartes cadeaux Zalando dématérialisées avec 15 % d",
+   "posted": "2026-11-27T08:03:06+00:00",
+   "snippet": "127,50€ - Amazon En ce moment, Zalando propose ses offres Black Friday avec des réductions annoncées jusqu’à -70 % sur une large sélection. En parallèle, Amazon...",
    "currency_code": "EUR",
    "saving": 297.5,
    "saving_eur": 297.5,
