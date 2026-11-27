@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T23:47:52.633383+00:00",
+ "updated": "2026-11-27T00:59:51.025772+00:00",
  "settings": {
   "app_name": "Oopsie",
   "language": "en",
@@ -68,6 +68,34 @@
    "alerted": false
   },
   {
+   "id": "https://www.hotukdeals.com/deals/dji-power-2000-portable-2048wh-power-station-2048wh-expansion-battery-5048902",
+   "title": "DJI Power 2000 Portable 2048Wh Power Station + 2048Wh Expansion Battery",
+   "link": "https://www.hotukdeals.com/deals/dji-power-2000-portable-2048wh-power-station-2048wh-expansion-battery-5048902",
+   "price": "£989.98",
+   "currency": "£",
+   "merchant": "Costco",
+   "image": "https://images.hotukdeals.com/threads/raw/8S6L3/5048902_1/re/150x150/qt/55/5048902_1.jpg",
+   "category": "Garden & Do It Yourself",
+   "source": "HotUKDeals",
+   "country": "UK",
+   "temperature": null,
+   "discount": 80,
+   "price_value": 989.98,
+   "was_price": 4949.9,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "80% off"
+   ],
+   "posted": "2026-11-27T00:45:06+00:00",
+   "snippet": "£989.98 - Costco • 2048 Wh portable power station • 2048 Wh expansion battery Features -4096Wh total capacity -4 x AC, 4 x USB-C and 4 x USB-A Outputs -Recharges from 0-80% in approximately 45 minutes -Ultra-quiet operat",
+   "currency_code": "GBP",
+   "saving": 3959.92,
+   "saving_eur": 4727.98,
+   "first_seen": "2026-11-27T00:59:51.025772+00:00",
+   "alerted": false
+  },
+  {
    "id": "https://www.pepperdeals.se/deals/black-week-hos-proshop-spara-upp-till-96-pa-datorer-gaming-lego-hemelektronik-21572",
    "title": "Proshop Upp till 96% REA - Ex. Samsung Galaxy Buds4 Pro - Svart",
    "link": "https://www.pepperdeals.se/deals/black-week-hos-proshop-spara-upp-till-96-pa-datorer-gaming-lego-hemelektronik-21572",
@@ -121,6 +149,34 @@
    "saving": 1240.38,
    "saving_eur": 1240.38,
    "first_seen": "2026-11-24T13:49:03.335667+00:00",
+   "alerted": false
+  },
+  {
+   "id": "https://www.chollometro.com/ofertas/plan-de-por-vida-fastestvpn-pro-15-dispositivos-5-anos-de-fastestpass-por-solo-2090-antes-120000-98-2092565",
+   "title": "Plan de por vida FastestVPN PRO (15 dispositivos) + 5 años de FastestPass por solo 20,90 $ (antes 1.200,00 $ · -98 %)",
+   "link": "https://www.chollometro.com/ofertas/plan-de-por-vida-fastestvpn-pro-15-dispositivos-5-anos-de-fastestpass-por-solo-2090-antes-120000-98-2092565",
+   "price": "20,90€",
+   "currency": "€",
+   "merchant": "BitsDuJour",
+   "image": "https://static.chollometro.com/threads/raw/xwBa3/2092565_1/re/150x150/qt/55/2092565_1.jpg",
+   "category": "Finanzas y seguros",
+   "source": "Chollometro",
+   "country": "Spain",
+   "temperature": null,
+   "discount": 98,
+   "price_value": 20.9,
+   "was_price": 1200.0,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "98% off"
+   ],
+   "posted": "2026-11-27T00:46:52+00:00",
+   "snippet": "20,90€ - BitsDuJour Plan de por vida FastestVPN PRO (15 dispositivos) + 5 años de FastestPass por solo 20,90 $ (antes 1.200,00 $ · -98 %) Oferta de Black Friday para olvidarte de cuotas mensuales o renovaciones anuales: ",
+   "currency_code": "EUR",
+   "saving": 1179.1,
+   "saving_eur": 1179.1,
+   "first_seen": "2026-11-27T00:59:51.025772+00:00",
    "alerted": false
   },
   {
