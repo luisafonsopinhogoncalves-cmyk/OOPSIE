@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T00:59:51.025772+00:00",
+ "updated": "2026-11-27T02:22:38.473548+00:00",
  "settings": {
   "app_name": "Oopsie",
   "language": "en",
@@ -159,7 +159,7 @@
    "currency": "€",
    "merchant": "BitsDuJour",
    "image": "https://static.chollometro.com/threads/raw/xwBa3/2092565_1/re/150x150/qt/55/2092565_1.jpg",
-   "category": "Finanzas y seguros",
+   "category": "Electrónica",
    "source": "Chollometro",
    "country": "Spain",
    "temperature": null,
@@ -963,6 +963,34 @@
    "saving_eur": 51.0,
    "first_seen": "2026-11-25T16:45:35.714086+00:00",
    "alerted": false
+  },
+  {
+   "id": "https://www.mydealz.de/deals/preisfehler-black-friday-rabattberechnung-jd-onlineshop-2883141",
+   "title": "[Preisfehler] Rabattberechnung Black Friday JD Onlineshop",
+   "link": "https://www.mydealz.de/deals/preisfehler-black-friday-rabattberechnung-jd-onlineshop-2883141",
+   "price": "",
+   "currency": "€",
+   "merchant": "JD Sports",
+   "image": "https://static.mydealz.de/threads/raw/liZQd/2883141_1/re/150x150/qt/55/2883141_1.jpg",
+   "category": "Fashion & Accessoires",
+   "source": "mydealz",
+   "country": "Germany",
+   "temperature": 193,
+   "discount": null,
+   "price_value": null,
+   "was_price": null,
+   "score": 70,
+   "watchlist": false,
+   "reasons": [
+    "mentions \"preisfehler\""
+   ],
+   "posted": "2026-11-27T01:49:58+00:00",
+   "snippet": "JD Sports Aktuell Preisfehler bei Rabattberechnung im Warenkorb bei vielen, bereits reduzierten Produkten im JD Onlineshop ! Eigentlich sol...",
+   "currency_code": "EUR",
+   "saving": null,
+   "saving_eur": null,
+   "first_seen": "2026-11-27T02:22:38.473548+00:00",
+   "alerted": true
   },
   {
    "id": "https://www.preispirat.ch/?p=779355",
