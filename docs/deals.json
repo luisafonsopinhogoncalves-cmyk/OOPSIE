@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T11:36:47.014431+00:00",
+ "updated": "2026-11-27T12:45:28.996629+00:00",
  "settings": {
   "app_name": "Oopsie",
   "language": "en",
@@ -517,6 +517,34 @@
    "alerted": false
   },
   {
+   "id": "https://www.pepper.pl/promocje/black-friday-w-awaken-realms-etherfields-i-inne-gry-planszowe-nawet-70-taniej-1402474",
+   "title": "Black Friday w Awaken Realms (Etherfields i inne gry planszowe nawet 70% taniej)",
+   "link": "https://www.pepper.pl/promocje/black-friday-w-awaken-realms-etherfields-i-inne-gry-planszowe-nawet-70-taniej-1402474",
+   "price": "285zł",
+   "currency": "zł",
+   "merchant": "",
+   "image": "https://static.pepper.pl/threads/raw/8l8JG/1402474_1/re/150x150/qt/55/1402474_1.jpg",
+   "category": "Rodzina i dzieci",
+   "source": "Pepper PL",
+   "country": "Poland",
+   "temperature": null,
+   "discount": 70,
+   "price_value": 285.0,
+   "was_price": 950.0,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "70% off"
+   ],
+   "posted": "2026-11-27T12:34:08+00:00",
+   "snippet": "285zł W oficjalnym sklepie Awaken Realms ruszył Black Friday. W promocji duże gry podstawowe, lżejsze tytuły, jak i dodatki, Stretch Goale oraz zestawy figurek z rabatami od -25% do -70% . Ważne informacje: Darmowa dosta",
+   "currency_code": "PLN",
+   "saving": 665.0,
+   "saving_eur": 148.31,
+   "first_seen": "2026-11-27T12:45:28.996629+00:00",
+   "alerted": false
+  },
+  {
    "id": "https://www.pepperdeals.se/deals/wenger-skyon-kabinvaska-35-45-l-expanderbar-med-tsa-las-usb-33299-kr-ord-pris-ca-1-800-kr-21894",
    "title": "Wenger Skyon Kabinväska 35 (45) L – Expanderbar med TSA-lås & USB",
    "link": "https://www.pepperdeals.se/deals/wenger-skyon-kabinvaska-35-45-l-expanderbar-med-tsa-las-usb-33299-kr-ord-pris-ca-1-800-kr-21894",
@@ -685,6 +713,34 @@
    "alerted": false
   },
   {
+   "id": "https://www.hotukdeals.com/deals/castelli-anima-3-womens-short-sleeve-cycling-jersey-light-black-red-l-xl-5007280",
+   "title": "Castelli Anima 3 Women's Short Sleeve Cycling Jersey - Light Black/ Red (L, XL)",
+   "link": "https://www.hotukdeals.com/deals/castelli-anima-3-womens-short-sleeve-cycling-jersey-light-black-red-l-xl-5007280",
+   "price": "£19.95",
+   "currency": "£",
+   "merchant": "Merlin Cycles",
+   "image": "https://images.hotukdeals.com/threads/raw/Dlb33/5007280_1/re/150x150/qt/55/5007280_1.jpg",
+   "category": "Sports & Outdoors",
+   "source": "HotUKDeals",
+   "country": "UK",
+   "temperature": 107,
+   "discount": 75,
+   "price_value": 19.95,
+   "was_price": 79.8,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "75% off"
+   ],
+   "posted": "2026-11-27T11:37:49+00:00",
+   "snippet": "£19.95 - Merlin Cycles 75% off reduced to £19.95. Normally selling price -£80 Castelli Anima 3 Women's Short Sleeve Cycling Jersey In bold yet simple block colours...",
+   "currency_code": "GBP",
+   "saving": 59.85,
+   "saving_eur": 71.46,
+   "first_seen": "2026-11-27T12:45:28.996629+00:00",
+   "alerted": false
+  },
+  {
    "id": "https://www.hotukdeals.com/deals/manchester-united-2526-home-away-third-adult-shirts-ps2550-each-was-ps85-at-united-store-5048284",
    "title": "Manchester United 25/26 Home, Away & Third adult shirts each",
    "link": "https://www.hotukdeals.com/deals/manchester-united-2526-home-away-third-adult-shirts-ps2550-each-was-ps85-at-united-store-5048284",
@@ -825,6 +881,34 @@
    "alerted": false
   },
   {
+   "id": "https://www.hotukdeals.com/deals/the-north-face-up-to-70-off-clothing-footwear-sale-eg-jersey-top-tetsu-jacket-ps5399-mens-siurana-insulated-jacket-ps6799-5048915",
+   "title": "The North Face up to 70% off Clothing & Footwear Sale eg Jersey top / Tetsu Jacket £53.99 / Men's Siurana Insulated Jacket £67.99",
+   "link": "https://www.hotukdeals.com/deals/the-north-face-up-to-70-off-clothing-footwear-sale-eg-jersey-top-tetsu-jacket-ps5399-mens-siurana-insulated-jacket-ps6799-5048915",
+   "price": "£21.99",
+   "currency": "£",
+   "merchant": "SportPursuit",
+   "image": "https://images.hotukdeals.com/threads/raw/YzbEG/5048915_1/re/150x150/qt/55/5048915_1.jpg",
+   "category": "Sports & Outdoors",
+   "source": "HotUKDeals",
+   "country": "UK",
+   "temperature": 130,
+   "discount": 70,
+   "price_value": 21.99,
+   "was_price": 73.3,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "70% off"
+   ],
+   "posted": "2026-11-27T11:37:49+00:00",
+   "snippet": "£21.99 - SportPursuit Previous sale was up to 60% off Now up to 70% ( banner hasn't updated on site but sent via email) I have inc...",
+   "currency_code": "GBP",
+   "saving": 51.31,
+   "saving_eur": 61.26,
+   "first_seen": "2026-11-27T12:45:28.996629+00:00",
+   "alerted": false
+  },
+  {
    "id": "https://www.hotukdeals.com/deals/star-wars-jedi-fallen-order-deluxe-edition-xbox-one-xbox-series-xs-europe-uk-key-5046173",
    "title": "STAR WARS Jedi: Fallen Order Deluxe Edition Xbox One & Xbox Series X|S (Europe & UK) Key",
    "link": "https://www.hotukdeals.com/deals/star-wars-jedi-fallen-order-deluxe-edition-xbox-one-xbox-series-xs-europe-uk-key-5046173",
@@ -937,6 +1021,34 @@
    "alerted": false
   },
   {
+   "id": "https://www.pepperdeals.se/deals/upp-till-70-rabatt-pa-lauren-ralph-lauren-hos-boozt-idag-22063",
+   "title": "Upp till 70% rabatt på Lauren Ralph Lauren hos Boozt idag",
+   "link": "https://www.pepperdeals.se/deals/upp-till-70-rabatt-pa-lauren-ralph-lauren-hos-boozt-idag-22063",
+   "price": "",
+   "currency": "kr",
+   "merchant": "Boozt.com",
+   "image": "https://static.pepperdeals.se/threads/raw/OaFkA/22063_1/re/150x150/qt/55/22063_1.jpg",
+   "category": "Mode & Accessoarer",
+   "source": "Pepper Sweden",
+   "country": "Sweden",
+   "temperature": null,
+   "discount": 70,
+   "price_value": null,
+   "was_price": null,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "70% off"
+   ],
+   "posted": "2026-11-27T12:03:17+00:00",
+   "snippet": "Boozt.com Nu får vi upp till 70% rabatt på Lauren Ralph Lauren hos Boozt . Skynda och fynda ✨",
+   "currency_code": "SEK",
+   "saving": null,
+   "saving_eur": null,
+   "first_seen": "2026-11-27T12:45:28.996629+00:00",
+   "alerted": false
+  },
+  {
    "id": "https://nl.pepper.com/aanbiedingen/g-star-outlet-herenjeans-tot-80-korting-30-extra-met-code-429755",
    "title": "G-Star Outlet herenjeans tot 80% korting + 30% extra met code",
    "link": "https://nl.pepper.com/aanbiedingen/g-star-outlet-herenjeans-tot-80-korting-30-extra-met-code-429755",
@@ -1031,7 +1143,7 @@
    "category": "Fashion & Accessories",
    "source": "Preisjaeger",
    "country": "Austria",
-   "temperature": 140,
+   "temperature": 154,
    "discount": 70,
    "price_value": null,
    "was_price": null,
@@ -1050,7 +1162,7 @@
   },
   {
    "id": "https://www.pepperdeals.se/rabattkoder/black-friday-black-weekend-22049",
-   "title": "Black Friday + Black weekend upp till 70% Rabatt på allt",
+   "title": "Black Friday + Black weekend upp till 70% Rabatt på allt + 15% Extra i kassan",
    "link": "https://www.pepperdeals.se/rabattkoder/black-friday-black-weekend-22049",
    "price": "",
    "currency": "kr",
