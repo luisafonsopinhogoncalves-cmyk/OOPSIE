@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T22:28:20.279805+00:00",
+ "updated": "2026-11-27T23:24:59.989206+00:00",
  "settings": {
   "app_name": "Oopsie",
   "language": "en",
@@ -770,34 +770,6 @@
    "alerted": false
   },
   {
-   "id": "https://www.hotukdeals.com/deals/south-park-kyle-cosplay-mini-backpack-5045978",
-   "title": "South Park Kyle Cosplay Mini Backpack",
-   "link": "https://www.hotukdeals.com/deals/south-park-kyle-cosplay-mini-backpack-5045978",
-   "price": "£24",
-   "currency": "£",
-   "merchant": "Loungefly",
-   "image": "https://images.hotukdeals.com/threads/raw/kPRkk/5045978_1/re/150x150/qt/55/5045978_1.jpg",
-   "category": "Fashion & Accessories",
-   "source": "HotUKDeals",
-   "country": "UK",
-   "temperature": null,
-   "discount": 70,
-   "price_value": 24.0,
-   "was_price": 80.0,
-   "score": 30,
-   "watchlist": false,
-   "reasons": [
-    "70% off"
-   ],
-   "posted": "2026-11-24T22:11:38+00:00",
-   "snippet": "£24 - Loungefly Bargain 70% off for South Park Fans. Show off one of your favorite characters from the show in style! Kyle is brought to life in applique and embroidered detail. He wears his green hat, green gloves, and ",
-   "currency_code": "GBP",
-   "saving": 56.0,
-   "saving_eur": 66.91,
-   "first_seen": "2026-11-24T23:10:29.026331+00:00",
-   "alerted": false
-  },
-  {
    "id": "https://www.hotukdeals.com/deals/charlotte-tilbury-70-off-perfumes-5046540",
    "title": "Charlotte Tilbury 70% off Perfume Sale - e.g. Star Confidence, 50ml",
    "link": "https://www.hotukdeals.com/deals/charlotte-tilbury-70-off-perfumes-5046540",
@@ -1019,6 +991,62 @@
    "saving": 51.0,
    "saving_eur": 51.0,
    "first_seen": "2026-11-25T16:45:35.714086+00:00",
+   "alerted": false
+  },
+  {
+   "id": "https://www.preispirat.ch/?p=779340",
+   "title": "Black Week: bis zu 70% Rabatt",
+   "link": "https://www.preispirat.ch/black-week-bis-zu-70-rabatt-2/",
+   "price": "",
+   "currency": "CHF",
+   "merchant": "",
+   "image": "",
+   "category": "Wohnen & Haushalt",
+   "source": "Preispirat",
+   "country": "Switzerland",
+   "temperature": null,
+   "discount": 70,
+   "price_value": null,
+   "was_price": null,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "70% off"
+   ],
+   "posted": "2026-11-27T22:45:00+00:00",
+   "snippet": "Die Black Week bei nettoshop.ch ist da: Entdecken Sie eine riesige Auswahl an stark reduzierten Artikeln für Haushalt und Küche und profitieren Sie von zahlreichen attraktiven Markenrabatten. Sichern Sie sich jetzt unser",
+   "currency_code": "CHF",
+   "saving": null,
+   "saving_eur": null,
+   "first_seen": "2026-11-27T23:24:59.989206+00:00",
+   "alerted": false
+  },
+  {
+   "id": "https://www.preispirat.ch/?p=779357",
+   "title": "Bis zu 70% Rabatt auf Sextoys & Dessous",
+   "link": "https://www.preispirat.ch/bis-zu-70-rabatt-auf-sextoys-dessous-15/",
+   "price": "",
+   "currency": "CHF",
+   "merchant": "",
+   "image": "",
+   "category": "Verschiedenes",
+   "source": "Preispirat",
+   "country": "Switzerland",
+   "temperature": null,
+   "discount": 70,
+   "price_value": null,
+   "was_price": null,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "70% off"
+   ],
+   "posted": "2026-11-27T22:45:00+00:00",
+   "snippet": "Profitiere von bis zu 70% Rabatt zur Black Friday Week 2026 bei Amorana. Jetzt beim Loveshop Nr. 1 der Schweiz bestellen. Denn mit den Produkten von Amorana sorgst du garantiert für lustvolle Momente - alleine und auch z",
+   "currency_code": "CHF",
+   "saving": null,
+   "saving_eur": null,
+   "first_seen": "2026-11-27T23:24:59.989206+00:00",
    "alerted": false
   },
   {
