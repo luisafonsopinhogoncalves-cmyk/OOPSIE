@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T08:25:38.826691+00:00",
+ "updated": "2026-11-27T09:41:25.849648+00:00",
  "settings": {
   "app_name": "Oopsie",
   "language": "en",
@@ -290,6 +290,35 @@
    "saving": 698.99,
    "saving_eur": 698.99,
    "first_seen": "2026-11-24T11:20:55.692623+00:00",
+   "alerted": true
+  },
+  {
+   "id": "https://www.pepper.pl/promocje/blad-cenowy-miesiac-w-egipcie-za-100-zl-dla-2-osob-30-nocy-ocena-8610-booking-1402463",
+   "title": "[Błąd cenowy?] Miesiąc w Egipcie za 100 zł dla 2 osób! 30 nocy, ocena 8,6/10 | Booking",
+   "link": "https://www.pepper.pl/promocje/blad-cenowy-miesiac-w-egipcie-za-100-zl-dla-2-osob-30-nocy-ocena-8610-booking-1402463",
+   "price": "100zł",
+   "currency": "zł",
+   "merchant": "booking.com",
+   "image": "https://static.pepper.pl/threads/raw/RlWw8/1402463_1/re/150x150/qt/55/1402463_1.jpg",
+   "category": "Podróże",
+   "source": "Pepper PL",
+   "country": "Poland",
+   "temperature": 485,
+   "discount": 96,
+   "price_value": 100.0,
+   "was_price": 2699.0,
+   "score": 80,
+   "watchlist": false,
+   "reasons": [
+    "mentions \"błąd cenowy\"",
+    "485° hot"
+   ],
+   "posted": "2026-11-27T09:17:15+00:00",
+   "snippet": "100zł - booking.com Ktoś ma ochotę spędzić grudzień w Egipcie w cenie dwóch pizz? :) Trafiłem na kolejny błąd cenowy na Bookingu. Tym razem 30 nocy dla dwóch osób za całe ...",
+   "currency_code": "PLN",
+   "saving": 2599.0,
+   "saving_eur": 579.64,
+   "first_seen": "2026-11-27T09:41:25.849648+00:00",
    "alerted": true
   },
   {
@@ -602,7 +631,7 @@
   },
   {
    "id": "https://www.dealabs.com/bons-plans/jusqua-80-sur-une-selection-darticles-ex-maquette-rafale-c-echelle-172-eme-a-2880-eur-3471121",
-   "title": "Jusqu'à -80 % sur une sélection d'articles - Ex : Maquette Rafale C - Échelle 1/72 ème à 28,80 €",
+   "title": "Sélection d'articles en Promotion - Ex : Maquette Rafale C - Échelle 1/72 ème (thestore-dassault-aviation.com)",
    "link": "https://www.dealabs.com/bons-plans/jusqua-80-sur-une-selection-darticles-ex-maquette-rafale-c-echelle-172-eme-a-2880-eur-3471121",
    "price": "28,80€",
    "currency": "€",
@@ -611,7 +640,7 @@
    "category": "Famille & Enfants",
    "source": "Dealabs",
    "country": "France",
-   "temperature": null,
+   "temperature": 169,
    "discount": 80,
    "price_value": 28.8,
    "was_price": 144.0,
@@ -620,8 +649,8 @@
    "reasons": [
     "80% off"
    ],
-   "posted": "2026-11-26T23:45:31+00:00",
-   "snippet": "28,80€ À l'occasion du Black Friday, Dassault Aviation The Store propose des réductions allant jusqu'à -80 % sur une sélection d'articles , le vendredi 27 novembre uniquement. Quelques exemples de réductions affichées da",
+   "posted": "2026-11-27T09:09:24+00:00",
+   "snippet": "28,80€ À l'occasion du Black Friday, Dassault Aviation The Store propose des réductions allant jusqu'à -80 % sur une sélection d'articles</...",
    "currency_code": "EUR",
    "saving": 115.2,
    "saving_eur": 115.2,
@@ -937,6 +966,34 @@
    "alerted": false
   },
   {
+   "id": "https://www.pepper.pl/promocje/podkaszarka-elektryczna-ryobi-rlt5127pk3-500-w-27-cm-3-szpule-z-zylka-1402506",
+   "title": "Podkaszarka elektryczna Ryobi RLT5127PK3 (500 W, 27 cm) + 3 szpule z żyłką",
+   "link": "https://www.pepper.pl/promocje/podkaszarka-elektryczna-ryobi-rlt5127pk3-500-w-27-cm-3-szpule-z-zylka-1402506",
+   "price": "99zł",
+   "currency": "zł",
+   "merchant": "Media Expert",
+   "image": "https://static.pepper.pl/threads/raw/GdqRX/1402506_1/re/150x150/qt/55/1402506_1.jpg",
+   "category": "Ogród i majsterkowanie",
+   "source": "Pepper PL",
+   "country": "Poland",
+   "temperature": null,
+   "discount": 70,
+   "price_value": 99.0,
+   "was_price": 330.0,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "70% off"
+   ],
+   "posted": "2026-11-27T09:36:27+00:00",
+   "snippet": "99zł - Media Expert Ryobi za stówkę, i to z prawdziwym rabatem, a nie z jakimś „do -70%”. Przez ostatni miesiąc najtaniej kosztowała 199 zł, więc to równe pół ceny. Te 249,99 zł „przed kodem” na stronie możecie sobie dar",
+   "currency_code": "PLN",
+   "saving": 231.0,
+   "saving_eur": 51.52,
+   "first_seen": "2026-11-27T09:41:25.849648+00:00",
+   "alerted": false
+  },
+  {
    "id": "https://www.dealabs.com/bons-plans/poele-nordwik-inox-3-plis-20-cm-tous-feux-dont-induction-70-3469196",
    "title": "Poêle Nordwik Inox 3-plis - 20 cm, Tous Feux Dont Induction (nordicnest.fr)",
    "link": "https://www.dealabs.com/bons-plans/poele-nordwik-inox-3-plis-20-cm-tous-feux-dont-induction-70-3469196",
@@ -962,6 +1019,62 @@
    "saving": 51.0,
    "saving_eur": 51.0,
    "first_seen": "2026-11-25T16:45:35.714086+00:00",
+   "alerted": false
+  },
+  {
+   "id": "https://www.preisjaeger.at/deals/hugo-70-373551",
+   "title": "Hugo -70%",
+   "link": "https://www.preisjaeger.at/deals/hugo-70-373551",
+   "price": "",
+   "currency": "€",
+   "merchant": "Kleider Bauer",
+   "image": "https://static.preisjaeger.at/threads/raw/sHLWZ/373551_1/re/150x150/qt/55/373551_1.jpg",
+   "category": "Fashion & Accessories",
+   "source": "Preisjaeger",
+   "country": "Austria",
+   "temperature": null,
+   "discount": 70,
+   "price_value": null,
+   "was_price": null,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "70% off"
+   ],
+   "posted": "2026-11-27T08:28:51+00:00",
+   "snippet": "Kleider Bauer Hugo Hugo Boss -70% BLACK DAYS NUR SCS Vösendorf Kleider Bauer",
+   "currency_code": "EUR",
+   "saving": null,
+   "saving_eur": null,
+   "first_seen": "2026-11-27T09:41:25.849648+00:00",
+   "alerted": false
+  },
+  {
+   "id": "https://www.pepperdeals.se/rabattkoder/black-friday-black-weekend-22049",
+   "title": "Black Friday + Black weekend upp till 70% Rabatt på allt",
+   "link": "https://www.pepperdeals.se/rabattkoder/black-friday-black-weekend-22049",
+   "price": "",
+   "currency": "kr",
+   "merchant": "Myprotein",
+   "image": "https://www.pepperdeals.se/assets/img/default-merchant.svg",
+   "category": "Hälsa & Skönhet",
+   "source": "Pepper Sweden",
+   "country": "Sweden",
+   "temperature": null,
+   "discount": 70,
+   "price_value": null,
+   "was_price": null,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "70% off"
+   ],
+   "posted": "2026-11-27T08:45:05+00:00",
+   "snippet": "Myprotein Upp till 70% REA på allt Black friday + Black Weekend på Myprotein.se 15% rabatt extra på allt i kassan med Kod: SmainMP Gäller månaden ut!",
+   "currency_code": "SEK",
+   "saving": null,
+   "saving_eur": null,
+   "first_seen": "2026-11-27T09:41:25.849648+00:00",
    "alerted": false
   },
   {
