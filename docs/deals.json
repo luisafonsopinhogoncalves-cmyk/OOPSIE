@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T17:29:16.847872+00:00",
+ "updated": "2026-11-27T18:20:07.057912+00:00",
  "settings": {
   "app_name": "Oopsie",
   "language": "en",
@@ -607,11 +607,11 @@
    "price": "999€",
    "currency": "€",
    "merchant": "Lenovo",
-   "image": "https://static.preisjaeger.at/threads/raw/wsHQM/373614_1/re/150x150/qt/55/373614_1.jpg",
+   "image": "https://static.preisjaeger.at/threads/raw/0sh30/373614_1/re/150x150/qt/55/373614_1.jpg",
    "category": "Elektronik",
    "source": "Preisjaeger",
    "country": "Austria",
-   "temperature": 183,
+   "temperature": 177,
    "discount": 9,
    "price_value": 999.0,
    "was_price": 1099.0,
@@ -1018,6 +1018,34 @@
    "saving": 51.0,
    "saving_eur": 51.0,
    "first_seen": "2026-11-25T16:45:35.714086+00:00",
+   "alerted": false
+  },
+  {
+   "id": "https://www.pepperdeals.se/deals/xbox-black-friday-spara-upp-till-80-21868",
+   "title": "XBOX - Black Friday -Spara upp till 80%",
+   "link": "https://www.pepperdeals.se/deals/xbox-black-friday-spara-upp-till-80-21868",
+   "price": "",
+   "currency": "kr",
+   "merchant": "",
+   "image": "https://static.pepperdeals.se/threads/raw/aU6wR/21868_1/re/150x150/qt/55/21868_1.jpg",
+   "category": "Spel & Gaming",
+   "source": "Pepper Sweden",
+   "country": "Sweden",
+   "temperature": 114,
+   "discount": 80,
+   "price_value": null,
+   "was_price": null,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "80% off"
+   ],
+   "posted": "2026-11-25T08:43:48+00:00",
+   "snippet": "Dags att fynda till riktigt bra priser! Just nu har Xbox Black Friday-rea med upp till 80 % rabatt på utvalda produkter och erbjudanden. ...",
+   "currency_code": "SEK",
+   "saving": null,
+   "saving_eur": null,
+   "first_seen": "2026-11-27T18:20:07.057912+00:00",
    "alerted": false
   },
   {
