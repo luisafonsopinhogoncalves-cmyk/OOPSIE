@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T15:10:05.932799+00:00",
+ "updated": "2026-11-27T16:16:47.469169+00:00",
  "settings": {
   "app_name": "Oopsie",
   "language": "en",
@@ -601,6 +601,34 @@
    "alerted": false
   },
   {
+   "id": "https://www.preisjaeger.at/deals/lenovo-thinkbook-plus-g7-auto-twist-luna-grey-core-ultra-x7-358h-32gb-ram-512gb-ssd-de-373614",
+   "title": "(Preisfehler?) Lenovo ThinkBook Plus G7 Auto Twist, Luna Grey, Core Ultra X7 358H, 32GB RAM, 512GB SSD, DE",
+   "link": "https://www.preisjaeger.at/deals/lenovo-thinkbook-plus-g7-auto-twist-luna-grey-core-ultra-x7-358h-32gb-ram-512gb-ssd-de-373614",
+   "price": "999€",
+   "currency": "€",
+   "merchant": "Lenovo",
+   "image": "https://static.preisjaeger.at/threads/raw/wsHQM/373614_1/re/150x150/qt/55/373614_1.jpg",
+   "category": "Elektronik",
+   "source": "Preisjaeger",
+   "country": "Austria",
+   "temperature": 136,
+   "discount": 9,
+   "price_value": 999.0,
+   "was_price": 1099.0,
+   "score": 70,
+   "watchlist": false,
+   "reasons": [
+    "mentions \"preisfehler\""
+   ],
+   "posted": "2026-11-27T15:43:44+00:00",
+   "snippet": "999€ - Lenovo Hey PJ Vielleicht ein Preisfehler? Bei Lenovo bekommt ihr gerade das Lenovo ThinkBook Plus G7 Auto Twist, Luna Grey, Core Ultra X7 358H, 32GB RAM, 512G...",
+   "currency_code": "EUR",
+   "saving": 100.0,
+   "saving_eur": 100.0,
+   "first_seen": "2026-11-27T16:16:47.469169+00:00",
+   "alerted": true
+  },
+  {
    "id": "https://www.mydealz.de/deals/zalando-black-friday-sale-bis-zu-70-rabatt-zb-adidas-originals-japan-orbit-greycloud-whitesilver-coloured-metallic-dfb-trikot-uvm-2882559",
    "title": "Zalando Black Friday Sale | Bis zu 70% Rabatt | z.B. Adidas Originals Japan orbit-grey/cloud white/silver-coloured metallic, DFB Trikot uvm",
    "link": "https://www.mydealz.de/deals/zalando-black-friday-sale-bis-zu-70-rabatt-zb-adidas-originals-japan-orbit-greycloud-whitesilver-coloured-metallic-dfb-trikot-uvm-2882559",
@@ -993,6 +1021,34 @@
    "alerted": false
   },
   {
+   "id": "https://www.pepperdeals.se/deals/parfymklick-black-friday-upp-till-75-rabatt-21791",
+   "title": "ParfymKlick - Black Friday, upp till 75% rabatt",
+   "link": "https://www.pepperdeals.se/deals/parfymklick-black-friday-upp-till-75-rabatt-21791",
+   "price": "",
+   "currency": "kr",
+   "merchant": "",
+   "image": "https://static.pepperdeals.se/threads/raw/Ca93g/21791_1/re/150x150/qt/55/21791_1.jpg",
+   "category": "Hälsa & Skönhet",
+   "source": "Pepper Sweden",
+   "country": "Sweden",
+   "temperature": 112,
+   "discount": 75,
+   "price_value": null,
+   "was_price": null,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "75% off"
+   ],
+   "posted": "2026-11-24T13:56:10+00:00",
+   "snippet": "Lyxiga Favoriter till Lägre Pris! Varumärkena högst upp på deras önskelista kan snart hamna i din varukorg. Vår stora märken Black...",
+   "currency_code": "SEK",
+   "saving": null,
+   "saving_eur": null,
+   "first_seen": "2026-11-27T16:16:47.469169+00:00",
+   "alerted": false
+  },
+  {
    "id": "https://www.chollometro.com/ofertas/seleccion-cazachollos-amazon-segunda-mano-22-descuentos-del-74-al-47-como-nuevo-y-muy-bueno-2093468",
    "title": "Selección Cazachollos Amazon Segunda Mano 22 (Descuentos del 74% al 47% · Como Nuevo y Muy Bueno)",
    "link": "https://www.chollometro.com/ofertas/seleccion-cazachollos-amazon-segunda-mano-22-descuentos-del-74-al-47-como-nuevo-y-muy-bueno-2093468",
@@ -1031,7 +1087,7 @@
    "category": "Elektronica",
    "source": "Pepper NL",
    "country": "Netherlands",
-   "temperature": 196,
+   "temperature": 223,
    "discount": null,
    "price_value": 2329.0,
    "was_price": null,
@@ -2337,34 +2393,6 @@
    "saving": null,
    "saving_eur": null,
    "first_seen": "2026-11-24T17:02:29.228533+00:00",
-   "alerted": false
-  },
-  {
-   "id": "https://www.chollometro.com/ofertas/seleccion-cazachollos-amazon-segunda-mano-19-descuentos-del-79-al-40-como-nuevo-y-muy-bueno-2087845",
-   "title": "Selección Cazachollos Amazon Segunda Mano 19 (Descuentos del 79% al 40% · Como Nuevo y Muy Bueno)",
-   "link": "https://www.chollometro.com/ofertas/seleccion-cazachollos-amazon-segunda-mano-19-descuentos-del-79-al-40-como-nuevo-y-muy-bueno-2087845",
-   "price": "",
-   "currency": "€",
-   "merchant": "Amazon",
-   "image": "https://static.chollometro.com/threads/raw/TDXQv/2087845_1/re/150x150/qt/55/2087845_1.jpg",
-   "category": "Hogar, vivienda y oficina",
-   "source": "Chollometro",
-   "country": "Spain",
-   "temperature": 213,
-   "discount": 79,
-   "price_value": null,
-   "was_price": null,
-   "score": 30,
-   "watchlist": false,
-   "reasons": [
-    "79% off"
-   ],
-   "posted": "2026-11-24T14:54:06+00:00",
-   "snippet": "Amazon ¡Nueva entrega #19 de nuestra selección diaria de Amazon Segunda Mano (Reacondicionados) con rebajas desde el -79% hasta el -40%! Guía rápida de comp...",
-   "currency_code": "EUR",
-   "saving": null,
-   "saving_eur": null,
-   "first_seen": "2026-11-24T15:58:27.744021+00:00",
    "alerted": false
   }
  ]
