@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T03:31:59.953886+00:00",
+ "updated": "2026-11-27T04:45:12.882454+00:00",
  "settings": {
   "app_name": "Oopsie",
   "language": "en",
@@ -975,14 +975,15 @@
    "category": "Fashion & Accessoires",
    "source": "mydealz",
    "country": "Germany",
-   "temperature": 276,
+   "temperature": 300,
    "discount": null,
    "price_value": null,
    "was_price": null,
-   "score": 70,
+   "score": 80,
    "watchlist": false,
    "reasons": [
-    "mentions \"preisfehler\""
+    "mentions \"preisfehler\"",
+    "300° hot"
    ],
    "posted": "2026-11-27T01:49:58+00:00",
    "snippet": "JD Sports Aktuell Preisfehler bei Rabattberechnung im Warenkorb bei vielen, bereits reduzierten Produkten im JD Onlineshop ! Eigentlich sol...",
