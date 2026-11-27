@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T10:37:41.121237+00:00",
+ "updated": "2026-11-27T11:36:47.014431+00:00",
  "settings": {
   "app_name": "Oopsie",
   "language": "en",
@@ -206,35 +206,6 @@
    "saving_eur": 767.04,
    "first_seen": "2026-11-25T10:53:19.049449+00:00",
    "alerted": false
-  },
-  {
-   "id": "https://nl.pepper.com/aanbiedingen/prijsfout-praxis-weka-informatiehuisje-eikenwit-429035",
-   "title": "Prijsfout, Praxis Weka informatiehuisje eiken/wit",
-   "link": "https://nl.pepper.com/aanbiedingen/prijsfout-praxis-weka-informatiehuisje-eikenwit-429035",
-   "price": "€0,01",
-   "currency": "€",
-   "merchant": "Praxis",
-   "image": "https://static.pepper.com/threads/raw/L7gE5/429035_1/re/150x150/qt/55/429035_1.jpg",
-   "category": "Tuin & Doe-het-zelf",
-   "source": "Pepper NL",
-   "country": "Netherlands",
-   "temperature": 644,
-   "discount": 100,
-   "price_value": 0.01,
-   "was_price": 699.0,
-   "score": 80,
-   "watchlist": false,
-   "reasons": [
-    "mentions \"prijsfout\"",
-    "644° hot"
-   ],
-   "posted": "2026-11-24T10:55:40+00:00",
-   "snippet": "€0,01 - Praxis Informatiehuisje Met massief houten vloer Afsluitbaar Paneeldeuren voorzien van echt glas",
-   "currency_code": "EUR",
-   "saving": 698.99,
-   "saving_eur": 698.99,
-   "first_seen": "2026-11-24T11:20:55.692623+00:00",
-   "alerted": true
   },
   {
    "id": "https://www.pepper.pl/promocje/blad-cenowy-miesiac-w-egipcie-za-100-zl-dla-2-osob-30-nocy-ocena-8610-booking-1402463",
@@ -459,6 +430,34 @@
    "saving": 225.0,
    "saving_eur": 225.0,
    "first_seen": "2026-11-27T10:37:41.121237+00:00",
+   "alerted": false
+  },
+  {
+   "id": "https://www.mydealz.de/deals/g-star-outlet-black-friday-mit-extra-25-auf-sale-2875975",
+   "title": "G-STAR Outlet | BLACK FRIDAY mit extra 30 % auf SALE (bis zu 80 % Rabatt auf UVP), z. B. Dakota Jeans",
+   "link": "https://www.mydealz.de/deals/g-star-outlet-black-friday-mit-extra-25-auf-sale-2875975",
+   "price": "50,45€",
+   "currency": "€",
+   "merchant": "G-Star RAW Outlet",
+   "image": "https://static.mydealz.de/threads/raw/sKv1o/2875975_1/re/150x150/qt/55/2875975_1.jpg",
+   "category": "Fashion & Accessoires",
+   "source": "mydealz",
+   "country": "Germany",
+   "temperature": 237,
+   "discount": 80,
+   "price_value": 50.45,
+   "was_price": 252.25,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "80% off"
+   ],
+   "posted": "2026-11-27T10:42:14+00:00",
+   "snippet": "50,45€ - G-Star RAW Outlet GiG – G-STAR ist geil?! Seht ihr das genauso freut ihr euch bestimmt hier direkt loszustöbern. Meldet euch kostenlos (per ...",
+   "currency_code": "EUR",
+   "saving": 201.8,
+   "saving_eur": 201.8,
+   "first_seen": "2026-11-27T11:36:47.014431+00:00",
    "alerted": false
   },
   {
@@ -938,6 +937,34 @@
    "alerted": false
   },
   {
+   "id": "https://nl.pepper.com/aanbiedingen/g-star-outlet-herenjeans-tot-80-korting-30-extra-met-code-429755",
+   "title": "G-Star Outlet herenjeans tot 80% korting + 30% extra met code",
+   "link": "https://nl.pepper.com/aanbiedingen/g-star-outlet-herenjeans-tot-80-korting-30-extra-met-code-429755",
+   "price": "",
+   "currency": "€",
+   "merchant": "G-Star Outlet",
+   "image": "https://static.pepper.com/threads/raw/4StHt/429755_1/re/150x150/qt/55/429755_1.jpg",
+   "category": "Mode & Accessoires",
+   "source": "Pepper NL",
+   "country": "Netherlands",
+   "temperature": null,
+   "discount": 80,
+   "price_value": null,
+   "was_price": null,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "80% off"
+   ],
+   "posted": "2026-11-27T11:02:00+00:00",
+   "snippet": "G-Star Outlet Bij G-Star Outlet zijn de herenjeans tijdens Black Friday tot 80% afgeprijsd, en met de code AFF30-BFPEPPEROUTLET krijg je er nog 30% extra korting bovenop. Je vindt er o.a. de 3301, Mosa, Kitoh en verschil",
+   "currency_code": "EUR",
+   "saving": null,
+   "saving_eur": null,
+   "first_seen": "2026-11-27T11:36:47.014431+00:00",
+   "alerted": false
+  },
+  {
    "id": "https://www.hotukdeals.com/deals/wru-wales-clearance-sale-up-to-90-off-5049400",
    "title": "WRU Wales Clearance Sale - Up to 90% off (for members)",
    "link": "https://www.hotukdeals.com/deals/wru-wales-clearance-sale-up-to-90-off-5049400",
@@ -1004,7 +1031,7 @@
    "category": "Fashion & Accessories",
    "source": "Preisjaeger",
    "country": "Austria",
-   "temperature": 115,
+   "temperature": 140,
    "discount": 70,
    "price_value": null,
    "was_price": null,
@@ -2311,34 +2338,6 @@
    "saving_eur": null,
    "first_seen": "2026-11-24T13:49:03.335667+00:00",
    "alerted": true
-  },
-  {
-   "id": "https://www.mydealz.de/gutscheine/black-week-bei-bstn-mit-bis-zu-70-und-mit-dem-code-extra-25-2880442",
-   "title": "Black Week bei BSTN mit dem Code EXTRA -25%",
-   "link": "https://www.mydealz.de/gutscheine/black-week-bei-bstn-mit-bis-zu-70-und-mit-dem-code-extra-25-2880442",
-   "price": "",
-   "currency": "€",
-   "merchant": "BSTN",
-   "image": "https://static.mydealz.de/merchants/raw/avatar/11394_2/re/352x352/qt/60/11394_2.jpg",
-   "category": "Fashion & Accessoires",
-   "source": "mydealz",
-   "country": "Germany",
-   "temperature": null,
-   "discount": 70,
-   "price_value": null,
-   "was_price": null,
-   "score": 30,
-   "watchlist": false,
-   "reasons": [
-    "70% off"
-   ],
-   "posted": "2026-11-24T10:59:12+00:00",
-   "snippet": "BSTN Zusätzlich zum BSTN Black Week Sale, bei dem man bis zu -70% im Shop erhält, gibt es jetzt mit dem Code BACL\"% zusätzlich -25% auf fast alle Artikel. Dazu gehören sowohl Schuhe, Accessoires, Jacken, Hosen, Oberteile",
-   "currency_code": "EUR",
-   "saving": null,
-   "saving_eur": null,
-   "first_seen": "2026-11-24T11:20:55.692623+00:00",
-   "alerted": false
   }
  ]
 }
