@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T14:04:05.041096+00:00",
+ "updated": "2026-11-27T15:10:05.932799+00:00",
  "settings": {
   "app_name": "Oopsie",
   "language": "en",
@@ -484,7 +484,7 @@
    "snippet": "749,70kr - Booztlet Just nu är det 70% rabatt på Tretorn Leia Coat i färgen Jet Black. Dunkappan kostar nu 749,70 kr istället för 2 499 kr, vilket innebär en besparing på 1 749,...",
    "currency_code": "SEK",
    "saving": 1749.3,
-   "saving_eur": 156.15,
+   "saving_eur": 156.08,
    "first_seen": "2026-11-26T11:08:09.306122+00:00",
    "alerted": false
   },
@@ -598,34 +598,6 @@
    "saving": 105.0,
    "saving_eur": 105.0,
    "first_seen": "2026-11-26T14:43:36.831667+00:00",
-   "alerted": false
-  },
-  {
-   "id": "https://www.mydealz.de/deals/about-you-black-deals-bis-zu-70-rabatt-zb-adidas-adizero-adios-og-taupe-auch-nike-boss-levis-dr-martens-uvm-2880669",
-   "title": "ABOUT YOU Black Deals | bis zu 70% Rabatt | z.B. Adidas Adizero Adios OG Taupe | auch Nike, Boss, Levi's, Dr. Martens uvm",
-   "link": "https://www.mydealz.de/deals/about-you-black-deals-bis-zu-70-rabatt-zb-adidas-adizero-adios-og-taupe-auch-nike-boss-levis-dr-martens-uvm-2880669",
-   "price": "38,70€",
-   "currency": "€",
-   "merchant": "ABOUT YOU",
-   "image": "https://static.mydealz.de/threads/raw/OxV7b/2880669_1/re/150x150/qt/55/2880669_1.jpg",
-   "category": "Fashion & Accessoires",
-   "source": "mydealz",
-   "country": "Germany",
-   "temperature": null,
-   "discount": 70,
-   "price_value": 38.7,
-   "was_price": 129.0,
-   "score": 30,
-   "watchlist": false,
-   "reasons": [
-    "70% off"
-   ],
-   "posted": "2026-11-24T14:33:08+00:00",
-   "snippet": "38,70€ - ABOUT YOU About You hat die Black Deals zum Black Friday am laufen. Ihr erhaltet bis zu 70% Rabatt auf recht viele Kategorien. Hier sind die Links um direkt zu eurer Kategorie zu gelangen: Für Männer mit insgesa",
-   "currency_code": "EUR",
-   "saving": 90.3,
-   "saving_eur": 90.3,
-   "first_seen": "2026-11-24T14:52:36.481296+00:00",
    "alerted": false
   },
   {
@@ -1021,6 +993,34 @@
    "alerted": false
   },
   {
+   "id": "https://www.chollometro.com/ofertas/seleccion-cazachollos-amazon-segunda-mano-22-descuentos-del-74-al-47-como-nuevo-y-muy-bueno-2093468",
+   "title": "Selección Cazachollos Amazon Segunda Mano 22 (Descuentos del 74% al 47% · Como Nuevo y Muy Bueno)",
+   "link": "https://www.chollometro.com/ofertas/seleccion-cazachollos-amazon-segunda-mano-22-descuentos-del-74-al-47-como-nuevo-y-muy-bueno-2093468",
+   "price": "",
+   "currency": "€",
+   "merchant": "Amazon",
+   "image": "https://static.chollometro.com/threads/raw/tbtZi/2093468_1/re/150x150/qt/55/2093468_1.jpg",
+   "category": "Electrónica",
+   "source": "Chollometro",
+   "country": "Spain",
+   "temperature": 249,
+   "discount": 74,
+   "price_value": null,
+   "was_price": null,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "74% off"
+   ],
+   "posted": "2026-11-27T14:29:03+00:00",
+   "snippet": "Amazon ¡Nueva entrega #22 de nuestra selección diaria de Amazon Segunda Mano (Reacondicionados) con rebajas desde el -74% hasta el -47%! Guía rápida de comp...",
+   "currency_code": "EUR",
+   "saving": null,
+   "saving_eur": null,
+   "first_seen": "2026-11-27T15:10:05.932799+00:00",
+   "alerted": false
+  },
+  {
    "id": "https://nl.pepper.com/aanbiedingen/apple-macbook-pro-142-inch-m6-12-core-32gb-ram-429839",
    "title": "Apple MacBook Pro 14,2-inch M6 12 core | 32GB RAM",
    "link": "https://nl.pepper.com/aanbiedingen/apple-macbook-pro-142-inch-m6-12-core-32gb-ram-429839",
@@ -1031,7 +1031,7 @@
    "category": "Elektronica",
    "source": "Pepper NL",
    "country": "Netherlands",
-   "temperature": 135,
+   "temperature": 196,
    "discount": null,
    "price_value": 2329.0,
    "was_price": null,
@@ -1171,7 +1171,7 @@
    "category": "Fashion & Accessories",
    "source": "Preisjaeger",
    "country": "Austria",
-   "temperature": 171,
+   "temperature": 172,
    "discount": 70,
    "price_value": null,
    "was_price": null,
@@ -2365,62 +2365,6 @@
    "saving": null,
    "saving_eur": null,
    "first_seen": "2026-11-24T15:58:27.744021+00:00",
-   "alerted": false
-  },
-  {
-   "id": "https://www.hotukdeals.com/deals/up-to-80-off-sale-extra-10-off-with-code-inc-adidas-asics-garmin-merrell-and-more-5045520",
-   "title": "Up to 80% Off sale + Extra 10% Off with code (inc. Adidas, Asics, Garmin, Merrell and more)",
-   "link": "https://www.hotukdeals.com/deals/up-to-80-off-sale-extra-10-off-with-code-inc-adidas-asics-garmin-merrell-and-more-5045520",
-   "price": "",
-   "currency": "£",
-   "merchant": "Start Fitness",
-   "image": "https://images.hotukdeals.com/threads/raw/EvlCX/5045520_1/re/150x150/qt/55/5045520_1.jpg",
-   "category": "Sports & Outdoors",
-   "source": "HotUKDeals",
-   "country": "UK",
-   "temperature": null,
-   "discount": 80,
-   "price_value": null,
-   "was_price": null,
-   "score": 30,
-   "watchlist": false,
-   "reasons": [
-    "80% off"
-   ],
-   "posted": "2026-11-24T14:48:05+00:00",
-   "snippet": "Start Fitness Save an extra 10% with code BF10 on Black Friday deals. Salomon Quest 4 GORE-TEX Mens Walking Boots - Brown £107.10 Saucony Guide 18 Womens Running Shoes - Black £75.60 adidas Essentials ClimaWarm 3 Stripes",
-   "currency_code": "GBP",
-   "saving": null,
-   "saving_eur": null,
-   "first_seen": "2026-11-24T14:52:36.481296+00:00",
-   "alerted": false
-  },
-  {
-   "id": "https://www.pepperdeals.se/deals/parfymklick-black-friday-upp-till-75-rabatt-21791",
-   "title": "ParfymKlick - Black Friday, upp till 75% rabatt",
-   "link": "https://www.pepperdeals.se/deals/parfymklick-black-friday-upp-till-75-rabatt-21791",
-   "price": "",
-   "currency": "kr",
-   "merchant": "",
-   "image": "https://static.pepperdeals.se/threads/raw/Ca93g/21791_1/re/150x150/qt/55/21791_1.jpg",
-   "category": "Hälsa & Skönhet",
-   "source": "Pepper Sweden",
-   "country": "Sweden",
-   "temperature": 112,
-   "discount": 75,
-   "price_value": null,
-   "was_price": null,
-   "score": 30,
-   "watchlist": false,
-   "reasons": [
-    "75% off"
-   ],
-   "posted": "2026-11-24T13:56:10+00:00",
-   "snippet": "Lyxiga Favoriter till Lägre Pris! Varumärkena högst upp på deras önskelista kan snart hamna i din varukorg. Vår stora märken Black...",
-   "currency_code": "SEK",
-   "saving": null,
-   "saving_eur": null,
-   "first_seen": "2026-11-24T14:52:36.481296+00:00",
    "alerted": false
   }
  ]
