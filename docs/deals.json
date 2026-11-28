@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T01:50:54.566698+00:00",
+ "updated": "2026-11-28T02:47:05.701820+00:00",
  "settings": {
   "app_name": "Oopsie",
   "language": "en",
@@ -1019,6 +1019,62 @@
    "saving": 51.0,
    "saving_eur": 51.0,
    "first_seen": "2026-11-25T16:45:35.714086+00:00",
+   "alerted": false
+  },
+  {
+   "id": "https://www.pepperdeals.se/deals/billig-teknik-black-week-rea-med-upp-till-over-70-rabatt-datorer-mobiler-surfplattor-mm-22106",
+   "title": "Billig Teknik - Black Week: Rea med upp till över 70% rabatt på datorer, mobiler, surfplattor m.m",
+   "link": "https://www.pepperdeals.se/deals/billig-teknik-black-week-rea-med-upp-till-over-70-rabatt-datorer-mobiler-surfplattor-mm-22106",
+   "price": "",
+   "currency": "kr",
+   "merchant": "Billig Teknik",
+   "image": "https://static.pepperdeals.se/threads/raw/LwzVy/22106_1/re/150x150/qt/55/22106_1.jpg",
+   "category": "Elektronik",
+   "source": "Pepper Sweden",
+   "country": "Sweden",
+   "temperature": null,
+   "discount": 70,
+   "price_value": null,
+   "was_price": null,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "70% off"
+   ],
+   "posted": "2026-11-28T02:03:48+00:00",
+   "snippet": "Billig Teknik Black Week och Black Friday är här! Hitta säsongens bästa erbjudanden live just nu. Vi har samlat veckans mest prisvärda deals på datorer, mobiler, surfplattor och mycket mer med upp till över 70% rabatt , ",
+   "currency_code": "SEK",
+   "saving": null,
+   "saving_eur": null,
+   "first_seen": "2026-11-28T02:47:05.701820+00:00",
+   "alerted": false
+  },
+  {
+   "id": "https://www.pepperdeals.se/deals/mm-sports-black-week-spara-upp-till-70-fri-frakt-22105",
+   "title": "MM SPORTS - Black Week: Spara upp till 70% + fri frakt",
+   "link": "https://www.pepperdeals.se/deals/mm-sports-black-week-spara-upp-till-70-fri-frakt-22105",
+   "price": "",
+   "currency": "kr",
+   "merchant": "MMSports",
+   "image": "https://static.pepperdeals.se/threads/raw/d2ZOa/22105_1/re/150x150/qt/55/22105_1.jpg",
+   "category": "Sport & Utomhusaktiviteter",
+   "source": "Pepper Sweden",
+   "country": "Sweden",
+   "temperature": null,
+   "discount": 70,
+   "price_value": null,
+   "was_price": null,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "70% off"
+   ],
+   "posted": "2026-11-28T01:56:24+00:00",
+   "snippet": "MMSports Under Black Week hittar du massor av fina erbjudanden på kosttillskott, proteinpulver, träningskläder, tillbehör och mycket mer. Passa på att bunkra upp med dina favoriter eller testa något nytt med upp till 70%",
+   "currency_code": "SEK",
+   "saving": null,
+   "saving_eur": null,
+   "first_seen": "2026-11-28T02:47:05.701820+00:00",
    "alerted": false
   },
   {
