@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T08:14:43.048500+00:00",
+ "updated": "2026-11-28T09:10:22.229302+00:00",
  "settings": {
   "app_name": "Oopsie",
   "language": "en",
@@ -121,34 +121,6 @@
    "saving": 1008.0,
    "saving_eur": 1008.0,
    "first_seen": "2026-11-26T19:57:33.798899+00:00",
-   "alerted": false
-  },
-  {
-   "id": "https://www.mydealz.de/deals/wpbakery-page-builder-fur-wordpress-get-up-to-70-off-wpbakery-lifetime-licenses-2881182",
-   "title": "WPBakery Page-Builder für WordPress – Get up to 70% OFF WPBakery lifetime licenses",
-   "link": "https://www.mydealz.de/deals/wpbakery-page-builder-fur-wordpress-get-up-to-70-off-wpbakery-lifetime-licenses-2881182",
-   "price": "349,30€",
-   "currency": "€",
-   "merchant": "",
-   "image": "https://static.mydealz.de/threads/raw/1rHLi/2881182_1/re/150x150/qt/55/2881182_1.jpg",
-   "category": "Elektronik",
-   "source": "mydealz",
-   "country": "Germany",
-   "temperature": null,
-   "discount": 70,
-   "price_value": 349.3,
-   "was_price": 1164.33,
-   "score": 30,
-   "watchlist": false,
-   "reasons": [
-    "70% off"
-   ],
-   "posted": "2026-11-25T07:54:35+00:00",
-   "snippet": "349,30€ Get up to 70% OFF WPBakery lifetime licenses WPBakery Page-Builder für WordPress 1-site license 10% OFF For use on a single website €62.10 /lifetime (Regular price €69) 5-sites license 30% OFF For freelancers man",
-   "currency_code": "EUR",
-   "saving": 815.03,
-   "saving_eur": 815.03,
-   "first_seen": "2026-11-25T08:40:27.173330+00:00",
    "alerted": false
   },
   {
@@ -892,7 +864,7 @@
    "category": "Moda",
    "source": "Pepper PL",
    "country": "Poland",
-   "temperature": 345,
+   "temperature": 457,
    "discount": 70,
    "price_value": 119.7,
    "was_price": 399.0,
@@ -900,7 +872,7 @@
    "watchlist": false,
    "reasons": [
     "70% off",
-    "345° hot"
+    "457° hot"
    ],
    "posted": "2026-11-28T07:15:50+00:00",
    "snippet": "119,70zł Tytułowe: <a href=\"https://eu.lee.com/pl-pl/shop/black-friday/mezczyzni/dzinsy/daren-regular-medium-stretch-jean-in-ernie-112376416.html?merchCategory=c17000...",
@@ -921,20 +893,21 @@
    "category": "Moda",
    "source": "Pepper PL",
    "country": "Poland",
-   "temperature": null,
+   "temperature": 340,
    "discount": 70,
    "price_value": 119.7,
    "was_price": 399.0,
-   "score": 30,
+   "score": 40,
    "watchlist": false,
    "reasons": [
-    "70% off"
+    "70% off",
+    "340° hot"
    ],
-   "posted": "2026-11-27T13:58:50+00:00",
-   "snippet": "119,70zł - Wrangler Sporo rozmiarów jeszcze dostępnych więc moża akurat ktoś się załapie: Tytułowe: Greensboro Straight Medium Stretch Jean in Fable Ponadto za 119,70 jeszcze modele: Texas Straight Toughlite Low Stretch ",
+   "posted": "2026-11-28T08:22:48+00:00",
+   "snippet": "119,70zł - Wrangler Sporo rozmiarów jeszcze dostępnych więc moża akurat ktoś się załapie: Tytułowe: <a href=\"https://eu.wrangler.com/pl-pl/shop/dzinsy/dzinsy-meskie-wg-sty...",
    "currency_code": "PLN",
    "saving": 279.3,
-   "saving_eur": 62.29,
+   "saving_eur": 62.51,
    "first_seen": "2026-11-27T14:04:05.041096+00:00",
    "alerted": false
   },
@@ -1048,6 +1021,34 @@
    "saving": 51.0,
    "saving_eur": 51.0,
    "first_seen": "2026-11-25T16:45:35.714086+00:00",
+   "alerted": false
+  },
+  {
+   "id": "https://www.pepperdeals.se/deals/coolstuff-black-friday-fynda-julklappar-prylar-upp-till-80-90-rabatt-fran-690-kr-21900",
+   "title": "Coolstuff Black Friday: Fynda julklappar & prylar upp till 80–90 % rabatt (från 6,90 kr)",
+   "link": "https://www.pepperdeals.se/deals/coolstuff-black-friday-fynda-julklappar-prylar-upp-till-80-90-rabatt-fran-690-kr-21900",
+   "price": "",
+   "currency": "kr",
+   "merchant": "Coolstuff",
+   "image": "https://static.pepperdeals.se/threads/raw/p34HF/21900_1/re/150x150/qt/55/21900_1.jpg",
+   "category": "Hem & Inredning",
+   "source": "Pepper Sweden",
+   "country": "Sweden",
+   "temperature": 139,
+   "discount": 90,
+   "price_value": null,
+   "was_price": null,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "90% off"
+   ],
+   "posted": "2026-11-26T08:34:50+00:00",
+   "snippet": "Coolstuff Coolstuff har dragit igång sin Black Week / Black Friday-rea med 480 rabatterade produkter och upp till 80–90 % rabatt på bl.a. julklappar, prylar, ljus, godis/...",
+   "currency_code": "SEK",
+   "saving": null,
+   "saving_eur": null,
+   "first_seen": "2026-11-28T09:10:22.229302+00:00",
    "alerted": false
   },
   {
@@ -2395,34 +2396,6 @@
    "saving_eur": null,
    "first_seen": "2026-11-25T09:53:29.351496+00:00",
    "alerted": true
-  },
-  {
-   "id": "https://www.pepper.pl/promocje/70-na-artykuly-przemyslowe-i-tekstylia-przy-zakupie-3-produktow-1399880",
-   "title": "-70% na artykuły przemysłowe i tekstylia przy zakupie 3 produktów",
-   "link": "https://www.pepper.pl/promocje/70-na-artykuly-przemyslowe-i-tekstylia-przy-zakupie-3-produktow-1399880",
-   "price": "",
-   "currency": "zł",
-   "merchant": "Biedronka",
-   "image": "https://static.pepper.pl/threads/raw/UEPMe/1399880_1/re/150x150/qt/55/1399880_1.jpg",
-   "category": "Usługi i subskrypcje",
-   "source": "Pepper PL",
-   "country": "Poland",
-   "temperature": null,
-   "discount": 70,
-   "price_value": null,
-   "was_price": null,
-   "score": 30,
-   "watchlist": false,
-   "reasons": [
-    "70% off"
-   ],
-   "posted": "2026-11-25T08:26:20+00:00",
-   "snippet": "Biedronka Oferta ważna w wybranych sklepach stacjonarnych sieci Biedronka. Po zeskanowaniu kodu QR wyświetla się lista sklepów. Limit rabatu 400zł na osobę.",
-   "currency_code": "PLN",
-   "saving": null,
-   "saving_eur": null,
-   "first_seen": "2026-11-25T08:40:27.173330+00:00",
-   "alerted": false
   }
  ]
 }
