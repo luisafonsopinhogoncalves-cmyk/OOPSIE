@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T09:10:22.229302+00:00",
+ "updated": "2026-11-28T10:00:48.634548+00:00",
  "settings": {
   "app_name": "Oopsie",
   "language": "en",
@@ -37,6 +37,34 @@
    "saving": 6335.01,
    "saving_eur": 6335.01,
    "first_seen": "2026-11-26T06:27:05.471854+00:00",
+   "alerted": false
+  },
+  {
+   "id": "https://www.dealabs.com/bons-plans/ecran-de-projection-100-sol-motorise-alr-85-pet-crystal-classic-videoprojecteur-ust-gain-085-3473528",
+   "title": "Écran de Projection 100\" Sol Motorisé ALR - 85% PET Crystal Classic, Vidéoprojecteur UST, gain 0.85",
+   "link": "https://www.dealabs.com/bons-plans/ecran-de-projection-100-sol-motorise-alr-85-pet-crystal-classic-videoprojecteur-ust-gain-085-3473528",
+   "price": "899,10€",
+   "currency": "€",
+   "merchant": "NothingProjector",
+   "image": "https://static-pepper.dealabs.com/threads/raw/4BtWm/3473528_1/re/150x150/qt/55/3473528_1.jpg",
+   "category": "High-Tech",
+   "source": "Dealabs",
+   "country": "France",
+   "temperature": null,
+   "discount": 85,
+   "price_value": 899.1,
+   "was_price": 5994.0,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "85% off"
+   ],
+   "posted": "2026-11-28T09:47:18+00:00",
+   "snippet": "899,10€ - NothingProjector Promos Black Friday jusqu'à -65% et Garantie Prix 60 jours. -5% en payant par virement Voici un écran de projection motorisé au sol (Pull-Up) ALR 100\" en PET, un peu moins cher que les fameux B",
+   "currency_code": "EUR",
+   "saving": 5094.9,
+   "saving_eur": 5094.9,
+   "first_seen": "2026-11-28T10:00:48.634548+00:00",
    "alerted": false
   },
   {
@@ -893,7 +921,7 @@
    "category": "Moda",
    "source": "Pepper PL",
    "country": "Poland",
-   "temperature": 340,
+   "temperature": 478,
    "discount": 70,
    "price_value": 119.7,
    "was_price": 399.0,
@@ -901,7 +929,7 @@
    "watchlist": false,
    "reasons": [
     "70% off",
-    "340° hot"
+    "478° hot"
    ],
    "posted": "2026-11-28T08:22:48+00:00",
    "snippet": "119,70zł - Wrangler Sporo rozmiarów jeszcze dostępnych więc moża akurat ktoś się załapie: Tytułowe: <a href=\"https://eu.wrangler.com/pl-pl/shop/dzinsy/dzinsy-meskie-wg-sty...",
@@ -2340,62 +2368,6 @@
    "saving_eur": null,
    "first_seen": "2026-11-25T10:53:19.049449+00:00",
    "alerted": false
-  },
-  {
-   "id": "https://www.hotukdeals.com/deals/up-to-70-off-dune-footwear-and-bags-extra-10-off-using-code-5045538",
-   "title": "Up to 70% off Dune Footwear and Bags + Extra 10% off Using Code",
-   "link": "https://www.hotukdeals.com/deals/up-to-70-off-dune-footwear-and-bags-extra-10-off-using-code-5045538",
-   "price": "",
-   "currency": "£",
-   "merchant": "Secret Sales",
-   "image": "https://images.hotukdeals.com/threads/raw/ntdBR/5045538_1/re/150x150/qt/55/5045538_1.jpg",
-   "category": "Fashion & Accessories",
-   "source": "HotUKDeals",
-   "country": "UK",
-   "temperature": 103,
-   "discount": 70,
-   "price_value": null,
-   "was_price": null,
-   "score": 30,
-   "watchlist": false,
-   "reasons": [
-    "70% off"
-   ],
-   "posted": "2026-11-25T09:12:22+00:00",
-   "snippet": "Secret Sales We have worked with Secret Sales to Receive this code Examples <a href=\"https://www.secretsales.com/2ce6516bf68f78-dune-dune-ladies-odele-chise...",
-   "currency_code": "GBP",
-   "saving": null,
-   "saving_eur": null,
-   "first_seen": "2026-11-25T09:53:29.351496+00:00",
-   "alerted": false
-  },
-  {
-   "id": "https://www.pepperdeals.se/rabattkoder/20-off-pa-valfri-biljett-21903",
-   "title": "Glitched 2027 - 20% off på valfri biljett",
-   "link": "https://www.pepperdeals.se/rabattkoder/20-off-pa-valfri-biljett-21903",
-   "price": "",
-   "currency": "kr",
-   "merchant": "",
-   "image": "https://www.pepperdeals.se/assets/img/default-voucher_ee5e5.svg",
-   "category": "Spel & Gaming",
-   "source": "Pepper Sweden",
-   "country": "Sweden",
-   "temperature": null,
-   "discount": 20,
-   "price_value": null,
-   "was_price": null,
-   "score": 70,
-   "watchlist": false,
-   "reasons": [
-    "mentions \"glitch\""
-   ],
-   "posted": "2026-11-25T09:25:24+00:00",
-   "snippet": "20% billigare biljett.",
-   "currency_code": "SEK",
-   "saving": null,
-   "saving_eur": null,
-   "first_seen": "2026-11-25T09:53:29.351496+00:00",
-   "alerted": true
   }
  ]
 }
