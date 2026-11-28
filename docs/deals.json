@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T00:18:56.940785+00:00",
+ "updated": "2026-11-28T01:50:54.566698+00:00",
  "settings": {
   "app_name": "Oopsie",
   "language": "en",
@@ -543,6 +543,34 @@
    "saving": 665.0,
    "saving_eur": 148.31,
    "first_seen": "2026-11-27T12:45:28.996629+00:00",
+   "alerted": false
+  },
+  {
+   "id": "https://www.dealabs.com/bons-plans/veste-impermeable-bosfield-iii-pour-homme-3473256",
+   "title": "Veste imperméable Bosfield III pour homme",
+   "link": "https://www.dealabs.com/bons-plans/veste-impermeable-bosfield-iii-pour-homme-3473256",
+   "price": "33,57€",
+   "currency": "€",
+   "merchant": "Regatta",
+   "image": "https://static-pepper.dealabs.com/threads/raw/W658C/3473256_1/re/150x150/qt/55/3473256_1.jpg",
+   "category": "Mode & Accessoires",
+   "source": "Dealabs",
+   "country": "France",
+   "temperature": null,
+   "discount": 80,
+   "price_value": 33.57,
+   "was_price": 167.85,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "80% off"
+   ],
+   "posted": "2026-11-28T01:13:43+00:00",
+   "snippet": "33,57€ - Regatta Super prix, presque -80% ! Tissu extensible en polyester Isotex 15000 • Imperméable et respirante • Coutures étanchées et finition durablement déperlante • Capuche amovible avec cordon de serrage • Manch",
+   "currency_code": "EUR",
+   "saving": 134.28,
+   "saving_eur": 134.28,
+   "first_seen": "2026-11-28T01:50:54.566698+00:00",
    "alerted": false
   },
   {
