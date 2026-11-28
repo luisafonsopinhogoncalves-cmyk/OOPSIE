@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T13:57:45.287309+00:00",
+ "updated": "2026-11-28T14:47:02.305066+00:00",
  "settings": {
   "app_name": "Oopsie",
   "language": "en",
@@ -500,14 +500,15 @@
    "category": "Moda",
    "source": "Pepper PL",
    "country": "Poland",
-   "temperature": 240,
+   "temperature": 342,
    "discount": 95,
    "price_value": 35.0,
    "was_price": 700.0,
-   "score": 30,
+   "score": 40,
    "watchlist": false,
    "reasons": [
-    "95% off"
+    "95% off",
+    "342° hot"
    ],
    "posted": "2026-11-28T13:46:12+00:00",
    "snippet": "35zł - Limango Materiał: - 95% wiskoza - 5% elastan W z...",
@@ -922,7 +923,7 @@
    "category": "Gaming",
    "source": "Pepper PL",
    "country": "Poland",
-   "temperature": 221,
+   "temperature": 272,
    "discount": 90,
    "price_value": 26.9,
    "was_price": 269.0,
@@ -1021,6 +1022,34 @@
    "saving": 51.0,
    "saving_eur": 51.0,
    "first_seen": "2026-11-25T16:45:35.714086+00:00",
+   "alerted": false
+  },
+  {
+   "id": "https://www.pepperdeals.se/deals/afound-black-friday-upp-till-85-rabatt-11-extra-med-koden-21930",
+   "title": "Afound Black Friday: upp till 85% rabatt + 11% extra med koden",
+   "link": "https://www.pepperdeals.se/deals/afound-black-friday-upp-till-85-rabatt-11-extra-med-koden-21930",
+   "price": "",
+   "currency": "kr",
+   "merchant": "Afound",
+   "image": "https://static.pepperdeals.se/threads/raw/uxPLp/21930_1/re/150x150/qt/55/21930_1.jpg",
+   "category": "Mode & Accessoarer",
+   "source": "Pepper Sweden",
+   "country": "Sweden",
+   "temperature": 132,
+   "discount": 85,
+   "price_value": null,
+   "was_price": null,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "85% off"
+   ],
+   "posted": "2026-11-26T08:33:38+00:00",
+   "snippet": "Afound Afound kör Black Friday med upp till 85% rabatt på mode och accessoarer från internationella märken, bland annat jackor, jeans, sneakers, boots, klänningar, ...",
+   "currency_code": "SEK",
+   "saving": null,
+   "saving_eur": null,
+   "first_seen": "2026-11-28T14:47:02.305066+00:00",
    "alerted": false
   },
   {
@@ -2226,63 +2255,6 @@
    "saving": null,
    "saving_eur": null,
    "first_seen": "2026-11-25T15:37:35.062440+00:00",
-   "alerted": false
-  },
-  {
-   "id": "https://www.chollometro.com/ofertas/seleccion-cazachollos-amazon-segunda-mano-20-descuentos-del-84-al-40-como-nuevo-y-muy-bueno-2089692",
-   "title": "Selección Cazachollos Amazon Segunda Mano 20 (Descuentos del 84% al 40% · Como Nuevo y Muy Bueno)",
-   "link": "https://www.chollometro.com/ofertas/seleccion-cazachollos-amazon-segunda-mano-20-descuentos-del-84-al-40-como-nuevo-y-muy-bueno-2089692",
-   "price": "",
-   "currency": "€",
-   "merchant": "Amazon",
-   "image": "https://static.chollometro.com/threads/raw/oEWIi/2089692_1/re/150x150/qt/55/2089692_1.jpg",
-   "category": "Hogar, vivienda y oficina",
-   "source": "Chollometro",
-   "country": "Spain",
-   "temperature": 324,
-   "discount": 84,
-   "price_value": null,
-   "was_price": null,
-   "score": 40,
-   "watchlist": false,
-   "reasons": [
-    "84% off",
-    "324° hot"
-   ],
-   "posted": "2026-11-25T15:13:38+00:00",
-   "snippet": "Amazon ¡Nueva entrega #20 de nuestra selección diaria de Amazon Segunda Mano (Reacondicionados) con rebajas desde el -84% hasta el -40%! Guía rápida de comp...",
-   "currency_code": "EUR",
-   "saving": null,
-   "saving_eur": null,
-   "first_seen": "2026-11-25T14:30:29.191583+00:00",
-   "alerted": false
-  },
-  {
-   "id": "https://nl.pepper.com/aanbiedingen/blackfriday-kortingen-op-streamingsdiensten-via-primevideo-428776",
-   "title": "BlackFriday kortingen op streamingsdiensten via PrimeVideo",
-   "link": "https://nl.pepper.com/aanbiedingen/blackfriday-kortingen-op-streamingsdiensten-via-primevideo-428776",
-   "price": "",
-   "currency": "€",
-   "merchant": "Prime video",
-   "image": "https://static.pepper.com/threads/raw/REhxP/428776_1/re/150x150/qt/55/428776_1.jpg",
-   "category": "Services & Contracten",
-   "source": "Pepper NL",
-   "country": "Netherlands",
-   "temperature": 100,
-   "discount": 75,
-   "price_value": null,
-   "was_price": null,
-   "score": 30,
-   "watchlist": false,
-   "reasons": [
-    "75% off"
-   ],
-   "posted": "2026-11-25T14:26:12+00:00",
-   "snippet": "Prime video Enkel voor wie al PrimeVideo heeft. Via PrimeVideo > Abonnementen krijg je nu tot 75% korting op andere streamingsdiensten, enkele keuzes: <br ...",
-   "currency_code": "EUR",
-   "saving": null,
-   "saving_eur": null,
-   "first_seen": "2026-11-25T14:30:29.191583+00:00",
    "alerted": false
   }
  ]
