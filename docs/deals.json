@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T10:00:48.634548+00:00",
+ "updated": "2026-11-28T10:59:28.371576+00:00",
  "settings": {
   "app_name": "Oopsie",
   "language": "en",
@@ -152,34 +152,6 @@
    "alerted": false
   },
   {
-   "id": "https://www.mydealz.de/deals/sofatutor-lernplattform-30-tage-gratis-80-danach-799mtl-premium-mitgliedschaft-24-monate-19176eur-2881299",
-   "title": "Sofatutor Lernplattform 30 Tage gratis -80% danach 7,99mtl. Premium Mitgliedschaft (24 Monate 191,76€)",
-   "link": "https://www.mydealz.de/deals/sofatutor-lernplattform-30-tage-gratis-80-danach-799mtl-premium-mitgliedschaft-24-monate-19176eur-2881299",
-   "price": "191,76€",
-   "currency": "€",
-   "merchant": "sofatutor",
-   "image": "https://static.mydealz.de/threads/raw/dNbgy/2881299_1/re/150x150/qt/55/2881299_1.jpg",
-   "category": "Dienstleistungen & Verträge",
-   "source": "mydealz",
-   "country": "Germany",
-   "temperature": null,
-   "discount": 80,
-   "price_value": 191.76,
-   "was_price": 958.8,
-   "score": 30,
-   "watchlist": false,
-   "reasons": [
-    "80% off"
-   ],
-   "posted": "2026-11-25T10:09:37+00:00",
-   "snippet": "191,76€ - sofatutor • Online-Lernhilfe • Erklärvideos • Übungen und Arbeitsblätter • Für alle Fächer und Klassen Zu beachten ist, dass der Preis nur bei einem 24-Monats-Abo zustande kommt und im voraus bezahlt werden mus",
-   "currency_code": "EUR",
-   "saving": 767.04,
-   "saving_eur": 767.04,
-   "first_seen": "2026-11-25T10:53:19.049449+00:00",
-   "alerted": false
-  },
-  {
    "id": "https://www.pepper.pl/promocje/blad-cenowy-miesiac-w-egipcie-za-100-zl-dla-2-osob-30-nocy-ocena-8610-booking-1402463",
    "title": "[Błąd cenowy?] Miesiąc w Egipcie za 100 zł dla 2 osób! 30 nocy, ocena 8,6/10 | Booking",
    "link": "https://www.pepper.pl/promocje/blad-cenowy-miesiac-w-egipcie-za-100-zl-dla-2-osob-30-nocy-ocena-8610-booking-1402463",
@@ -262,34 +234,6 @@
    "saving": 368.67,
    "saving_eur": 368.67,
    "first_seen": "2026-11-26T15:43:09.671733+00:00",
-   "alerted": false
-  },
-  {
-   "id": "https://www.mydealz.de/deals/fensterbanke-fassadenprofile-terrassenprofile-tischplatten-bis-80-2881303",
-   "title": "Fensterbänke, Fassadenprofile, Terrassenprofile, Tischplatten, z.B. Tischplatte Classic WERZALIT, E 100×60, 020 ontario",
-   "link": "https://www.mydealz.de/deals/fensterbanke-fassadenprofile-terrassenprofile-tischplatten-bis-80-2881303",
-   "price": "75,70€",
-   "currency": "€",
-   "merchant": "",
-   "image": "https://static.mydealz.de/threads/raw/iAV1J/2881303_1/re/150x150/qt/55/2881303_1.jpg",
-   "category": "Home & Living",
-   "source": "mydealz",
-   "country": "Germany",
-   "temperature": null,
-   "discount": 80,
-   "price_value": 75.7,
-   "was_price": 378.5,
-   "score": 30,
-   "watchlist": false,
-   "reasons": [
-    "80% off"
-   ],
-   "posted": "2026-11-25T10:13:33+00:00",
-   "snippet": "75,70€ WERZALIT Black Friday Week 2026 – bis zu 80 % Rabatt auf Tischplatten, Fensterbänke, Fassaden & Terrassen Zum Black Friday Sale von WERZALIT WERZALIT startet die Black Friday Week 2026 und bietet vom 23.11. bis ei",
-   "currency_code": "EUR",
-   "saving": 302.8,
-   "saving_eur": 302.8,
-   "first_seen": "2026-11-25T10:53:19.049449+00:00",
    "alerted": false
   },
   {
@@ -921,7 +865,7 @@
    "category": "Moda",
    "source": "Pepper PL",
    "country": "Poland",
-   "temperature": 478,
+   "temperature": 564,
    "discount": 70,
    "price_value": 119.7,
    "was_price": 399.0,
@@ -929,7 +873,7 @@
    "watchlist": false,
    "reasons": [
     "70% off",
-    "478° hot"
+    "564° hot"
    ],
    "posted": "2026-11-28T08:22:48+00:00",
    "snippet": "119,70zł - Wrangler Sporo rozmiarów jeszcze dostępnych więc moża akurat ktoś się załapie: Tytułowe: <a href=\"https://eu.wrangler.com/pl-pl/shop/dzinsy/dzinsy-meskie-wg-sty...",
@@ -1049,6 +993,34 @@
    "saving": 51.0,
    "saving_eur": 51.0,
    "first_seen": "2026-11-25T16:45:35.714086+00:00",
+   "alerted": false
+  },
+  {
+   "id": "https://www.preispirat.ch/?p=790175",
+   "title": "Black Friday bei WoG mit diversen Gaming-Angeboten, z.B. Ghost of Yotei Complete Edition für PS5",
+   "link": "https://www.preispirat.ch/black-friday-bei-wog-mit-diversen-gaming-angeboten-z-b-ghost-of-yotei-complete-edition-fuer-ps5/",
+   "price": "",
+   "currency": "CHF",
+   "merchant": "",
+   "image": "",
+   "category": "Gaming & Apps",
+   "source": "Preispirat",
+   "country": "Switzerland",
+   "temperature": null,
+   "discount": 74,
+   "price_value": null,
+   "was_price": null,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "74% off"
+   ],
+   "posted": "2026-11-28T10:30:18+00:00",
+   "snippet": "Bei WoG läuft aktuell die Black Friday Week mit diversen Angeboten auf Games, Filme, Figuren und vieles mehr. Unter anderem gibt es folgende Rabatte: Bis zu 74% Rabatt auf digitale Games 20% Rabatt auf Tabletop-Spiele un",
+   "currency_code": "CHF",
+   "saving": null,
+   "saving_eur": null,
+   "first_seen": "2026-11-28T10:59:28.371576+00:00",
    "alerted": false
   },
   {
@@ -2311,62 +2283,6 @@
    "saving": null,
    "saving_eur": null,
    "first_seen": "2026-11-25T11:54:17.403558+00:00",
-   "alerted": false
-  },
-  {
-   "id": "https://www.hotukdeals.com/deals/upto-70-off-clothing-and-shoe-lines-10-off-with-code-adidas-new-balance-nike-salomon-football-running-5046465",
-   "title": "Upto 70% off clothing and shoe lines + 10% off with code ( adidas / New Balance / Nike / Salomon / Football / Running / Vibram )",
-   "link": "https://www.hotukdeals.com/deals/upto-70-off-clothing-and-shoe-lines-10-off-with-code-adidas-new-balance-nike-salomon-football-running-5046465",
-   "price": "",
-   "currency": "£",
-   "merchant": "Lovell Sports",
-   "image": "https://images.hotukdeals.com/threads/raw/oPxoF/5046465_1/re/150x150/qt/55/5046465_1.jpg",
-   "category": "Fashion & Accessories",
-   "source": "HotUKDeals",
-   "country": "UK",
-   "temperature": 114,
-   "discount": 70,
-   "price_value": null,
-   "was_price": null,
-   "score": 30,
-   "watchlist": false,
-   "reasons": [
-    "70% off"
-   ],
-   "posted": "2026-11-25T22:03:51+00:00",
-   "snippet": "Lovell Sports Use our exclusive code HUKDLOV16NOV at Checkout to get an additional 10% off selected lines. Quick Links <li...",
-   "currency_code": "GBP",
-   "saving": null,
-   "saving_eur": null,
-   "first_seen": "2026-11-25T10:53:19.049449+00:00",
-   "alerted": false
-  },
-  {
-   "id": "https://nl.pepper.com/aanbiedingen/alleen-vandaag-tot-72-korting-op-new-balance-sale-oa-550-en-u2000-429246",
-   "title": "Alleen vandaag: Tot 72% korting op New Balance sale (o.a. 550 en U2000)",
-   "link": "https://nl.pepper.com/aanbiedingen/alleen-vandaag-tot-72-korting-op-new-balance-sale-oa-550-en-u2000-429246",
-   "price": "",
-   "currency": "€",
-   "merchant": "Lounge by Zalando",
-   "image": "https://static.pepper.com/threads/raw/rPFnC/429246_1/re/150x150/qt/55/429246_1.jpg",
-   "category": "Mode & Accessoires",
-   "source": "Pepper NL",
-   "country": "Netherlands",
-   "temperature": null,
-   "discount": 72,
-   "price_value": null,
-   "was_price": null,
-   "score": 30,
-   "watchlist": false,
-   "reasons": [
-    "72% off"
-   ],
-   "posted": "2026-11-25T09:58:23+00:00",
-   "snippet": "Lounge by Zalando Bij Lounge by Zalando loopt nu een New Balance-sale met sneakers tot 72% korting. Er zitten klassiekers tussen zoals de 550, maar ook de chunky U2000 en de retro U471. Bij de meeste modellen is er nog e",
-   "currency_code": "EUR",
-   "saving": null,
-   "saving_eur": null,
-   "first_seen": "2026-11-25T10:53:19.049449+00:00",
    "alerted": false
   }
  ]
