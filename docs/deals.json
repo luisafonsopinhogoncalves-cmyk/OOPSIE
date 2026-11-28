@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T12:50:34.985170+00:00",
+ "updated": "2026-11-28T13:57:45.287309+00:00",
  "settings": {
   "app_name": "Oopsie",
   "language": "en",
@@ -490,6 +490,34 @@
    "alerted": false
   },
   {
+   "id": "https://www.pepper.pl/promocje/dkny-majtki-meskie-bokserki-3-pary-w-kolorze-szarym-i-czarnym-1403794",
+   "title": "DKNY - Majtki męskie bokserki (3 pary) w kolorze szarym i czarnym",
+   "link": "https://www.pepper.pl/promocje/dkny-majtki-meskie-bokserki-3-pary-w-kolorze-szarym-i-czarnym-1403794",
+   "price": "35zł",
+   "currency": "zł",
+   "merchant": "Limango",
+   "image": "https://static.pepper.pl/threads/raw/fKWY6/1403794_1/re/150x150/qt/55/1403794_1.jpg",
+   "category": "Moda",
+   "source": "Pepper PL",
+   "country": "Poland",
+   "temperature": 240,
+   "discount": 95,
+   "price_value": 35.0,
+   "was_price": 700.0,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "95% off"
+   ],
+   "posted": "2026-11-28T13:46:12+00:00",
+   "snippet": "35zł - Limango Materiał: - 95% wiskoza - 5% elastan W z...",
+   "currency_code": "PLN",
+   "saving": 665.0,
+   "saving_eur": 148.84,
+   "first_seen": "2026-11-28T13:57:45.287309+00:00",
+   "alerted": false
+  },
+  {
    "id": "https://www.pepper.pl/promocje/black-friday-w-awaken-realms-etherfields-i-inne-gry-planszowe-nawet-70-taniej-1402474",
    "title": "Black Friday w Awaken Realms (Etherfields i inne gry planszowe nawet 70% taniej)",
    "link": "https://www.pepper.pl/promocje/black-friday-w-awaken-realms-etherfields-i-inne-gry-planszowe-nawet-70-taniej-1402474",
@@ -881,6 +909,34 @@
    "saving": 51.31,
    "saving_eur": 61.26,
    "first_seen": "2026-11-27T12:45:28.996629+00:00",
+   "alerted": false
+  },
+  {
+   "id": "https://www.pepper.pl/promocje/hogwarts-legacy-90-na-steam-1398807",
+   "title": "Hogwart's Legacy -90% na steam",
+   "link": "https://www.pepper.pl/promocje/hogwarts-legacy-90-na-steam-1398807",
+   "price": "26,90zł",
+   "currency": "zł",
+   "merchant": "Steam",
+   "image": "https://static.pepper.pl/threads/raw/sTObK/1398807_1/re/150x150/qt/55/1398807_1.jpg",
+   "category": "Gaming",
+   "source": "Pepper PL",
+   "country": "Poland",
+   "temperature": 221,
+   "discount": 90,
+   "price_value": 26.9,
+   "was_price": 269.0,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "90% off"
+   ],
+   "posted": "2026-11-28T13:40:47+00:00",
+   "snippet": "26,90zł - Steam Z DLC wychodzi 30.9 zł Opis steam: Dziedzictwo Hogwartu” to wciągająca fabularna gra akcji z otwartym światem. Przejmij kontrolę i bądź w ...",
+   "currency_code": "PLN",
+   "saving": 242.1,
+   "saving_eur": 54.19,
+   "first_seen": "2026-11-28T13:57:45.287309+00:00",
    "alerted": false
   },
   {
@@ -2227,34 +2283,6 @@
    "saving": null,
    "saving_eur": null,
    "first_seen": "2026-11-25T14:30:29.191583+00:00",
-   "alerted": false
-  },
-  {
-   "id": "https://www.pepperdeals.se/deals/afound-black-friday-upp-till-85-rabatt-11-extra-med-koden-21930",
-   "title": "Afound Black Friday: upp till 85% rabatt + 11% extra med koden",
-   "link": "https://www.pepperdeals.se/deals/afound-black-friday-upp-till-85-rabatt-11-extra-med-koden-21930",
-   "price": "",
-   "currency": "kr",
-   "merchant": "Afound",
-   "image": "https://static.pepperdeals.se/threads/raw/uxPLp/21930_1/re/150x150/qt/55/21930_1.jpg",
-   "category": "Mode & Accessoarer",
-   "source": "Pepper Sweden",
-   "country": "Sweden",
-   "temperature": 132,
-   "discount": 85,
-   "price_value": null,
-   "was_price": null,
-   "score": 30,
-   "watchlist": false,
-   "reasons": [
-    "85% off"
-   ],
-   "posted": "2026-11-26T08:33:38+00:00",
-   "snippet": "Afound Afound kör Black Friday med upp till 85% rabatt på mode och accessoarer från internationella märken, bland annat jackor, jeans, sneakers, boots, klänningar, ...",
-   "currency_code": "SEK",
-   "saving": null,
-   "saving_eur": null,
-   "first_seen": "2026-11-25T13:06:56.671909+00:00",
    "alerted": false
   }
  ]
