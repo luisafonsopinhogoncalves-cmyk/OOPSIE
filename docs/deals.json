@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T11:48:17.886600+00:00",
+ "updated": "2026-11-28T12:50:34.985170+00:00",
  "settings": {
   "app_name": "Oopsie",
   "language": "en",
@@ -770,34 +770,6 @@
    "alerted": false
   },
   {
-   "id": "https://www.hotukdeals.com/deals/charlotte-tilbury-70-off-perfumes-5046540",
-   "title": "Charlotte Tilbury 70% off Perfume Sale - e.g. Star Confidence, 50ml",
-   "link": "https://www.hotukdeals.com/deals/charlotte-tilbury-70-off-perfumes-5046540",
-   "price": "£24",
-   "currency": "£",
-   "merchant": "Charlotte Tilbury",
-   "image": "https://images.hotukdeals.com/threads/raw/lRJtM/5046540_1/re/150x150/qt/55/5046540_1.jpg",
-   "category": "Health & Beauty",
-   "source": "HotUKDeals",
-   "country": "UK",
-   "temperature": 145,
-   "discount": 70,
-   "price_value": 24.0,
-   "was_price": 80.0,
-   "score": 30,
-   "watchlist": false,
-   "reasons": [
-    "70% off"
-   ],
-   "posted": "2026-11-25T16:29:54+00:00",
-   "snippet": "£24 - Charlotte Tilbury 70% OFF Charlotte Tilbury Fragrances on the official site - These will sell out! ⚡️ ad: Charlotte Tilbury site <a href=\"https://www.cha...",
-   "currency_code": "GBP",
-   "saving": 56.0,
-   "saving_eur": 66.88,
-   "first_seen": "2026-11-25T11:54:17.403558+00:00",
-   "alerted": false
-  },
-  {
    "id": "https://www.dealabs.com/bons-plans/isolat-de-proteine-de-soja-hsn-2kg-76-de-proteines-3469454",
    "title": "Isolat de Protéine de Soja HSN - 2 Kg - 76% de protéines",
    "link": "https://www.dealabs.com/bons-plans/isolat-de-proteine-de-soja-hsn-2kg-76-de-proteines-3469454",
@@ -993,6 +965,62 @@
    "saving": 51.0,
    "saving_eur": 51.0,
    "first_seen": "2026-11-25T16:45:35.714086+00:00",
+   "alerted": false
+  },
+  {
+   "id": "https://www.preisjaeger.at/deals/tradingview-cyber-monday-bis-zu-80-rabatt-auf-jahresabos-1-gratismonat-13-monate-373664",
+   "title": "TradingView Cyber Monday: bis zu 80% Rabatt auf Jahresabos + 1 Gratismonat (13 Monate)",
+   "link": "https://www.preisjaeger.at/deals/tradingview-cyber-monday-bis-zu-80-rabatt-auf-jahresabos-1-gratismonat-13-monate-373664",
+   "price": "",
+   "currency": "€",
+   "merchant": "",
+   "image": "https://static.preisjaeger.at/threads/raw/73g6Q/373664_1/re/150x150/qt/55/373664_1.jpg",
+   "category": "Versicherung & Finanzen",
+   "source": "Preisjaeger",
+   "country": "Austria",
+   "temperature": null,
+   "discount": 80,
+   "price_value": null,
+   "was_price": null,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "80% off"
+   ],
+   "posted": "2026-11-28T12:42:59+00:00",
+   "snippet": "Der Cyber Monday Sale bei TradingView läuft: bis zu 80% Rabatt auf Jahresabos, dazu 1 Extramonat gratis (13 Monate zum Preis von 12). Rabatte: Essential: 30% Plus: 40% Premium: 70% (laut TradingView \"das beste Angebot\") ",
+   "currency_code": "EUR",
+   "saving": null,
+   "saving_eur": null,
+   "first_seen": "2026-11-28T12:50:34.985170+00:00",
+   "alerted": false
+  },
+  {
+   "id": "https://www.pepperdeals.se/deals/optimalprint-skapa-personliga-fotopresenter-70-rabatt-30-pa-klader-rabattkoder-i-deal-22112",
+   "title": "Optimalprint - Skapa personliga fotopresenter 70% rabatt, 30% på kläder (rabattkoder i deal)",
+   "link": "https://www.pepperdeals.se/deals/optimalprint-skapa-personliga-fotopresenter-70-rabatt-30-pa-klader-rabattkoder-i-deal-22112",
+   "price": "",
+   "currency": "kr",
+   "merchant": "Optimalprint",
+   "image": "https://static.pepperdeals.se/threads/raw/qI9hk/22112_1/re/150x150/qt/55/22112_1.jpg",
+   "category": "Familj & Barn",
+   "source": "Pepper Sweden",
+   "country": "Sweden",
+   "temperature": null,
+   "discount": 70,
+   "price_value": null,
+   "was_price": null,
+   "score": 30,
+   "watchlist": false,
+   "reasons": [
+    "70% off"
+   ],
+   "posted": "2026-11-28T11:47:42+00:00",
+   "snippet": "Optimalprint Skapa personliga fotopresenter med 70% rabatt och kläder 30% rabatt! Gör dina finaste minnen till något extra! Hos Optimalprint hittar du allt från fotoböcker, kalendrar och personliga kort till canvastavlor",
+   "currency_code": "SEK",
+   "saving": null,
+   "saving_eur": null,
+   "first_seen": "2026-11-28T12:50:34.985170+00:00",
    "alerted": false
   },
   {
@@ -2227,62 +2255,6 @@
    "saving": null,
    "saving_eur": null,
    "first_seen": "2026-11-25T13:06:56.671909+00:00",
-   "alerted": false
-  },
-  {
-   "id": "https://www.hotukdeals.com/deals/up-to-80-off-partywear-all-under-ps50-extra-10-off-with-code-5046560",
-   "title": "Up to 80% off Partywear all Under £50 + Extra 10% off with Code",
-   "link": "https://www.hotukdeals.com/deals/up-to-80-off-partywear-all-under-ps50-extra-10-off-with-code-5046560",
-   "price": "",
-   "currency": "£",
-   "merchant": "Secret Sales",
-   "image": "https://images.hotukdeals.com/threads/raw/mLgV0/5046560_1/re/150x150/qt/55/5046560_1.jpg",
-   "category": "Fashion & Accessories",
-   "source": "HotUKDeals",
-   "country": "UK",
-   "temperature": 111,
-   "discount": 80,
-   "price_value": null,
-   "was_price": null,
-   "score": 30,
-   "watchlist": false,
-   "reasons": [
-    "80% off"
-   ],
-   "posted": "2026-11-26T10:51:19+00:00",
-   "snippet": "Secret Sales We have worked with Secret Sales to receive this code Examples <a href=\"https://www.secretsales.com/2d75daee239cc6-scott-scott...",
-   "currency_code": "GBP",
-   "saving": null,
-   "saving_eur": null,
-   "first_seen": "2026-11-25T11:54:17.403558+00:00",
-   "alerted": false
-  },
-  {
-   "id": "https://www.hotukdeals.com/deals/upto-75-off-selected-gym-clothing-lines-and-activewear-plus-an-additional-10-off-selected-lines-with-code-5046539",
-   "title": "Upto 75% off selected Gym clothing lines and Activewear plus an additional 10% off selected lines with code",
-   "link": "https://www.hotukdeals.com/deals/upto-75-off-selected-gym-clothing-lines-and-activewear-plus-an-additional-10-off-selected-lines-with-code-5046539",
-   "price": "",
-   "currency": "£",
-   "merchant": "Gym King",
-   "image": "https://images.hotukdeals.com/threads/raw/lF4VG/5046539_1/re/150x150/qt/55/5046539_1.jpg",
-   "category": "Fashion & Accessories",
-   "source": "HotUKDeals",
-   "country": "UK",
-   "temperature": 108,
-   "discount": 75,
-   "price_value": null,
-   "was_price": null,
-   "score": 30,
-   "watchlist": false,
-   "reasons": [
-    "75% off"
-   ],
-   "posted": "2026-11-26T10:43:42+00:00",
-   "snippet": "Gym King Use code DROP10 to get another 10% off selected lines. Selected Deals <a href=\"https://thegymking.com/products/gym-king-ju...",
-   "currency_code": "GBP",
-   "saving": null,
-   "saving_eur": null,
-   "first_seen": "2026-11-25T11:54:17.403558+00:00",
    "alerted": false
   }
  ]
